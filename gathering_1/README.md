@@ -1,6 +1,6 @@
 # Getting Started
-### **Materials:** Computer, microcontroller (arduino, feather, etc.), USB to micro-USB cable.
-### **Objective:** Communicate with your microcontroller and have it respond, first on your computer and then by turning on an LED.
+### Materials: Computer, microcontroller (arduino, feather, etc.), USB to micro-USB cable.
+### Objective: Communicate with your microcontroller and have it respond, first on your computer and then by turning on an LED.
 
 #### Step 1: How to get set up
 https://learn.adafruit.com/adafruit-feather-m0-adalogger/setup
