@@ -9,4 +9,4 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
 #### Step 2: Getting started
 1. On the arduino IDE select Help then Getting Started otherwise use: https://www.arduino.cc/en/Guide/ArduinoUno 
 2. Program: How do I code? What is the IDE vocab? What do the functions do?
-- On the arduino IDE select Help then Reference otherwise use: https://www.arduino.cc/reference/en/ 
+   - On the arduino IDE select Help then Reference otherwise use: https://www.arduino.cc/reference/en/ 
