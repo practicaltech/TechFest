@@ -1,0 +1,1 @@
+int alpha = A0;
