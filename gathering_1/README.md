@@ -11,5 +11,5 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
 2. Program: How do I code? What is the IDE vocab? What do the functions do?
    - On the arduino IDE select Help then Reference otherwise use: https://www.arduino.cc/reference/en/ 
 3. 'Hello World'
-    a. Open the Arduino IDE
-    b. Within the curly brackets of *void setup()* type
+    1. Open the Arduino IDE
+    2. Within the curly brackets of *void setup()* type
