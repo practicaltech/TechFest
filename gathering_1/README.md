@@ -19,3 +19,4 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
        2. sometimes your program starts running before your microcontroller has had a chance to establish communication with your computer.     Therefore, try typing *delay(3000);* before your print command and try again.
        3. An alternative solution is to include a conditional statement that makes your program wait until communication has been established.
        4. Example code for this exercise can be found in the file *Hello_World.io*.
+4. 'Blink'
