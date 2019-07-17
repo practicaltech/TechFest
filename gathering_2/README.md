@@ -4,6 +4,7 @@
 
 #### Step 1: Light up an LED using a 9v battery, wires, a breadboard, and an LED.
 1. Breadboard: A way to prototype circuits without soldering.
+![518c0b34ce395fea62000002](https://user-images.githubusercontent.com/52707386/61340000-405a5a00-a7f5-11e9-8d42-524e5a13269d.jpg)
 https://learn.adafruit.com/adafruit-feather-m0-adalogger/setup
 There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Follow the first ‘Arduino IDE setup’, download the arduino software. Then, for the specific drivers go to the next page of the guide 'Using with Arduino IDE.' There is also an arrow at the end of the page that will take you to it. Make sure to go through the setup **step by step** to the end of each page.
 
