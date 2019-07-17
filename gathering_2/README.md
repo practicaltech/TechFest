@@ -1,7 +1,8 @@
 # Prototyping materials and electronics
 ### Materials: 9v battery, computer, resistors of various resistances, breadboard, multimeter, safety glasses, LEDs, microcontroller (arduino, feather, etc.), USB to micro-USB cable.
 #### Objective: Getting familiar with components regularly used in circuits and the testing equipment used to check them.
-
+If you need help with circuit building, choosing resistors, and so forth for this particular project, the link below is very helpful.
+https://learn.adafruit.com/adafruit-arduino-lesson-2-leds
 1. Light up an LED using a 9v battery, wires, a breadboard, and an LED.
    1. Breadboard: A way to prototype circuits without soldering.
 ![518c0b34ce395fea62000002](https://user-images.githubusercontent.com/52707386/61340000-405a5a00-a7f5-11e9-8d42-524e5a13269d.jpg)
