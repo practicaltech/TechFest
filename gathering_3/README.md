@@ -5,6 +5,7 @@
    1. Recreate LED circuit with your board as the power supply.
 <p align="center">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png">
+   <br><br>
 <b>*Fritzing*</b><br>
 </p>  
 
