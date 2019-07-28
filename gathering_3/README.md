@@ -36,7 +36,7 @@
          ![image](https://user-images.githubusercontent.com/52707386/62011787-d6657d00-b131-11e9-9c7a-a764c5bc6caa.png)
 4. Anatomy of a resistor and a potentiometer (pot)
    1. What’s inside a resistor, a potentiometer?
-   <p align="center">
+<p align="center">
   <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
    ![image](https://user-images.githubusercontent.com/52707386/62011802-19275500-b132-11e9-9bf4-4bc812a81c8e.png)
