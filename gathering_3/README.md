@@ -3,6 +3,9 @@
 #### Objective: Learn about how power is sent, modulated, and interpreted by microcontrollers and electrical components.
 1. Dim and brighten LED with ‘analog’ control.
    1. Recreate LED circuit with your board as the power supply.
+<p align="center">
+  <img width="200" height="600" src="https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png">
+</p>  
          ![image](https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png)
 *Fritzing*
    2. Use analogWrite instead of digitalWrite to turn on the LED
