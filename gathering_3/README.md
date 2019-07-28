@@ -63,5 +63,12 @@
       2. Read the voltage across the pot with analogRead
          1. What is the range of input? Is this different than your analogWrite range? Hint: bits & resolution.
       3. Read the voltage across the pot with digitalRead
-      
-
+         1. How are these values related to the analog read values? How are they different?
+   4. Use your pot circuit analog readings to control the brightness of your LED
+      1. Then, use a digital reading to control whether the LED is on or off
+   5. Try using the potentiometer to increase and decrease delays in your program.
+5. A button as a switch for on or off, analogous to a digital signal
+   1. Make a circuit with your board and a button, switch, or, two unconnected wires
+      1. Read the digital output of this circuit
+         1. What does your microcontroller read when the circuit is closed (wires connected)? When its open (gap in circuit)?
+      2. What does your microcontroller read when the circuit is closed (wires connected)? When its open (gap in circuit)?
