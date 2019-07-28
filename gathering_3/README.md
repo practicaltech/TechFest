@@ -4,7 +4,7 @@
 1. Dim and brighten LED with ‘analog’ control.
    1. Recreate LED circuit with your board as the power supply.
 <p align="center">
-  <img width="500" height="600" src="https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png">
 </p>  
          ![image](https://user-images.githubusercontent.com/52707386/61998579-04ca5600-b067-11e9-8cd6-5c3d1ca73482.png)
 *Fritzing*
