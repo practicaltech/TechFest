@@ -37,10 +37,9 @@
 4. Anatomy of a resistor and a potentiometer (pot)
    1. What’s inside a resistor, a potentiometer?
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/52707386/62011802-19275500-b132-11e9-9bf4-4bc812a81c8e.png">
-</p>
-   ![image](https://user-images.githubusercontent.com/52707386/62011802-19275500-b132-11e9-9bf4-4bc812a81c8e.png)
-   
+  <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/62011802-19275500-b132-11e9-9bf4-4bc812a81c8e.png">
+   <Inside a resisotr - Spark fun>
+</p>  
    Inside a resisotr - Spark fun
    
    ![image](https://user-images.githubusercontent.com/52707386/62011816-525fc500-b132-11e9-8da9-c7ee6b88a0ba.png)
