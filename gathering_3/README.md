@@ -48,6 +48,7 @@
 
 <p align="center">
   <img width="500" height="350" src="https://user-images.githubusercontent.com/52707386/62011816-525fc500-b132-11e9-8da9-c7ee6b88a0ba.png">
+      <br><br>
 <b>Potentiometer diagram - Build Electronic Circuits</b><br>
 </p>  
    
