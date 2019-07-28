@@ -44,7 +44,7 @@
    ![image](https://user-images.githubusercontent.com/52707386/62011816-525fc500-b132-11e9-8da9-c7ee6b88a0ba.png)
    Potentiometer diagram - Build Electronic Circuits
    
-      1. How is the pot similar to a resistor, how is it different?
+   1. How is the pot similar to a resistor, how is it different?
          1. Hint: the resistors on the left increase in resistance as you go down. On the potentiometer on the right, if you pass power from the first to the second pin (pins left to right), the voltage would decrease as you turn the potentiometer clockwise.
    2. Make a circuit with an LED and connect the pot to the LED.
       1. Make sure the resistance range is suitable for your LED and board (V=IR) (different pots have different resistance ranges). When in doubt, go for a greater resistance.
