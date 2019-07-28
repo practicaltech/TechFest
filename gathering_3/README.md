@@ -42,9 +42,10 @@
    1. What’s inside a resistor, a potentiometer?
 <p align="center">
   <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/62011802-19275500-b132-11e9-9bf4-4bc812a81c8e.png">
+      <br><br>
+<b>Inside a resisotr - Spark fun</b><br>
 </p>  
- Inside a resisotr - Spark fun
-   
+ 
    ![image](https://user-images.githubusercontent.com/52707386/62011816-525fc500-b132-11e9-8da9-c7ee6b88a0ba.png)
    Potentiometer diagram - Build Electronic Circuits
    
