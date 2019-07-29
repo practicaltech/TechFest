@@ -48,6 +48,10 @@ link to cheap oscilloscope
    3. LEDs or Light Emitting Diodes are unidirectional components that produce light when current is supplied in the (+) to (-) direction.
                <p align="center">
                <img align="center" width="640" height="200" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
-               <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg</b></p>
+               <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg)</b></p>
    <p align="center"><b><i>Note:</b></i> In the case of LEDs the cathode is (-) and the anode is (+)!!</p>
+   <br>
    4. Can you control multiple LEDs using less OUTPUT pins than LEDs? Try it out!
+      1. Directionality of components is important in electrical systems as many components placed one way behave differently than when flipped 180°. This also allows for creative use of components.
+         1. Note: If enough voltage is supplied in the opposite direction, the LED may break down and allow current to pass. LEDs usually have a breakdown voltage of about 50v.
+      2. If you get stuck, check out [charlieplexing](https://www.instructables.com/id/Charlieplexing-LEDs--The-theory/).
