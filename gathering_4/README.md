@@ -23,7 +23,7 @@ Note: Always check to make sure the component you are using is appropriate for t
       1. Build a circuit following the schematic below:
       <p align="center">
       <img src="https://user-images.githubusercontent.com/52707386/62070271-0161d680-b1ef-11e9-856d-8e03272816cd.png"> 
-      <br><br>
+      <br>
       <b>LED in simple RC circuit - bdevore, Easy EDA</b><br>
       <br>
       </p>
