@@ -21,6 +21,7 @@ Output pin -> LED -> Input pin ->  pot -> ground
    1. Temporary energy storage and supply and signal smoothing
 Note: Always check to make sure the component you are using is appropriate for the amount of power you’re passing through it. In our case these ceramic capacitors are not rated but should be able to handle 3-5v.
       1. Build a circuit following the schematic below:  
+ 
       <p align="center">
       <img src="https://user-images.githubusercontent.com/52707386/62070271-0161d680-b1ef-11e9-856d-8e03272816cd.png"> 
       <br><br>
