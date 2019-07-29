@@ -5,3 +5,12 @@
   ### 'Each one, teach one'
 
 Thom Maughan and Gabriel M. Santos E.
+
+Acknowledgements
+MBARI
+EE Tech Lab
+Interns
+Staff
+SparkFun
+Adafruit
+Arduino
