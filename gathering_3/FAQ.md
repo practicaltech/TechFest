@@ -10,3 +10,10 @@ Q: What’s the difference between a resistor and a converter (something that co
 Q: What metal are the bread boards/ other components made of and does that matter?  
 
 Q: How do batteries convert chemical to electrical energy?  
+
+Q: Why does it matter to connect resistors in parallel or series?
+
+Q: Why do the number of coils in a resistor matter?
+
+Q: Why do all the component parts end in -or?
+A: This suffix is added to the end of a verb to make an agent noun! https://en.wiktionary.org/wiki/-tor#Latin 
