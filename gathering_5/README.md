@@ -10,9 +10,10 @@ link to cheap oscilloscope
     2. Note: direct current travels in one direction while alternating current switches back and forth. If you were to draw a voltage over time graph (as you would see on an oscilloscope) DC would be seen as a horizontal line at a certain voltage while AC would look like a sine wave moving between a negative and a positive number.
           <p>
           <img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/52707386/62074492-ca43f300-b1f7-11e9-82b2-dd6313bd6f69.png">
-          <b align="center"> Alternating (left) and Direct (right) current on voltage over time graph - SparkFun </b>
+          <b align="center"> Alternating current on amplitude (change in voltage) over time graph - SparkFun </b>
+            <br>
           <img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
-<b align="center"> Alternating (left) and Direct (right) current on voltage over time graph - SparkFun </b>
+<b align="center"> Direct current on voltage over time graph - SparkFun </b>
           
            
 3. Does your board output AC or DC?
