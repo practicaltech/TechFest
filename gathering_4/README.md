@@ -27,8 +27,8 @@ Note: Always check to make sure the component you are using is appropriate for t
      <b>LED in simple RC circuit - bdevore, Easy EDA</b><br>
   <br><br>
 </p>
-      2. Instead of using a 9v battery, use your featherboard to provide power. Play around with the resistance values. Leave two wires unconnected to act as a switch. Connect them to each other to ‘close’ the circuit and disconnect them to ‘open’ the circuit. Look at how the LED responds. Note: use a red LED for best results. If an oscilloscope is available look at what the capacitor does to the voltage over time wave as you open and close the circuit.
-      3. Keep the wires acting as a switch connected and try blinking the LED as you did in ‘Blink.’
+      1. Instead of using a 9v battery, use your featherboard to provide power. Play around with the resistance values. Leave two wires unconnected to act as a switch. Connect them to each other to ‘close’ the circuit and disconnect them to ‘open’ the circuit. Look at how the LED responds. Note: use a red LED for best results. If an oscilloscope is available look at what the capacitor does to the voltage over time wave as you open and close the circuit.
+      2. Keep the wires acting as a switch connected and try blinking the LED as you did in ‘Blink.’
          1. What do you observe?
          2. Modulate the blink speed by changing the delays.
             1. Visually, Is the blinking of the LED any different to when it wasn’t connected to a capacitor?
