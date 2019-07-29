@@ -32,5 +32,14 @@ link to cheap oscilloscope
                <p>
                <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62077737-b56b5d80-b1ff-11e9-95b4-83fcf8486594.jpg">
                <br>
+               <b align="center"> Capacitors in parallel vs. in series - [Circuit Digest](https://circuitdigest.com/tutorial/capacitor-in-series-and-parallel-circuits)</b>
+               <br>
    4. Inside a capacitor
-      1. A capacitor has two metal plates and an insulator in between which is known as a dielectric. The plates store charge through a segregation of electrons (many electrons on one plate and fewer on the other). 
+      1. A capacitor has two metal plates and an insulator in between which is known as a dielectric. The plates store charge through a segregation of electrons (many electrons on one plate and fewer on the other).
+               <p>
+               <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png">
+               <br>
+               <b align="center"> Diagram of a capacitor storing charge - [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all)</b>
+               <br>
+      2. When power is no longer supplied, the charge is released. If the capacitor is overloaded, the dielectric breaks down and the charge is released. The clouds and earth form a natural capacitor with the space in between acting as the dielectric. When enough charge is built up, the dielectric breaks down and lightning is produced
+                  
