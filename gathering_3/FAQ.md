@@ -1,4 +1,4 @@
-Q: Why are we using LED rather than a different type of light bulb? Why do different colors have a different resistance?
+Q: Why are we using LED rather than a different type of light bulb? Why do different colors have a different resistance?  
 A: LEDs are cheap, relatively straightforward, unidirectional (usually), have current limits, and offer feedback when we pass current through them. These attributes make the LED a foundational component which we can play around with and learn, without the risk of damaging a more expensive component or system. Some examples of how an LED might be beneficial for learning: 
   1. Turning on an LED on your board -> you are successfully communicating with the desired pin on your board
   2. Turning on an LED in a circuit (and keeping it on) -> you supplied an adequate amount of current to your LED in the correct direction
