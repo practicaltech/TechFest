@@ -12,4 +12,7 @@ link to cheap oscilloscope
       <img align="left" width="330" height="300" src="https://user-images.githubusercontent.com/52707386/62074492-ca43f300-b1f7-11e9-82b2-dd6313bd6f69.png">
       <img align="right" width="330" height="300" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
     </p>
+      <b align="left"> Direct current on voltage over time graph - SparkFun</b>
+      <b align="right"> Alternating current on voltage over time graph - SparkFun</b>
+    </p>
 
