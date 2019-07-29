@@ -4,8 +4,8 @@
 ```
 link to cheap oscilloscope
 ```
-1. Alternating current (AC) vs. Direct current (DC), a.k.a. the electric battle between Tesla and Edison. What is my board using? 
-  1. Use your multimeter to measure the voltage your board is outputting from any pin previously designated as OUTPUT on the IDE. Alternatively, use the pins labeled USB or 3.3V. If available, confirm with an oscilloscope. 
+1. Alternating current (AC) vs. Direct current (DC), a.k.a. the electric battle between Tesla and Edison. What is my board using?
+  1. Use your multimeter to measure the voltage your board is outputting from any pin previously designated as OUTPUT on the IDE. Alternatively, use the pins labeled USB or 3.3V. If available, confirm with an oscilloscope.
     1. Is the voltage positive or negative? Does the value change by more than a volt?
     2. Note: direct current travels in one direction while alternating current switches back and forth. If you were to draw a voltage over time graph (as you would see on an oscilloscope) DC would be seen as a horizontal line at a certain voltage while AC would look like a sine wave moving between a negative and a positive number.
             <p>
