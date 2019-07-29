@@ -9,4 +9,5 @@ link to cheap oscilloscope (inlude budget for kits in github)
          <p align="center">
          <img src="https://user-images.githubusercontent.com/52707386/62084888-29613200-b20f-11e9-9f16-f36cc130fb55.png">
          </p>
-         <p align="center">Circuit made on [CircuitLab](https://www.circuitlab.com/) </p>
+         <p align="center"> Circuit made on [CircuitLab](https://www.circuitlab.com/) </p>
+         <br>
