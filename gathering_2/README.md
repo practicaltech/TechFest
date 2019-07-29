@@ -15,5 +15,5 @@ LED = Light Emitting Diode
    2. Measure the voltage across the LED with a voltmeter throughout the experiment. A voltmeter is used to measure voltage across two points. To use the voltmeter: set the dial to V and touch the positive lead to the positive lead (cathode) of the LED and the negative lead to the negative lead (anode) of the LED.
    3. Connect the LED to the battery while keeping the voltmeter leads connected to the LED (use a buddy or alligator clips).
    <p align="left">
-  <img width="150" height="150" src="https://user-images.githubusercontent.com/52707386/62064913-c22d8880-b1e2-11e9-8bdd-2e8171507752.jpg"> 
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/52707386/62065113-24868900-b1e3-11e9-9663-c9e47d252202.gif"> 
 </p>
