@@ -1,6 +1,9 @@
 # Continuation/Recap of PWM and Analog vs. Digital signals + Introduction to Capacitors
-### Materials: Computer, microcontroller (arduino, feather, etc.), USB to micro-USB cable.
-### Objective: Communicate with your microcontroller and have it respond, first on your computer and then by turning on an LED.
+### Materials: Computer, microcontroller (arduino, feather, etc.), USB to micro-USB cable, potentiometer, LEDs, resistors, breadboard, multimeter, wires, potentially some oscilloscopes, and capacitors.
+### Objective: ----------------
+,,,
+woot
+,,,
 
 #### Step 1: How to get set up
 https://learn.adafruit.com/adafruit-feather-m0-adalogger/setup
