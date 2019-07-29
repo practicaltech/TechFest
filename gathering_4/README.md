@@ -21,12 +21,13 @@ Output pin -> LED -> Input pin ->  pot -> ground
    1. Temporary energy storage and supply and signal smoothing
 Note: Always check to make sure the component you are using is appropriate for the amount of power you’re passing through it. In our case these ceramic capacitors are not rated but should be able to handle 3-5v.
       1. Build a circuit following the schematic below:  
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/52707386/62070271-0161d680-b1ef-11e9-856d-8e03272816cd.png"> 
-   <br><br>
-     <b>LED in simple RC circuit - bdevore, Easy EDA</b><br>
-  <br><br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/52707386/62070271-0161d680-b1ef-11e9-856d-8e03272816cd.png"> 
+<br><br>
+<b>LED in simple RC circuit - bdevore, Easy EDA</b><br>
+<br><br>
 </p>
+
       2. Instead of using a 9v battery, use your featherboard to provide power. Play around with the resistance values. Leave two wires unconnected to act as a switch. Connect them to each other to ‘close’ the circuit and disconnect them to ‘open’ the circuit. Look at how the LED responds. Note: use a red LED for best results. If an oscilloscope is available look at what the capacitor does to the voltage over time wave as you open and close the circuit.  
       3. Keep the wires acting as a switch connected and try blinking the LED as you did in ‘Blink.’  
          1. What do you observe?  
