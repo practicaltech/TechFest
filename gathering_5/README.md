@@ -37,7 +37,7 @@ link to cheap oscilloscope
    4. Inside a capacitor
       1. A capacitor has two metal plates and an insulator in between which is known as a dielectric. The plates store charge through a segregation of electrons (many electrons on one plate and fewer on the other).
                <p>
-               <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png">
+               <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png">
                <br>
                <b align="center"> Diagram of a capacitor storing charge - [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all)</b>
                <br>
