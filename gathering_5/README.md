@@ -48,7 +48,6 @@ link to cheap oscilloscope
    3. LEDs or Light Emitting Diodes are unidirectional components that produce light when current is supplied in the (+) to (-) direction.
                <p align="center">
                <img align="center" width="640" height="200" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
-               <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg)</b></p>
-               <br>
-   <p align="center"><b><i>Note:</b><i/> In the case of LEDs the cathode is (-) and the anode is (+)!!</p>
+               <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg</b></p>
+   <p align="center"><b><i>Note:</b></i> In the case of LEDs the cathode is (-) and the anode is (+)!!</p>
    4. Can you control multiple LEDs using less OUTPUT pins than LEDs? Try it out!
