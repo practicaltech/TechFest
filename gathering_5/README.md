@@ -47,6 +47,6 @@ link to cheap oscilloscope
    2. In essence diodes control the direction of current-flow. Allowing current to flow in one direction more easily than in the other (depends on the diode being used). Some diodes such as LEDs. and laser diodes produce light when current passes through them
    3. LEDs or Light Emitting Diodes are unidirectional components that produce light when current is supplied in the (+) to (-) direction.
                <p align="center">
-               <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
+               <img align="center" width="640" height="200" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
                <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg)</b></p>
                <br>
