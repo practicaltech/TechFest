@@ -7,8 +7,9 @@ LED = Light Emitting Diode
 1. Light up an LED using a 9v battery, wires, a breadboard, and an LED.
    1. Breadboard: A way to prototype circuits without soldering.
 <p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/52707386/61340000-405a5a00-a7f5-11e9-8d42-524e5a13269d.jpg">  
-   <b>How to use a breadboard - Sparkfun</b><br> 
+  <img width="560" height="400" src="https://user-images.githubusercontent.com/52707386/61340000-405a5a00-a7f5-11e9-8d42-524e5a13269d.jpg"> 
+   </br><br>
+   <b>How to use a breadboard - Sparkfun </b><br> 
    </br><br>
 </p>
 https://learn.adafruit.com/adafruit-feather-m0-adalogger/setup
