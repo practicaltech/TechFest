@@ -11,11 +11,12 @@ link to cheap oscilloscope
                <p align="center">
                <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62074492-ca43f300-b1f7-11e9-82b2-dd6313bd6f69.png"></p>
                <br>
-               <p b align="center"> Alternating current on amplitude (change in voltage) over time graph - SparkFun </b>
+               <p align="center"> Alternating current on amplitude (change in voltage) over time graph - SparkFun </b>
                   <br><br></P>
+               <p align="center">
                <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
                <br>
-               <b align="center"> Direct current on voltage over time graph - SparkFun </b>
+               <p align="center"> Direct current on voltage over time graph - SparkFun </b>
      2. Does your board output AC or DC?
      3. Reasons for using each:
         1. AC: Efficient transport of electricity over long distances. Easily transformable (to lower or greater voltage).
@@ -29,17 +30,17 @@ link to cheap oscilloscope
       2. More Information:[Adafruit](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/what-is-a-capacitor), [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all).
    3. Parallel vs. in Series
       1. Capacitors add up in parallel and ‘get reduced’ in series. These scenarios can be represented with the following equations:
-               <p>
+               <p align="center">
                <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62077737-b56b5d80-b1ff-11e9-95b4-83fcf8486594.jpg">
                <br>
-               <b align="center"> Capacitors in parallel vs. in series - [Circuit Digest](https://circuitdigest.com/tutorial/capacitor-in-series-and-parallel-circuits)</b>
+               <p align="center"> Capacitors in parallel vs. in series - [Circuit Digest](https://circuitdigest.com/tutorial/capacitor-in-series-and-parallel-circuits)</p>
                <br>
    4. Inside a capacitor
       1. A capacitor has two metal plates and an insulator in between which is known as a dielectric. The plates store charge through a segregation of electrons (many electrons on one plate and fewer on the other).
-               <p>
-               <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png">
+               <p align="center">
+               <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png"></p>
                <br>
-               <p b align="center"> Diagram of a capacitor storing charge - [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all)</b></p>
+               <p align="center"> Diagram of a capacitor storing charge - [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all)</b></p>
                <br>
       2. When power is no longer supplied, the charge is released. If the capacitor is overloaded, the dielectric breaks down and the charge is released. The clouds and earth form a natural capacitor with the space in between acting as the dielectric. When enough charge is built up, the dielectric breaks down and lightning is produced
                   
