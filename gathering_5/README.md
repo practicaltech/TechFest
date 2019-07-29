@@ -50,3 +50,5 @@ link to cheap oscilloscope
                <img align="center" width="640" height="200" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
                <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg)</b></p>
                <br>
+   <p align="center"><b> ***Note:*** In the case of LEDs the cathode is (-) and the anode is (+)!!</b></p>
+   4. Can you control multiple LEDs using less OUTPUT pins than LEDs? Try it out!
