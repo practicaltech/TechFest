@@ -43,3 +43,4 @@ link to cheap oscilloscope
                <br>
       2. When power is no longer supplied, the charge is released. If the capacitor is overloaded, the dielectric breaks down and the charge is released. The clouds and earth form a natural capacitor with the space in between acting as the dielectric. When enough charge is built up, the dielectric breaks down and lightning is produced
                   
+<p style="text-align: center;"> and </p>
