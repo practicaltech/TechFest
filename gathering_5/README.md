@@ -18,8 +18,8 @@ link to cheap oscilloscope
           <b align="center"> Direct current on voltage over time graph - SparkFun </b>
           
            
-3. Does your board output AC or DC?
-  2. Reasons for using each:
+   3. Does your board output AC or DC?
+ 2. Reasons for using each:
     1. AC: Efficient transport of electricity over long distances. Easily transformable (to lower or greater voltage).
     2. DC: Constant and unidirectional.
     3. More information: [Science ABC](https://www.scienceabc.com/innovation/ac-vs-dc-alternating-current-or-direct-current-which-is-better.html), [SparkFun](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all#direct-current-dc).
