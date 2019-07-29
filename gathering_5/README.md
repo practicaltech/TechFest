@@ -19,5 +19,5 @@ link to cheap oscilloscope
   2. Reasons for using each:
     1. AC: Efficient transport of electricity over long distances. Easily transformable (to lower or greater voltage).
     2. DC: Constant and unidirectional.
-    3. More information: [Science ABC](https://www.scienceabc.com/innovation/ac-vs-dc-alternating-current-or-direct-current-which-is-better.html). [SparkFun](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all#direct-current-dc).
+    3. More information: [Science ABC](https://www.scienceabc.com/innovation/ac-vs-dc-alternating-current-or-direct-current-which-is-better.html), [SparkFun](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all#direct-current-dc).
 
