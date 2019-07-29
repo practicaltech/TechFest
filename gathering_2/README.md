@@ -16,8 +16,8 @@ LED = Light Emitting Diode
    3. Connect the LED to the battery while keeping the voltmeter leads connected to the LED (use a buddy or alligator clips).
    <p align="left">
   <img width="190" height="150" src="https://user-images.githubusercontent.com/52707386/62065113-24868900-b1e3-11e9-9663-c9e47d252202.gif"> 
-</p>
-If the LED turns on it will get very hot, use safety glasses and disconnect the LED after the peak voltage has been measured. If the value starts to decrease, disconnect the LED. You've reached the peak voltage.
+</p>  
+If the LED turns on it will get very hot, use safety glasses and disconnect the LED after the peak voltage has been measured. If the value starts to decrease, disconnect the LED. You've reached the peak voltage.  
       1. Did the LED turn on? Look at the length of the leads on the LED. Are they different? Does it matter which is facing the positive side of the battery?
       2. What does the peak voltage measured represent?
          1. *Hint* - voltage drop/loss from circuit due to component.
