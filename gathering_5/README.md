@@ -14,7 +14,8 @@ link to cheap oscilloscope
           <b align="center"> Alternating current on amplitude (change in voltage) over time graph - SparkFun </b>
             <br><br>
           <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
-<b align="center"> Direct current on voltage over time graph - SparkFun </b>
+          <br>
+          <b align="center"> Direct current on voltage over time graph - SparkFun </b>
           
            
 3. Does your board output AC or DC?
