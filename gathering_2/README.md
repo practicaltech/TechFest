@@ -43,7 +43,8 @@ V(voltage, volts = v), I(current, amperes = amps), R(resistance, ohms = Ω), sym
          1. Can you use this voltage to light up your LED?
          2. Can you turn the pin voltage on and off?
    2. How to initiate pins
-      1. In Arduino IDE go to ‘Help’ > ‘Reference’ > ‘Digital I/O’ > ‘pinMode’
+      1. In Arduino IDE go to ‘Help’ > ‘Reference’ > ‘Digital I/O’ > ‘pinMode’  
+      
 void setup() {
   // initialize digital pin 'x' as an output. x represents any pin that can output power on your board.
   pinMode(x, OUTPUT);
