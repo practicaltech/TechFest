@@ -57,4 +57,4 @@ link to cheap oscilloscope
       2. If you get stuck, check out [charlieplexing](https://www.instructables.com/id/Charlieplexing-LEDs--The-theory/).
 ***Note:*** We have been doing extensive work with foundational components to understand how they interact with each other and our boards. If you’re able to get your hands on a simple sensor of any sort, substitute it in for a potentiometer, a button, or any other input and see what you can do. Code can be found for pretty much any sensor you can find, allowing you to gain the functionality of the sensor without much trouble. This, in addition with your knowledge of how to wire things up and communicate with your board, allows you to build systems that interact with the environment!  
 <br>
-*Coming soon: Transistors, sensors, and libraries.*
+<p align="center"> <i>Coming soon: Transistors, sensors, and libraries.</i> </p>
