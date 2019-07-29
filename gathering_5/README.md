@@ -38,9 +38,15 @@ link to cheap oscilloscope
       1. A capacitor has two metal plates and an insulator in between which is known as a dielectric. The plates store charge through a segregation of electrons (many electrons on one plate and fewer on the other).
                <p align="center">
                <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62077974-51956480-b200-11e9-8e2f-7c8fc953c596.png"></p>
-               <br>
                <p align="center"> Diagram of a capacitor storing charge - [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all)</b></p>
                <br>
-      2. When power is no longer supplied, the charge is released. If the capacitor is overloaded, the dielectric breaks down and the charge is released. The clouds and earth form a natural capacitor with the space in between acting as the dielectric. When enough charge is built up, the dielectric breaks down and lightning is produced
-                  
-<p align="center">centered text</p>
+      2. When power is no longer supplied, the charge is released. If the capacitor is overloaded, the dielectric breaks down and the charge is released. The clouds and earth form a natural capacitor with the space in between acting as the dielectric. When enough charge is built up, the dielectric breaks down and lightning is produced [link](https://micro.magnet.fsu.edu/electromag/java/lightning/index.html).
+   5. Incorporate a capacitor into a circuit with an LED in parallel. Use the  analog write command to brighten or dim your LED. Observe with an oscilloscope if available. What is happening to the voltage over time wave? Why?
+3. LEDs, diodes, and directionality
+   1. SparkFun’s definition of an LED: “They come in a huge variety of sizes, shapes, and colors, but no matter what they look like they have one thing in common: they're the bacon of electronics. They're widely purported to make any project better and they're often added to unlikely things (to everyone's delight).”
+   2. In essence diodes control the direction of current-flow. Allowing current to flow in one direction more easily than in the other (depends on the diode being used). Some diodes such as LEDs. and laser diodes produce light when current passes through them
+   3. LEDs or Light Emitting Diodes are unidirectional components that produce light when current is supplied in the (+) to (-) direction.
+               <p align="center">
+               <img align="center" width="640" height="350" src="https://user-images.githubusercontent.com/52707386/62079055-c5d10780-b202-11e9-9eee-d8a8b878b00a.png"></p>
+               <p align="center"> Diagram of an LED - [Wikipedia](https://commons.wikimedia.org/wiki/File:LED_symbol.svg)</b></p>
+               <br>
