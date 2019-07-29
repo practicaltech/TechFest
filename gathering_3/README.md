@@ -72,3 +72,4 @@
       1. Read the digital output of this circuit
          1. What does your microcontroller read when the circuit is closed (wires connected)? When its open (gap in circuit)?
       2. What does your microcontroller read when the circuit is closed (wires connected)? When its open (gap in circuit)?
+   2. Use the digital output to turn an LED on or off.
