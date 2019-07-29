@@ -21,4 +21,14 @@ link to cheap oscilloscope
         1. AC: Efficient transport of electricity over long distances. Easily transformable (to lower or greater voltage).
         2. DC: Constant and unidirectional.
         3. More information: [Science ABC](https://www.scienceabc.com/innovation/ac-vs-dc-alternating-current-or-direct-current-which-is-better.html), [SparkFun](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc/all#direct-current-dc).
-
+2. Capacitor review
+   1. What the heck is a capacitor anyways?
+      1. A capacitor stores and releases energy. Its analogous mechanical component is the spring. As you apply a force to the spring it gains potential energy and compresses. When you stop applying a force, the spring extends and releases its stored potential energy. Capacitors are similar to springs in that as you apply a voltage to a capacitor, the capacitor starts to build a charge. Then, when you stop applying voltage, the capacitor releases its charge. 
+   2. Some uses:
+      1. Capacitors block DC, when fully charged, while allowing AC to pass. They also serve to smooth voltage and signals, releasing charge as the power source’s voltage drops and absorbing or blocking charge as the power source’s voltage spikes.
+      2. More Information:[Adafruit](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/what-is-a-capacitor), [SparkFun](https://learn.sparkfun.com/tutorials/capacitors/all).
+   3. Parallel vs. in Series
+      1. Capacitors add up in parallel and ‘get reduced’ in series. These scenarios can be represented with the following equations:
+               <p>
+               <img align="center" width="570" height="350" src="https://user-images.githubusercontent.com/52707386/62077737-b56b5d80-b1ff-11e9-95b4-83fcf8486594.jpg">
+               <br>
