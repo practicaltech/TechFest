@@ -9,8 +9,8 @@ link to cheap oscilloscope
     1. Is the voltage positive or negative? Does the value change by more than a volt?
     2. Note: direct current travels in one direction while alternating current switches back and forth. If you were to draw a voltage over time graph (as you would see on an oscilloscope) DC would be seen as a horizontal line at a certain voltage while AC would look like a sine wave moving between a negative and a positive number.
           <p>
-          <img align="left" width="330" height="300" src="https://user-images.githubusercontent.com/52707386/62074492-ca43f300-b1f7-11e9-82b2-dd6313bd6f69.png">
-          <img align="right" width="330" height="300" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
+          <img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/52707386/62074492-ca43f300-b1f7-11e9-82b2-dd6313bd6f69.png">
+          <img align="right" width="350" height="300" src="https://user-images.githubusercontent.com/52707386/62074488-c87a2f80-b1f7-11e9-8635-cfee45a2432d.png">
           <br>
           </p>
             <p align="center">
