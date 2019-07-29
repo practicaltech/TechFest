@@ -45,10 +45,10 @@ V(voltage, volts = v), I(current, amperes = amps), R(resistance, ohms = Ω), sym
    2. How to initiate pins
       1. In Arduino IDE go to ‘Help’ > ‘Reference’ > ‘Digital I/O’ > ‘pinMode’  
       
-void setup() {
-  // initialize digital pin 'x' as an output. x represents any pin that can output power on your board.
-  pinMode(x, OUTPUT);
-}
+void setup() {  
+  // initialize digital pin 'x' as an output. x represents any pin that can output power on your board.  
+  pinMode(x, OUTPUT);  
+}  
 
 // the loop function runs over and over again forever
 void loop() {
