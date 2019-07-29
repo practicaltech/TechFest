@@ -54,4 +54,4 @@ link to cheap oscilloscope
    4. Can you control multiple LEDs using less OUTPUT pins than LEDs? Try it out!
       1. Directionality of components is important in electrical systems as many components placed one way behave differently than when flipped 180°. This also allows for creative use of components.
          1. Note: If enough voltage is supplied in the opposite direction, the LED may break down and allow current to pass. LEDs usually have a breakdown voltage of about 50v.
-      2. If you get stuck, check out [charlieplexing] (https://www.instructables.com/id/Charlieplexing-LEDs--The-theory/).
+      2. If you get stuck, check out [charlieplexing](https://www.instructables.com/id/Charlieplexing-LEDs--The-theory/).
