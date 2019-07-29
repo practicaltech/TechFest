@@ -45,3 +45,4 @@ link to cheap oscilloscope
                   
 
 <center>Centered text</center>
+<p align="center">centered text</p>
