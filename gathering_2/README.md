@@ -49,13 +49,12 @@ void setup() {
   // initialize digital pin 'x' as an output. x represents any pin that can output power on your board.  
   pinMode(x, OUTPUT);  
 }  
-
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(x, HIGH);   // send power to 'x' pin (HIGH is the voltage level)
-}
-   3. Connect pins to breadboard and LED.
-   4. Blink the LED
+  
+// the loop function runs over and over again forever  
+void loop() {  
+  digitalWrite(x, HIGH);   // send power to 'x' pin (HIGH is the voltage level)  
+}  
+   3. Connect pins to breadboard and LED.4. Blink the LED
    4. Change LED blink speed by changing delay, try ‘delayMicroseconds()’
       1. Measure voltage as you increase the blink speed by reducing on time or off time.
       2. Keep decreasing the delay time until light is barely visible
