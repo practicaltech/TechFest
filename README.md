@@ -1,4 +1,4 @@
-<p align="center">Tech Fest
+<h1><p align="center">Tech Fest
 </p> </h1>
 <br>
 ## Building a foundation in electronics and microcontrollers
