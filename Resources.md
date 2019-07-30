@@ -1,8 +1,8 @@
 <ol>
   <li>Arduino startup guide:</li>
-    <ol style="list-style-type:none;">
+    <ul style="list-style-type:none;">
     <li><a href="https://www.arduino.cc/en/Guide/ArduinoUno">Arduino Guide</a></li>
-  </ol>
+    </ul>
   <li>Voltage, current, and resisatnce:</li>
   <li>Adafruit microcontroller lessons:</li>
   <li>Arduino based projects and ideas:</li>
