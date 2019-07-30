@@ -1,3 +1,14 @@
+<ol>
+  <li>Arduino startup guide:</li>
+    <ol type="i">
+    <li>https://www.arduino.cc/en/Guide/ArduinoUno</li>
+  </ol>
+  <li>Voltage, current, and resisatnce:</li>
+  <li>Adafruit microcontroller lessons:</li>
+  <li>Arduino based projects and ideas:</li>
+  <li>Symbols for drawing and reading schematics:</li>
+  <li>Feather M0 pinout:</li>
+</ol> 
 1. Arduino startup guide:  
 https://www.arduino.cc/en/Guide/ArduinoUno 
 2. Voltage, current, and resisatnce:  
