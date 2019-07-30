@@ -24,6 +24,8 @@
       <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/046/243/original/adafruit_products_Feather_M0_Adalogger_v2.2-1.png?1504885273">Adafruit Feather M0 Lessons</a></li>
       </ul>
 </ol> 
+<br>
+
 1. Arduino startup guide:  
 https://www.arduino.cc/en/Guide/ArduinoUno 
 2. Voltage, current, and resisatnce:  
