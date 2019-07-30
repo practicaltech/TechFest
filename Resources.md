@@ -1,4 +1,4 @@
-<ol>
+<h2><ol>
   <li>Arduino startup guide:</li>
       <ul style="list-style-type:none;">
       <li><a href="https://www.arduino.cc/en/Guide/ArduinoUno">Arduino Guide</a></li>
@@ -23,4 +23,4 @@
       <ul style="list-style-type:none;">
       <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/046/243/original/adafruit_products_Feather_M0_Adalogger_v2.2-1.png?1504885273">Adafruit Feather M0</a></li>
       </ul>
-</ol> 
+</ol></h2>
