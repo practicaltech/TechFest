@@ -8,7 +8,10 @@
 <p align="center">Thom Maughan and Gabriel M. Santos E.</p>
 <br>
 <br>
-This project was birthed within the Monterey Bay Aquarium Research Institute (MBARI). We'd like to thank MBARI as well as the brave Tech Festers, MBARI staff and interns, who chose to attend our first meeting. Your continued curiosity and interest sparked the growth and development of Tech Fest. Special thanks to the EE Tech Lab for their knowledge and electrical components. Lastly, there have been many who've created manuals to encourage the starry eyed tech enthusiast. Thanks to them we have a trove of information on anything electrically related. These are:  
-- SparkFun
-- Adafruit
-- Arduino
+<h3>Aknowledgements</h3>
+<p align="justify">This project was birthed within the Monterey Bay Aquarium Research Institute (MBARI). We'd like to thank MBARI as well as the brave Tech Festers, MBARI staff and interns, who chose to attend our first meeting. Your continued curiosity and interest sparked the growth and development of Tech Fest. Special thanks to the EE Tech Lab for their knowledge and electrical components. Lastly, there have been many who've created manuals to encourage the starry eyed tech enthusiast. Thanks to them we have a trove of information on anything electrically related. These are: </p>
+<ul>
+  <li>SparkFun</li>
+  <li>Adafruit</li>
+  <li>Arduino</li>
+</ul>
