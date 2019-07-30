@@ -5,15 +5,14 @@ Monitor press ctrl+shift+M. This exerciseis run whenever a new programming langu
 is being learned to make sure communication with the CPU is succesful.
 */ 
 
-
 void setup() { 
 // put your setup code here, to run once:
-while (!Serial){ /*conditional statement that waits for communication to begin between
-  your computer and your board to ensure the message you are sending (Hello World!) is printed*/
-}//closes statement parameters
+  while (!Serial){ /*conditional statement that waits for communication to begin between
+    your computer and your board to ensure the message you are sending (Hello World!) is printed*/
+  }//closes statement parameters
 
-Serial.println("Hello World!"); 
-//prints a string (set of characters) to the Serial Monitor
+  Serial.println("Hello World!"); 
+  //prints a string (set of characters) to the Serial Monitor
 }
 
 void loop() {
