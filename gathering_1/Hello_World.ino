@@ -1,21 +1,15 @@
 /* 
 Hello World
-The program prints 'Hello World!' in 
-the Serial Monitor. To open the Serial
-Monitor press ctrl+shift+M. This exercise
-is run whenever a new programming language
-is being learned to make sure 
-communication with the CPU is succesful.
+The program prints 'Hello World!' in the Serial Monitor. To open the Serial
+Monitor press ctrl+shift+M. This exerciseis run whenever a new programming language
+is being learned to make sure communication with the CPU is succesful.
 */ 
 
 
 void setup() { 
 // put your setup code here, to run once:
-while (!Serial){ /*conditional statement that
-  waits for communication to begin between
-  your computer and your board to ensure the
-  message you are sending (Hello World!) is
-  printed*/
+while (!Serial){ /*conditional statement that waits for communication to begin between
+  your computer and your board to ensure the message you are sending (Hello World!) is printed*/
 }//closes statement parameters
 
 Serial.println("Hello World!"); 
