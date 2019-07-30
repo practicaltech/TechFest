@@ -1,6 +1,5 @@
-
-               <p align = "center"> Capacitors in parallel vs. in series </p>
-               <br>
+<p align="center"><h1> Tech Fest </h></p>
+<br>
 
 # TechFest
 ## Building a foundation in electronics and microcontrollers
