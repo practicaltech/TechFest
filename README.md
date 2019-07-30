@@ -5,8 +5,9 @@
   ### 'Each one, teach one'
 
 Thom Maughan and Gabriel M. Santos E.
-
-This project was birthed within the Monterey Bay Aquarium Research Institute (MBARI). We'd like to thank MBARI as well as the brave Tech Festers, MBARI staff and interns, who chose to attend our first meeting. Your curiosity and interest sparked the growth and development of Tech Fest. Special thanks to the EE Tech Lab for their knowledge and electrical components. Lastly, there have been many who've created manuals to encourage the starry eyed tech enthusiast. Thanks to them we have a trove of information on anything electrically related. These are:
+<br>
+<br>
+This project was birthed within the Monterey Bay Aquarium Research Institute (MBARI). We'd like to thank MBARI as well as the brave Tech Festers, MBARI staff and interns, who chose to attend our first meeting. Your continued curiosity and interest sparked the growth and development of Tech Fest. Special thanks to the EE Tech Lab for their knowledge and electrical components. Lastly, there have been many who've created manuals to encourage the starry eyed tech enthusiast. Thanks to them we have a trove of information on anything electrically related. These are:
 - SparkFun
 - Adafruit
 - Arduino
