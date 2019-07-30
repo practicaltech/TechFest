@@ -1,5 +1,5 @@
 
-               <center> Capacitors in parallel vs. in series
+               <p align = "center"> Capacitors in parallel vs. in series </p>
                <br>
 
 # TechFest
