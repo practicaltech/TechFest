@@ -1,12 +1,9 @@
 /* 
-
 Blink
 This program turns an LED on and off. The objective of creating
 this sketch is to learn how to send power to a pin, how to stop 
 sending power to that pin, and how to manipulate time within the IDE.
-
 */ 
-
 
 void setup() { 
   //put your setup code here, to run once:
