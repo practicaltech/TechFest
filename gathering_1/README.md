@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started HI
 ### Materials: Computer, microcontroller (arduino, feather, etc.), USB to micro-USB cable.
 ### Objective: Communicate with your microcontroller and have it respond, first on your computer and then by turning on an LED.
 
