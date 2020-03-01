@@ -20,8 +20,8 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
     3. Run the program by pressing the arrow next to the checkmark on the top left.
     4. Open the serial monitor by pressing ctrl+shift+M
        1. Did your message print?
-       2. sometimes your program starts running before your microcontroller has had a chance to establish communication with your computer.     Therefore, try typing *delay(3000);* before your print command and try again.
-       3. An alternative solution is to include a conditional statement that makes your program wait until communication has been established (look at example code).
+       2. sometimes your program starts running before your microcontroller has had a chance to establish communication with your computer.     Therefore, try typing ***delay(3000);*** before your print command and try again.
+       3. An alternative solution is to include a conditional statement that makes your program wait until communication has been established (**look at example code**).
        
 ## Congratulations! You've succesfully communicated with your board!
 
