@@ -13,6 +13,13 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
 3. 'Hello World'
     1. Open the Arduino IDE
     2. Within the curly brackets of *void setup()* type *Serial.print("Hello World");*
+<p align="center">
+  <img width="620" height="450" src="https://user-images.githubusercontent.com/52707386/75636160-38f38f80-5bd1-11ea-8749-c8b5e02a5b5c.png"> 
+   </br><br>
+   <b>The code can be found above under "Hello Wolrd.ino" </b><br> 
+   </br><br>
+</p>  
+
     3. Run the program by pressing the arrow next to the checkmark on the top left.
     4. Open the serial monitor by pressing ctrl+shift+M
        1. Did your message print?
