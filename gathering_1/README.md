@@ -23,7 +23,7 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
 <p align="center">
   <img width="620" height="450" src="https://user-images.githubusercontent.com/52707386/75636160-38f38f80-5bd1-11ea-8749-c8b5e02a5b5c.png"> 
    </br><br>
-   <b>The code can be found above under gathering_1/"Hello_Wolrd.ino" </b><br> 
+   <b>This code can be found above under gathering_1/"Hello_Wolrd.ino" </b><br> 
    </br><br>
 </p> 
 4. 'Blink'
