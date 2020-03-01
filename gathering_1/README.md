@@ -13,17 +13,14 @@ There’s two pages ‘Arduino IDE setup’ and ‘Using with Arduino IDE’. Fo
 3. 'Hello World'
     1. Open the Arduino IDE
     2. Within the curly brackets of *void setup()* type *Serial.print("Hello World");*
+    ![Code](https://user-images.githubusercontent.com/52707386/75636160-38f38f80-5bd1-11ea-8749-c8b5e02a5b5c.png)
+    *This code can be found above under gathering_1/"Hello_Wolrd.ino"*
     3. Run the program by pressing the arrow next to the checkmark on the top left.
     4. Open the serial monitor by pressing ctrl+shift+M
        1. Did your message print?
        2. sometimes your program starts running before your microcontroller has had a chance to establish communication with your computer.     Therefore, try typing *delay(3000);* before your print command and try again.
-       3. An alternative solution is to include a conditional statement that makes your program wait until communication has been established.
-       4. Example code for this exercise can be found in the file *Hello_World.ino*.
-       5. Congratulations! You've succesfully communicated with your board!
-<p align="center">
-  <img width="620" height="450" src="https://user-images.githubusercontent.com/52707386/75636160-38f38f80-5bd1-11ea-8749-c8b5e02a5b5c.png"> 
-   </br><br>
-   <b>This code can be found above under gathering_1/"Hello_Wolrd.ino" </b><br> 
-   </br><br>
-</p> 
+       3. An alternative solution is to include a conditional statement that makes your program wait until communication has been established (look at example code).
+### ->Example code for this exercise can be found in the file *Hello_World.ino*.<-
+## Congratulations! You've succesfully communicated with your board!
+
 4. 'Blink'
