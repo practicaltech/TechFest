@@ -39,6 +39,9 @@ Links to KY-001 & KY009 modules, datasheets included:
   <br>
   
 #### From the ArduinoModules page:
+
+Note: I changed the pin locations of a few of these to match our board, yet these illustrations are very helpful for determining what you need to connect. For more information,       check the links (found at the top of this page and below each image).
+
   <p align="center">
   <img src="https://arduinomodules.info/wp-content/uploads/Arduino_KY-001_Keyes_Temprerature_Sensor_connection-diagram.png">
   </p>
@@ -49,3 +52,12 @@ Links to KY-001 & KY009 modules, datasheets included:
   </p>
   <p align="center"> Wiring for RGB module [Arduino Modules KY-009](https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/) </p>
   <br>
+
+## Step 2: Ensuring everything is connected properly (multimeter) - TB finished
+## Step 3: Coding
+#### 1. Download the libraries 'MAX31850 DallasTemp' & 'MAX31850 OneWire' from the Arduino IDE
+   Arduino IDE -> Tools -> Manage Libraries -> search: OneWire -> install: MAX31850 DallasTemp & MAX31850 OneWire
+#### 2. Copy & paste the 'Temp2LightCode.ino' file into your Arduino IDE (make sure you delete everything in the new file before you paste)
+   https://github.com/practicaltech/TechFest/blob/master/gathering_6/Temperature_to_Light/Temp2LightCode.ino
+#### 3. Run it!
+   More comments on the top of the program file and throughout the lines of code.
