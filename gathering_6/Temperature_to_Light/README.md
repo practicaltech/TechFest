@@ -61,3 +61,4 @@ Note: I changed the pin locations of a few of these to match our board, yet thes
    https://github.com/practicaltech/TechFest/blob/master/gathering_6/Temperature_to_Light/Temp2LightCode.ino
 #### 3. Run it!
    More comments on the top of the program file and throughout the lines of code.
+### Note: You will most likely run into problems with the IDE, the wiring, or the sensors. Please reach out! We'll be happy to help.
