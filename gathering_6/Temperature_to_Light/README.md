@@ -39,3 +39,13 @@ Links to KY-001 & KY009 modules, datasheets included:
   <br>
   
 #### From the ArduinoModules page:
+  <p align="center">
+  <img src="https://arduinomodules.info/wp-content/uploads/Arduino_KY-001_Keyes_Temprerature_Sensor_connection-diagram.png">
+  </p>
+  <p align="center"> Wiring for temperature sensor [Arduino Modules KY-001](https://arduinomodules.info/ky-001-temperature-sensor-module/) </p>
+  <br>
+  <p align="center">
+  <img src="https://arduinomodules.info/wp-content/uploads/Arduino_KY-009_Keyes_RGB_LED_SMD_module_connection_diagram.png">
+  </p>
+  <p align="center"> Wiring for RGB module [Arduino Modules KY-009](https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/) </p>
+  <br>
