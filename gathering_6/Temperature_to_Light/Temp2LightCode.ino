@@ -1,13 +1,13 @@
-////////////////////////////////////////////////////////////////////////////////////////////////
-This program is mainly a mash of code written and published by ArduinoModule at
-https://arduinomodules.info/ky-001-temperature-sensor-module/     and
-https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
-All credit goes to them. I only added the two together and added/changed a few lines.
+///////////////////////////////////////////////////////////////////////////////////////////////////
+// This program is mainly a mash of code written and published by ArduinoModule at
+// https://arduinomodules.info/ky-001-temperature-sensor-module/     and
+// https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
+// All credit goes to them. I only added the two together and added/changed a few lines.
 
-NOTE: for this program to work you must download the OneWire and DallasTemperature libraries.
-      These can be found on the Arduino IDE -> Tools -> Manage Libraries -> search: OneWire -> 
-      -> install: MAX31850 DallasTemp & MAX31850 OneWire
-///////////////////////////////////////////////////////////////////////////////////////////////
+// NOTE: for this program to work you must download the OneWire and DallasTemperature libraries.
+      // These can be found on the Arduino IDE -> Tools -> Manage Libraries -> search: OneWire -> 
+      // -> install: MAX31850 DallasTemp & MAX31850 OneWire
+///////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <OneWire.h>
 #include <DallasTemperature.h>
