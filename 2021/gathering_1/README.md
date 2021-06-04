@@ -1,6 +1,6 @@
 # Intro to Microcontrollers
-1. [Download Arduino IDE](https://github.com/practicaltech/TechFest/edit/master/2021/gathering_1/README.md#Download_Arduino_IDE)
-2. Download Elegoo kit guides and libraries
+1. [Download Arduino IDE](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#1-download-arduino-ide)
+2. [Download Elegoo kit guides and libraries](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#2-download-elegoo-kit-guides-and-libraries)
 3. Explore the world of microcontrollers
 4. Projects and moving forward
 
