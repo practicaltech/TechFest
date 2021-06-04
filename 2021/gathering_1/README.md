@@ -11,7 +11,7 @@
 <ol type="i">
   <li>Go to the Arduino getting started page: https://www.arduino.cc/en/Guide</li>
   <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
-  <a href="https://user-images.githubusercontent.com/52707386/120868334-b4688d00-c548-11eb-8f43-7d9042f15e10.png" alt="IDE Download Links"></a>
+  <a href="https://www.arduino.cc/en/Guide"><image src="https://user-images.githubusercontent.com/52707386/120868416-deba4a80-c548-11eb-83ab-d30b3fce5e5f.png" alt="IDE Download Links"></a>
   <br>
   <li>Select the appropriate operating system and follow the instructions</li>
 
