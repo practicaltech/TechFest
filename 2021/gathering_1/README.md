@@ -6,9 +6,15 @@
 
 
 ### 1. Download Arduino IDE
+***Note:** For windows users: to check whether your system is 32 or 64 bit follow this [FAQ](https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d)*
+
 <ol type="i">
-  <li>Milk</li>
-  <li>Cheese</li>
+  <li>Go to the Arduino getting started page:https://www.arduino.cc/en/Guide</li>
+  <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
+  <img src="https://user-images.githubusercontent.com/52707386/120866038-0529b700-c544-11eb-8ee4-f1f173a1acb8.png" alt="IDE Download Links">
+  <li>Select the appropriate operating system and follow the instructions</li>
+  
+
 </ol>
 <br>
 
@@ -18,10 +24,10 @@
 ***Note 2:** These steps are for Windows users, Mac and Linux users may have different steps. Please reach out for assistance if you're struggling :)*
 
 <ol type="i">
-  <li>Go to the Elegoo arduino support page: https://www.elegoo.com/pages/arduino-kits-support-files</li>
+  <li>Go to the Elegoo Arduino support page: https://www.elegoo.com/pages/arduino-kits-support-files</li>
   <li>Select 'ELEGOO Mega 2560 The Most Complete Starter Kit'</li>
   <li>Click the download link below</li>
-  <img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link">
+  <a href="https://www.arduino.cc/en/Guide">img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link"</a>
   <br>
   <br>
   <li>Click on the downloaded zip file</li>
