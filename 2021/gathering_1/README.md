@@ -9,7 +9,7 @@
 ***Note:** For windows users: to check whether your system is 32 or 64 bit follow this [FAQ](https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d)*
 
 <ol type="i">
-  <li>Go to the Arduino getting started page:https://www.arduino.cc/en/Guide</li>
+  <li>Go to the Arduino getting started page: https://www.arduino.cc/en/Guide</li>
   <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
   <a href="https://www.arduino.cc/en/Guide"><img src="https://user-images.githubusercontent.com/52707386/120866038-0529b700-c544-11eb-8ee4-f1f173a1acb8.png" alt="IDE Download Links"></a>
   <li>Select the appropriate operating system and follow the instructions</li>
