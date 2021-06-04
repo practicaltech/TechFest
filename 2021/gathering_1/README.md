@@ -11,7 +11,7 @@
 <ol type="i">
   <li>Go to the Arduino getting started page:https://www.arduino.cc/en/Guide</li>
   <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
-  <img src="https://user-images.githubusercontent.com/52707386/120866038-0529b700-c544-11eb-8ee4-f1f173a1acb8.png" alt="IDE Download Links">
+  <a href="https://www.arduino.cc/en/Guide"><img src="https://user-images.githubusercontent.com/52707386/120866038-0529b700-c544-11eb-8ee4-f1f173a1acb8.png" alt="IDE Download Links"></a>
   <li>Select the appropriate operating system and follow the instructions</li>
   
 
@@ -27,7 +27,7 @@
   <li>Go to the Elegoo Arduino support page: https://www.elegoo.com/pages/arduino-kits-support-files</li>
   <li>Select 'ELEGOO Mega 2560 The Most Complete Starter Kit'</li>
   <li>Click the download link below</li>
-  <a href="https://www.w3schools.com"><img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link"></a>
+  <img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link">
   <br>
   <br>
   <li>Click on the downloaded zip file</li>
