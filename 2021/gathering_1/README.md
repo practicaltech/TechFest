@@ -13,6 +13,7 @@
   <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
   <a href="https://www.arduino.cc/en/Guide"><image src="https://user-images.githubusercontent.com/52707386/120868416-deba4a80-c548-11eb-83ab-d30b3fce5e5f.png" alt="IDE Download Links"></a>
   <br>
+  <br>
   <li>Select the appropriate operating system and follow the instructions</li>
 
 </ol>
