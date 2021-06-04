@@ -27,7 +27,7 @@
   <li>Go to the Elegoo Arduino support page: https://www.elegoo.com/pages/arduino-kits-support-files</li>
   <li>Select 'ELEGOO Mega 2560 The Most Complete Starter Kit'</li>
   <li>Click the download link below</li>
-  <a href="https://www.arduino.cc/en/Guide">img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link"</a>
+  <a href="https://www.w3schools.com"><img src="https://user-images.githubusercontent.com/52707386/120858116-289a3500-c537-11eb-99b0-f11edd1c97b6.png" alt="Download Link"></a>
   <br>
   <br>
   <li>Click on the downloaded zip file</li>
