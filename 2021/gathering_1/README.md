@@ -11,10 +11,9 @@
 <ol type="i">
   <li>Go to the Arduino getting started page: https://www.arduino.cc/en/Guide</li>
   <li>Navigate down to 'Install the Arduino Desktop IDE'</li>
-  <a href="https://www.arduino.cc/en/Guide"><img src="https://user-images.githubusercontent.com/52707386/120867730-5d15ed00-c547-11eb-806b-363226922193.png" alt="IDE Download Links"></a>
+  <a href="https://user-images.githubusercontent.com/52707386/120868334-b4688d00-c548-11eb-8f43-7d9042f15e10.png" alt="IDE Download Links"></a>
   <br>
   <li>Select the appropriate operating system and follow the instructions</li>
-  
 
 </ol>
 <br>
@@ -61,3 +60,4 @@
   <li>Cheese</li>
 </ol>
 <br>
+
