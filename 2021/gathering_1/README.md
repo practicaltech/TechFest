@@ -81,7 +81,7 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
   <li><a href="https://create.arduino.cc/projecthub">Arduino Project Hub</a></li>
   <li><a href="https://www.instructables.com/Arduino-Projects/">Instructables Arduino projects Hub</a></li>
   <li><a href="https://www.hackster.io/arduino/projects">Hackster IO Arduino projects</a></li>
-  <li>Use the Goog</li>
+  <li><a href="https://www.google.com">Use the Goog</a></li>
 </ol>
 <br>
 
