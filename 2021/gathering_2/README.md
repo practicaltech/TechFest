@@ -1,5 +1,5 @@
 # The LED: an intro into your new best friend
-1. [Turn 'ON' an LED [battery]]()
+1. [Turn 'ON' an LED [battery]](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#1-turn-on-an-led-battery)
 2. [Protect your LED [resistor]]()
 3. [Turn 'ON' an LED [Arduino]]()
 4. [The LED at work [Arduino]]()
