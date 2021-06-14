@@ -2,7 +2,7 @@
 1. [Download Arduino IDE](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#1-download-arduino-ide)
 2. [Download Elegoo kit guides and libraries](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#2-download-elegoo-kit-guides-and-libraries)
 3. [Explore the world of microcontrollers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#3-explore-the-world-of-microcontrollers)
-4. [Projects and moving forward]()
+4. [Projects and moving forward](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#4-projects-and-moving-forward)
 
 
 ### 1. Download Arduino IDE
@@ -49,6 +49,7 @@
 <br>
 
 ### 3. Explore the world of microcontrollers
+***Note:** Click on an image to get more information on the system!*
 
 | Water Monitor | Satellite Tag |
 | ----------- | ----------- |
@@ -58,10 +59,25 @@
 |----------- | ----------- |
 | <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=MCUs%20in%20microwave%20ovens%20,open."><img src="https://user-images.githubusercontent.com/52707386/121893277-a21dea00-ccd2-11eb-8e6a-4bffba6e4ba7.jpg" alt="Microwave" width="400" height="360"></a>| <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=The%20microcontroller%20allows%20the%20washing,protection%2C%20and%20door%20lid%20open."><img src="https://user-images.githubusercontent.com/52707386/121893461-d4c7e280-ccd2-11eb-9842-2043545be586.jpg" alt="Washer" width="400" height="360"></a> |
 
-### 4. Projects and moving forward
+#### Microcontrollers in a nutshell:
+
+#### More information on microcontrollers:
+*In order of increasing depth and complexity*
 <ol type="i">
-  <li>Milk</li>
-  <li>Cheese</li>
+<li>https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/#:~:text=%C2%A0-,What%20Is%20a%20Microcontroller%3F,-A%20microcontroller%20is</li>
+<li>https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an</li>
+<li>https://www.sparkfun.com/tutorials/57#:~:text=A%20microcontroller%20is%20the%20same,that%20a%20micro%20runs%20code.&text=For%20instance%2C%20with%20a%20little,control%20an%20output%20pin%20C.</li>
+</ol>
+<br>
+
+### 4. Projects and moving forward
+
+#### Look at the items in your kit, then look at the information provided for each on the elegoo documents you downloaded and search the web for similar sensors. What draws your eye and imagination? What could you build if you put a few of these components together?
+
+#### Check out these links for ideas:
+<ol type="i">
+  <li></li>
+  <li></li>
 </ol>
 <br>
 
