@@ -64,9 +64,9 @@
 #### More information on microcontrollers:
 *In order of increasing depth and complexity*
 <ol type="i">
-<li>https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/#:~:text=%C2%A0-,What%20Is%20a%20Microcontroller%3F,-A%20microcontroller%20is</li>
-<li>https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an</li>
-<li>https://www.sparkfun.com/tutorials/57#:~:text=A%20microcontroller%20is%20the%20same,that%20a%20micro%20runs%20code.&text=For%20instance%2C%20with%20a%20little,control%20an%20output%20pin%20C.</li>
+<li><a href="https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/#:~:text=%C2%A0-,What%20Is%20a%20Microcontroller%3F,-A%20microcontroller%20is">What is a microcontroller?</a></li>
+<li><a href="https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an">What is an Arduino?vs. microcontroller</li>
+<li><a href="https://www.sparkfun.com/tutorials/57#:~:text=A%20microcontroller%20is%20the%20same,that%20a%20micro%20runs%20code.&text=For%20instance%2C%20with%20a%20little,control%20an%20output%20pin%20C.">How does a microcontroller work?</li>
 </ol>
 <br>
 
