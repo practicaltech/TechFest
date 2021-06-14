@@ -74,7 +74,7 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
 
 ### 4. Projects and moving forward
 
-#### Look at the items in your kit, then look at the information provided for each on the elegoo documents you downloaded and search the web for similar sensors. What draws your eye and imagination? What could you build if you put a few of these components together?
+#### Look at the items in your kit, then look at the information provided for each on the Elegoo documents you downloaded and search the web for similar sensors. What draws your eye and imagination? What could you build if you put a few of these components together?
 
 #### Check out these links for ideas:
 <ol type="i">
