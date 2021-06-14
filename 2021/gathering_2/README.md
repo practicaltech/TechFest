@@ -1,8 +1,8 @@
 # The LED: an intro into your new best friend
-1. [Turn 'ON' an LED (battery)]()
-2. [Protect your LED (resistor)]()
-3. [Turn 'ON' an LED (Arduino)]()
-4. [The LED at work (Arduino)]()
+1. [Turn 'ON' an LED [battery]]()
+2. [Protect your LED [resistor]]()
+3. [Turn 'ON' an LED [Arduino]]()
+4. [The LED at work [Arduino]]()
 
 
 ### 1. Turn 'ON' an LED (battery)
