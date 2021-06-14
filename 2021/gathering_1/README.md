@@ -49,11 +49,14 @@
 <br>
 
 ### 3. Explore the world of microcontrollers
-<ol type="i">
-  <li>Milk</li>
-  <li>Cheese</li>
-</ol>
-<br>
+
+| Water Monitor | Satellite Tag |
+| ----------- | ----------- |
+| <a href="https://www.whiteboxes.ch/docs/tentacle/t2-mkII/#/?id=what39s-the-whitebox-t2"><img src="https://user-images.githubusercontent.com/52707386/121892856-202dc100-ccd2-11eb-9289-6b0465c2123b.jpg" alt="Arduino Uno + Whitebox water monitor" width="400" height="360"></a>| <a href="https://www.cats.is/products/cats-cam/"><img src="https://user-images.githubusercontent.com/52707386/121893107-70a51e80-ccd2-11eb-8600-1f950de4bf61.jpg" alt="C.A.T.S. Camera on White Shark" width="400" height="360"></a> |
+
+| Microwave | Washer |
+|----------- | ----------- |
+| <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=MCUs%20in%20microwave%20ovens%20,open."><img src="https://user-images.githubusercontent.com/52707386/121893277-a21dea00-ccd2-11eb-8e6a-4bffba6e4ba7.jpg" alt="Microwave" width="400" height="360"></a>| <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=The%20microcontroller%20allows%20the%20washing,protection%2C%20and%20door%20lid%20open."><img src="https://user-images.githubusercontent.com/52707386/121893461-d4c7e280-ccd2-11eb-9842-2043545be586.jpg" alt="Washer" width="400" height="360"></a> |
 
 ### 4. Projects and moving forward
 <ol type="i">
