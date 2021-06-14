@@ -60,9 +60,11 @@
 | <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=MCUs%20in%20microwave%20ovens%20,open."><img src="https://user-images.githubusercontent.com/52707386/121893277-a21dea00-ccd2-11eb-8e6a-4bffba6e4ba7.jpg" alt="Microwave" width="400" height="360"></a>| <a href="https://www.embedded.com/the-role-of-mcus-and-psocs-in-making-home-appliances-smarter/#:~:text=The%20microcontroller%20allows%20the%20washing,protection%2C%20and%20door%20lid%20open."><img src="https://user-images.githubusercontent.com/52707386/121893461-d4c7e280-ccd2-11eb-9842-2043545be586.jpg" alt="Washer" width="400" height="360"></a> |
 
 #### Microcontrollers in a nutshell:
+A microcontroller is a mini-computer that performs a task(s) over and over again.
 
 #### More information on microcontrollers:
 *In order of increasing depth and complexity*
+
 <ol type="i">
 <li><a href="https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/#:~:text=%C2%A0-,What%20Is%20a%20Microcontroller%3F,-A%20microcontroller%20is">What is a microcontroller?</a></li>
 <li><a href="https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an">What is an Arduino?vs. microcontroller</li>
