@@ -46,7 +46,7 @@
   <br>
   <br>
 </ol>
-<br>
+
 
 ### 3. Explore the world of microcontrollers
 ***Note:** Click on an image to get more information on the system!*
@@ -67,7 +67,7 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
 
 <ol type="i">
 <li><a href="https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/#:~:text=%C2%A0-,What%20Is%20a%20Microcontroller%3F,-A%20microcontroller%20is">What is a microcontroller?</a></li>
-<li><a href="https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an">What is an Arduino?vs. microcontroller</li>
+<li><a href="https://www.seeedstudio.com/blog/2019/12/04/introduction-to-the-arduino-what-is-arduino/#:~:text=to%20the%20Arduino-,The,-Arduino%20is%20an">What is an Arduino? vs. microcontroller</li>
 <li><a href="https://www.sparkfun.com/tutorials/57#:~:text=A%20microcontroller%20is%20the%20same,that%20a%20micro%20runs%20code.&text=For%20instance%2C%20with%20a%20little,control%20an%20output%20pin%20C.">How does a microcontroller work?</li>
 </ol>
 <br>
@@ -78,8 +78,10 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
 
 #### Check out these links for ideas:
 <ol type="i">
-  <li></li>
-  <li></li>
+  <li><a href="https://create.arduino.cc/projecthub">Arduino Project Hub</a></li>
+  <li><a href="https://www.instructables.com/Arduino-Projects/">Instructables Arduino projects Hub</a></li>
+  <li><a href="https://www.hackster.io/arduino/projects">Hackster IO Arduino projects</a></li>
+  <li>Use the Goog</li>
 </ol>
 <br>
 
