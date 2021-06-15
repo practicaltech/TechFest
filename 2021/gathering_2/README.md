@@ -75,12 +75,6 @@ Questions to ask while trying to do this:
 ### 5. Answers
 
 <b> Excercise 1: LED + Batt </b>
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/52707386/121984959-c0263180-cd48-11eb-9b23-3476ed5c24da.png" alt="LED + Battery" width="300" height="480">
-  <br>
-   <b>'Protected LED' circuit </b><br> 
-   </br><br>
-</p>
 
 <ol type="i">
   <li>Touch the 2 metal wires of the LED to the trminals of the 9v battery in the following orientation: long LED wire to circle, short LED wire to hexagon.</li>
@@ -88,12 +82,19 @@ Questions to ask while trying to do this:
   <li>They designate the two different terminals, positive (longer) and negative (shorter)</li>
 </ol>
 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/52707386/121984959-c0263180-cd48-11eb-9b23-3476ed5c24da.png" alt="LED + Battery" width="300" height="480">
+  <br>
+   <b>'Protected LED' circuit </b><br> 
+   </br><br>
+</p>
+
 Once you get the LED to flash
 <ol type="i">
-  <li>Is it still turning on?</li>
-  <li>Why does it eventually stop working?</li>
+  <li>It shouldn't be turning on anymore as it has been overloaded and fried.</li>
+  <li>The LED fails because it can not handle the amount of current the battery is passing through it.</li>
 </ol>
-
+<br>
 
 <b> Excercise 2: LED + Batt + Resistor </b>
 
