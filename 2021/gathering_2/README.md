@@ -38,6 +38,9 @@ Once you get the LED to flash
 
 <a href = "https://en.wikipedia.org/wiki/Resistor#/media/File:Electronic-Axial-Lead-Resistors-Array.jpg"><img src="https://user-images.githubusercontent.com/52707386/121986827-19dc2b00-cd4c-11eb-811c-c54624e559e8.jpg" alt="Resistors" width="500" height="500"></a>
 
+**Materials:**
+Safety glasses, 9v battery (included in kit), 2 220ohm resistors (included in kit), and a NEW Red LED (included in kit)
+
 
 ### 3. Turn 'ON' an LED (Arduino)
 ***Note:** Click on an image to get more information on the system!*
