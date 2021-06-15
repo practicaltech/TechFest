@@ -3,10 +3,12 @@
 2. [Protect your LED [resistor]]()
 3. [Turn 'ON' an LED [Arduino]]()
 4. [The LED at work [Arduino]]()
+5. [Answers]()
 
 
 ### 1. Turn 'ON' an LED (battery)
 ***Note:** Wear your safety glasses for this excercise and STOP as soon as you feel any heat building in the components*
+***Note_2:** The solutions to the questions can be found at the end of this page*
 
 **Materials:**
 
@@ -19,10 +21,18 @@ Safety glasses, 9v battery (included in kit), and a Red LED (included in kit)
 Questions to ask while trying to do this:
 
 <ol type="i">
-  <li></li>
-  <li>9v battery (included in kit)</li>
-  <li>Red LED (included in kit)</li>
+  <li>How?</li>
+  <li>Why are the two protrusions sticking out of the battery different shapes?</li>
+  <li>Why are the two wires sticking out of the LED different sizes?</li>
 </ol>
+
+Once you get the LED to flash
+<ol type="i">
+  <li>Is it still turning on?</li>
+  <li>Why does it eventually stop working?</li>
+  <li></li>
+</ol>
+
 
 
 
@@ -68,3 +78,21 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
   <li><a href="https://www.google.com">Use the Goog</a></li>
 </ol>
 <br>
+
+
+## Answers
+
+<img src="https://user-images.githubusercontent.com/52707386/121984959-c0263180-cd48-11eb-9b23-3476ed5c24da.png" alt="LED + Battery" width="300" height="480">
+
+<ol type="i">
+  <li>Touch the 2 metal wires of the LED to the trminals of the 9v battery in the following orientation: long LED wire to circle, short LED wire to hexagon.</li>
+  <li>They designate the two different terminals, positive (circle) and negative (hexagon)</li>
+  <li>They designate the two different terminals, positive (longer) and negative (shorter)</li>
+</ol>
+
+Once you get the LED to flash
+<ol type="i">
+  <li>Is it still turning on?</li>
+  <li>Why does it eventually stop working?</li>
+  <li></li>
+</ol>
