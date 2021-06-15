@@ -2,7 +2,7 @@
 1. [Turn 'ON' an LED (battery)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#1-turn-on-an-led-battery)
 2. [Protect your LED (resistor)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#2-protect-your-led-resistors)
 3. [Turn 'ON' an LED (Arduino)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#3-turn-on-an-led-arduino)
-4. [The LED at work (Arduino)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#4-the-led-at-work)
+4. [The LED at work (Arduino)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#4-the-led-at-work-arduino)
 5. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#5-answers)
 
 
@@ -67,18 +67,9 @@ Questions to ask while trying to do this:
 
 
 
-### 4. Projects and moving forward
+### 4. The LED at work (Arduino)
 
-#### Look at the items in your kit, then look at the information provided for each on the Elegoo documents you downloaded and search the web for similar sensors. What draws your eye and imagination? What could you build if you put a few of these components together?
 
-#### Check out these links for ideas:
-<ol type="i">
-  <li><a href="https://create.arduino.cc/projecthub">Arduino Project Hub</a></li>
-  <li><a href="https://www.instructables.com/Arduino-Projects/">Instructables Arduino projects Hub</a></li>
-  <li><a href="https://www.hackster.io/arduino/projects">Hackster IO Arduino projects</a></li>
-  <li><a href="https://www.google.com">Use the Goog</a></li>
-</ol>
-<br>
 
 
 ### 5. Answers
