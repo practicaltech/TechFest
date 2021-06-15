@@ -48,7 +48,7 @@ Once you get the LED to flash
 
 <img src="https://user-images.githubusercontent.com/52707386/122051807-da3c3000-cd99-11eb-837d-6c79cb8882b2.png" alt="Materials" width="440" height="580">
 
-Safety glasses, 9v battery (included in kit), 2 jumper wires (included in kit), breadboard (included in kit), 2 220ohm resistors (included in kit), and a NEW Red LED (included in kit)
+Safety glasses, 9v battery (included in kit), 2 jumper wires (included in kit), breadboard (included in kit), 2 x 220ohm resistors (included in kit), and a NEW Red LED (included in kit)
 
 <br>
 
@@ -64,7 +64,7 @@ Questions to ask while trying to do this:
 <br>
 
 ### 3. Turn 'ON' an LED (Arduino)
-**Materials:** Arduino Mega2560, computer (with Arduino IDE installed), USB to USB A/B cable.
+**Materials:** Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), USB to USB A/B cable (included in kit).
 
 **Objective:** Turn the onboard light on and off at different time intervals.
 
@@ -80,7 +80,7 @@ Questions to ask while trying to do this:
 
 
 ### 4. The LED at work (Arduino)
-**Materials:** Arduino Mega2560, computer (with Arduino IDE installed), USB to USB A/B cable, Red LED, Resistors, breadboard, and jumper wires.
+**Materials:** Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), USB to USB A/B cable (included in kit), Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), and jumper wires (included in kit).
 
 **Objective:** Turn an external LED on and off using the Arduino Mega board.
 
