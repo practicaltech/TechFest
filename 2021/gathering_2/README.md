@@ -63,13 +63,34 @@ Questions to ask while trying to do this:
 <br>
 
 ### 3. Turn 'ON' an LED (Arduino)
-***Note:** Click on an image to get more information on the system!*
+**Materials:** Arduino Mega2560, computer (with Arduino IDE installed), USB to USB A/B cable.
+
+**Objective:** Turn the onboard light on and off at different time intervals.
+
+**Instructions:**
+
+<ol type="i">
+  <li>Navigate to 'Lesson 2 Blink' on page 32 of the ELEGOO 'The Most Complete Starter Kit....'pdf. The page is 34 if taking into account the title and preface.</li>
+  <li>Follow the guide</li>
+  <li>Change the speed at which the LED blinks</li>
+</ol>
+<br>
 
 
 
 ### 4. The LED at work (Arduino)
+**Materials:** Arduino Mega2560, computer (with Arduino IDE installed), USB to USB A/B cable, Red LED, Resistors, breadboard, and jumper wires.
 
+**Objective:** Turn an external LED on and off using the Arduino Mega board.
 
+**Instructions:**
+
+<ol type="i">
+  <li>Navigate to <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink">Arduino 'Blink'</a></li>
+  <li>Follow the guide</li>
+  <li>Change the speed at which the external LED blinks</li>
+</ol>
+<br>
 
 
 ### 5. Answers
