@@ -1,8 +1,8 @@
 # The LED: an intro into your new best friend
-1. [Turn 'ON' an LED [battery]](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#1-turn-on-an-led-battery)
-2. [Protect your LED [resistor]]()
-3. [Turn 'ON' an LED [Arduino]]()
-4. [The LED at work [Arduino]]()
+1. [Turn 'ON' an LED (battery)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#1-turn-on-an-led-battery)
+2. [Protect your LED (resistor)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#2-protect-your-led-resistors)
+3. [Turn 'ON' an LED (Arduino)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#3-turn-on-an-led-arduino)
+4. [The LED at work (Arduino)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#4-the-led-at-work)
 5. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#5-answers)
 
 
@@ -58,6 +58,7 @@ Questions to ask while trying to do this:
 <ol type="i">
   <li>What is a breadboard and how does it work?</li>
   <li>What is a resistor and how does it work?</li>
+  <li>How can I use the breadboard to connect my components together?</li>
 </ol>
 <br>
 
@@ -100,7 +101,6 @@ Once you get the LED to flash
 <ol type="i">
   <li>Is it still turning on?</li>
   <li>Why does it eventually stop working?</li>
-  <li></li>
 </ol>
 
 
@@ -121,6 +121,7 @@ Once you get the LED to flash
 </p>  </li>
 </ol>
 
+<b> Completed circuit </b>
 <p align="center"> 
   <img width="600" height="730" src="https://user-images.githubusercontent.com/52707386/122060687-a7e30080-cda2-11eb-98d6-3f520c1f8d04.jpg"> 
   <br>
