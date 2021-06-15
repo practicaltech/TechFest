@@ -9,7 +9,7 @@
 ### 1. Turn 'ON' an LED (battery)
 ***Note:** Wear your safety glasses for this excercise and STOP as soon as you feel any heat building in the components*
 
-***Note_2:** The solutions to the questions can be found at the end of this page*
+***Note_2:** The solutions to these questions can be found at the end of this page*
 
 **Materials:**
 
@@ -38,6 +38,7 @@ Once you get the LED to flash
 <br>
 
 ### 2. Protect your LED (resistors)
+***Note:** The solutions to these questions can be found at the end of this page*
 
 <a href = ""><img src="https://user-images.githubusercontent.com/52707386/121986827-19dc2b00-cd4c-11eb-811c-c54624e559e8.jpg" alt="Resistors" width="500" height="500"></a>
 <br>
