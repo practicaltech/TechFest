@@ -3,7 +3,7 @@
 2. [Protect your LED [resistor]]()
 3. [Turn 'ON' an LED [Arduino]]()
 4. [The LED at work [Arduino]]()
-5. [Answers]()
+5. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#5-answers)
 
 
 ### 1. Turn 'ON' an LED (battery)
@@ -30,19 +30,16 @@ Once you get the LED to flash
 <ol type="i">
   <li>Is it still turning on?</li>
   <li>Why does it eventually stop working?</li>
-  <li></li>
+  <li>Are we missing anything?</li>
 </ol>
 
 
+### 2. Protect your LED (resistors)
+
+<a href = "https://en.wikipedia.org/wiki/Resistor#/media/File:Electronic-Axial-Lead-Resistors-Array.jpg"><img src="https://user-images.githubusercontent.com/52707386/121986827-19dc2b00-cd4c-11eb-811c-c54624e559e8.jpg" alt="Resistors" width="500" height="500"></a>
 
 
-
-
-### 2. Download Elegoo Kit Guides and libraries
-
-
-
-### 3. Protect your LED (resistor)
+### 3. Turn 'ON' an LED (Arduino)
 ***Note:** Click on an image to get more information on the system!*
 
 | Water Monitor | Satellite Tag |
@@ -80,7 +77,7 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
 <br>
 
 
-## Answers
+### 5. Answers
 
 <img src="https://user-images.githubusercontent.com/52707386/121984959-c0263180-cd48-11eb-9b23-3476ed5c24da.png" alt="LED + Battery" width="300" height="480">
 
