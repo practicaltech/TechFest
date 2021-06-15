@@ -121,7 +121,7 @@ Once you get the LED to flash
 <b> Excercise 2: LED + Batt + Resistor </b>
 
 <ol type="i">
-  <li>A breadboard is a prototyping tool composed of strips of conductive metal. The conductive metal is arranged in numbered rows that you can access through the holes on the top. These allow for the <b>non-permanent</b> connection of two components. Some boards have additional strips running vertically along the sides. These are generally used for power and ground (the breadboard provided in our kit does not have the side strips).<p align="center"> 
+  <li>A breadboard is a prototyping tool composed of strips of conductive metal. The conductive metal is arranged in numbered rows that you can access through the holes on the top. These allow for the <b>non-permanent</b> connection of two components. Some boards have additional strips running vertically along the sides. These are generally used for power and ground (there are two breadboard in our kit, the one used in this example does not have the side strips).<p align="center"> 
   <img width="560" height="400" src="https://user-images.githubusercontent.com/52707386/61340000-405a5a00-a7f5-11e9-8d42-524e5a13269d.jpg"> 
    </br>
    <b>How to use a breadboard - Sparkfun </b><br> 
