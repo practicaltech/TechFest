@@ -52,3 +52,7 @@ Additional info:
 ### 5. Ohm's Law (V=IR)
 
 This equation allows you to figure out the characteristics of a circuit.
+
+Additional info:
+1. [Electronics Tutorials - Ohm's Law](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html)
+2. [Phet simulator - Ohm's Law](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html)
