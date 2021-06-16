@@ -1,9 +1,10 @@
 # Introduction to Electrical Engineering Fundamentals: *in a nutshell*
 
-1. [Circuit]()
-2. [Current]()
-3. [Voltage]()
-4. [Resistance]()
+1. [Circuit](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#1-circuit)
+2. [Current](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#2-current)
+3. [Voltage](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#3-voltage)
+4. [Resistance](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#4-resistance-&-resistors)
+5. [Ohm's Law (V=IR)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#5-ohm's-law-(V=IR))
 
 
 ### 1. Circuit
@@ -15,7 +16,7 @@ A circuit is a closed loop. In EE, the loop may contain a variety of different c
 
 Additional info:
 1. [SparkFun - What is a Circuit](https://learn.sparkfun.com/tutorials/what-is-a-circuit/all)
-2. [What is an electronic circuit](https://www.dummies.com/programming/electronics/components/what-is-an-electronic-circuit/)
+2. [Dummies - What is an electronic circuit](https://www.dummies.com/programming/electronics/components/what-is-an-electronic-circuit/)
 
 ### 2. Current
 
@@ -34,7 +35,7 @@ For a system to have current it needs something to induce the movement of the el
 **Measured in Volts (V)**
 
 Additional info:
-1. []()
+1. [Fluke - What is Voltage](https://www.fluke.com/en-us/learn/blog/electrical/what-is-voltage)
 2. [SparkFun - Voltage](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all#voltage)
 
 ### 4. Resistance & Resistors
@@ -45,9 +46,9 @@ Resistance is anything that impairs the movement of electrons through a system. 
 
 Additional info:
 1. [MakeCrate - How does a resistor work](https://www.makecrate.club/how-does-a-resistor-work/71178/)
-2. []()
+2. [Electronics Notes - What is Resistance](https://www.electronics-notes.com/articles/basic_concepts/resistance/what-is-resistance.php)
 
 
-### 5. Ohm's Law (V = I R)
+### 5. Ohm's Law (V=IR)
 
 This equation allows you to figure out the characteristics of a circuit.
