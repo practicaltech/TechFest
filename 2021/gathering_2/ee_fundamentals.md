@@ -3,7 +3,7 @@
 1. [Circuit](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#1-circuit)
 2. [Current](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#2-current)
 3. [Voltage](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#3-voltage)
-4. [Resistance](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#4-resistance-&-resistors)
+4. [Resistance & Resistors](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#4-resistance-&-resistors)
 5. [Ohm's Law (V=IR)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#5-ohms-law-vir)
 
 
