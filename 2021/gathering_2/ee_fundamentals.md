@@ -46,7 +46,9 @@ Additional info:
 
 ### 4. Resistance & Resistors
 
-Resistance is anything that impairs the movement of electrons through a system. Resistors will impair the movement of electrons in a circuit thus reducing current. Resitors accomplish this by converting the movement of electrons into heat by essentially forcing them to slow down which generates heat.
+Resistance is anything that impairs the movement of electrons through a system. Resistors will impair the movement of electrons in a circuit thus reducing current. Resitors accomplish this by converting the movement of electrons into heat by essentially forcing them to slow down which generates heat. 
+
+*It does not matter if you place the resistor before, or after, a component in a simple loop circuit, it will still affect overall current.*
 
 **Measured in Ohms (Ω), 'R' in an equation**
 
