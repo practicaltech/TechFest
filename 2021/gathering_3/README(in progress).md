@@ -1,14 +1,21 @@
-# Tools of the trade: reading schematics, using a multimeter, buttons & switches
+# Tools of the trade: using a multimeter, reading schematics, buttons & switches
 
 Revisited from last week:
 
-1. [Reading schematics]()
-2. []()
+1. [Measuring voltage and resistance (multimeter)]()
+2. [Reading schematics]()
+3. [Blink your LED (buttons and switches)]()
+4. [Answers]()
 
 
-### 1. Reading schematics (revisiting the circuit from last week)
+
+### 1. Measuring voltage and resistance (multimeter)
+
+### 2. Reading schematics (revisiting the circuit from last week)
 
 https://user-images.githubusercontent.com/52707386/122451703-4e730100-cf5d-11eb-801c-51644dc2431d.mp4
+
+https://everycircuit.com/circuit/5845579776917504
 
 <br>
 
@@ -37,6 +44,28 @@ https://user-images.githubusercontent.com/52707386/122451703-4e730100-cf5d-11eb-
 </p>
    </ol>
 
+<br>
+
+### 3. Blink your LED (buttons and switches)
+
+**Materials:** Button (included in kit), Multimeter, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
+
+**Objective:** Understand how a button works and how to incorporate it into a circuit.
+
+**Instructions:**
+
+<ol type='i'>
+  <li></li>
+  <li>Find out what the symbol for a 'NO button' is in a schematic</li>
+  From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need?
+  <li>Use a multimeter to measure the resistance between pins. What is the resistance between two that are opposing vs. two that are on the same side? ADD IMAGES FOR WHAT IM TALKING ABOUT</li>
+  <li>Incorporate the button into the circuit you made previously. Does it matter where you place it? Which pins do you need to connect to?</li>
+  <li>blink your led!</li>
+</ol>
+
+<br>
 
 
-https://everycircuit.com/circuit/5845579776917504
+### 4. Answers
+
+add drawing of circuit 1
