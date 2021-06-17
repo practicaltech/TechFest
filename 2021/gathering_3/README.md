@@ -1,22 +1,4 @@
-<html>
-<body>
-
-<video autoplay muted>
-  <source src="https://user-images.githubusercontent.com/52707386/122318712-62265500-ced4-11eb-9989-1ceccc2fa0ba.mp4" type="video/mp4">
-  <alt="RFID + LEDs">
-</video>
-
-</body>
-</html>
-
-
-
-<html>
-<video autoplay muted>
-  <source src="https://user-images.githubusercontent.com/52707386/122318712-62265500-ced4-11eb-9989-1ceccc2fa0ba.mp4" type="video/mp4">
-  <alt="RFID + LEDs">
-</video>
-</html>
+https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-9d81-0f1b2d4d9b79.mp4
 
 # Sensors galore! gather information, add logic, manipulate
 
