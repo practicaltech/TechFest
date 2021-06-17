@@ -31,3 +31,4 @@ New:
 
 https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-9a82-7d2d8731caa5.mp4
 
+<div align="center"><i>Make sure the pin you connect to on the board matches that of the code!!!</i></div>
