@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-9d81-0f1b2d4d9b79.mp4
 
-# Sensors galore! gather information, add logic, manipulate
+# Sensors prep: gather information, add logic, manipulate
 
 Revisited from last week:
 
