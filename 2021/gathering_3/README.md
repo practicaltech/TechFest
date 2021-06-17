@@ -7,12 +7,15 @@ Revisited from last week:
 1. [The LED at work (Arduino)]()
 
 New:
-
+(brainstorming)
+2. multimeter intro
 2. [Build a circuit you can turn on and off (buttons and switches)]()
 3. [Blink external LED with button (in circuit)]()
-4. [Serial Monitor (Hello World)]()
-6. [Read button press]()
-7. [Blink external LED with button (out of circuit)]()
+4. 
+5. [Serial Monitor (Hello World)]() {{{{end with this??}}} start with Input week after? or make big week?
+6. 
+7. [Read button press]()
+8. [Blink external LED with button (out of circuit)]()
 
 
 ### 1. The LED at work (Arduino)
