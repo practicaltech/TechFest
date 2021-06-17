@@ -8,11 +8,11 @@ Revisited from last week:
 
 New:
 
-2. [Add a button to LED + battery + resistors circuit]()
+2. [Build a circuit you can turn on and off (buttons and switches)]()
 3. [Blink external LED with button (in circuit)]()
 4. [Serial Monitor (Hello World)]()
-5. [Read button press]()
-6. [Blink external LED with button (out of circuit)]()
+6. [Read button press]()
+7. [Blink external LED with button (out of circuit)]()
 
 
 ### 1. The LED at work (Arduino)
@@ -35,16 +35,31 @@ https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-
 
 <br>
 
-### 2. Add a button to LED + battery + resistors circuit
-**Materials:** Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), button (included in kit),and jumper wires (included in kit).
+### 2. Build a circuit you can turn on and off (buttons and switches)
+**Materials:** Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), button (included in kit), and jumper wires (included in kit).
 
 **Objective:** Blink an LED with a button.
+
+**Intro to buttons and switches:**
+
+--Explain how a button and a switch wwork, what sides to connect to, how to tell (multimeter) (introduce voltmeter?)
 
 **Instructions:**
 
 <ol type="i">
   <li>Rebuild the circuit from last week</a></li>
-  <li>Follow the guide</li>
-  <li>Change the speed at which the external LED blinks</li>
+  <br>
+<p align="center"> 
+  <img width="600" height="730" src="https://user-images.githubusercontent.com/52707386/122060687-a7e30080-cda2-11eb-98d6-3f520c1f8d04.jpg"> 
+  <br>
+   <b>'Protected LED' circuit </b><br> 
+   </br><br>
+</p>
+<li></li>
 </ol>
 <br>
+
+### 3.
+
+
+Answers
