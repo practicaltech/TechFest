@@ -8,11 +8,11 @@ Revisited from last week:
 
 New:
 
-3. [Add a button to LED + Batt + Resistors circuit]()
-4. [Blink external LED with button (in circuit)]()
-5. [Serial Monitor (Hello World)]()
-6. [Read button press]()
-7. [Blink external LED with button (out of circuit)]()
+2. [Add a button to LED + battery + resistors circuit]()
+3. [Blink external LED with button (in circuit)]()
+4. [Serial Monitor (Hello World)]()
+5. [Read button press]()
+6. [Blink external LED with button (out of circuit)]()
 
 
 ### 1. The LED at work (Arduino)
@@ -32,3 +32,19 @@ New:
 https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-9a82-7d2d8731caa5.mp4
 
 <div align="center"><i>Make sure the pin you connect to on the board matches that of the code!!!</i></div>
+
+<br>
+
+### 2. Add a button to LED + battery + resistors circuit
+**Materials:** Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), button (included in kit),and jumper wires (included in kit).
+
+**Objective:** Blink an LED with a button.
+
+**Instructions:**
+
+<ol type="i">
+  <li>Rebuild the circuit from last week</a></li>
+  <li>Follow the guide</li>
+  <li>Change the speed at which the external LED blinks</li>
+</ol>
+<br>
