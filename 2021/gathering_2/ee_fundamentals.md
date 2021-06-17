@@ -5,6 +5,7 @@
 3. [Voltage](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#3-voltage)
 4. [Resistance & Resistors](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#4-resistance--resistors)
 5. [Ohm's Law (V=IR)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/ee_fundamentals.md#5-ohms-law-vir)
+6. [Useful Notes]()
 
 
 ### 1. Circuit
@@ -65,3 +66,11 @@ This equation allows you to figure out the characteristics of a circuit.
 Additional info:
 1. [Electronics Tutorials - Ohm's Law](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html)
 2. [Phet simulator - Ohm's Law](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html)
+
+<br>
+
+### 6. Useful Notes
+
+1. Color coding (when you see a red wire and a black wire in a circuit): 
+  1. Red usually means positive (connected to the positive terminal of the battery, provides power)
+  2. Black usually means negative (connected to the negative terminal of the battery, grounds the flow)
