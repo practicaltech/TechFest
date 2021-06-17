@@ -1,6 +1,24 @@
-Uploading WIN_20210616_20_30_59_Pro_Trim.mp4…
+<html>
+<body>
 
-# Sensors galore: gather, add logic, manipulate
+<video autoplay muted>
+  <source src="https://user-images.githubusercontent.com/52707386/122318712-62265500-ced4-11eb-9989-1ceccc2fa0ba.mp4" type="video/mp4">
+  <alt="RFID + LEDs">
+</video>
+
+</body>
+</html>
+
+
+
+<html>
+<video autoplay muted>
+  <source src="https://user-images.githubusercontent.com/52707386/122318712-62265500-ced4-11eb-9989-1ceccc2fa0ba.mp4" type="video/mp4">
+  <alt="RFID + LEDs">
+</video>
+</html>
+
+# Sensors galore! gather information, add logic, manipulate
 
 Revisited from last week:
 
