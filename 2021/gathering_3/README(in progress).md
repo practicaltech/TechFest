@@ -11,6 +11,29 @@ Revisited from last week:
 
 ### 1. Measuring voltage and resistance (multimeter)
 
+A multimeter is a tool used to measure resistance, voltage, and current (some also measure capacitance). It is invaluable for diagnosing systems and figuring out the characteristics of circuits. 
+Our multimeter offers the ability to measure voltage in both alternating current circuits (AC) and direct current circuits (DC). AC is denoted by the squiggly line above V and DC by the solid and dashed line. We will be using DC for our testing.
+
+![cropmultimeter_LI (3)](https://user-images.githubusercontent.com/52707386/122595779-c7399200-d01d-11eb-80c1-b16a13869590.jpg)
+
+
+**Materials:** multimeter, resistors (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
+
+**Objective:** Learn how a multimeter works by measuring a variety of electrical components.
+
+**Instructions:**
+
+<ol type="i">
+  <li>Put in the 9v battery</li>
+  <li>Connect the testing leads to the front (black in the center, red on the right)</li>
+  <li>Set the multimeter to read for continuity</li>
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/52707386/122596274-74aca580-d01e-11eb-9467-8e73136db208.jpg"> 
+  <li>Try testing a jumper wire, what does the multimeter read? What about a resistor?</li>
+  <li>Turn the dial to read for DC voltage. Test the battery by placing the red lead on the positive terminal and the black lead on the negative terminal. What does your multimeter read? Try turning the dial to the different options available within DC voltage. How does the value change?</li>
+</ol>
+
+<br>
+
 ### 2. Reading schematics (revisiting the circuit from last week)
 
 https://user-images.githubusercontent.com/52707386/122451703-4e730100-cf5d-11eb-801c-51644dc2431d.mp4
@@ -48,7 +71,7 @@ https://everycircuit.com/circuit/5845579776917504
 
 ### 3. Blink your LED (buttons and switches)
 
-**Materials:** Button (included in kit), Multimeter, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
+**Materials:** Button (included in kit), multimeter, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
 
 **Objective:** Understand how a button works and how to incorporate it into a circuit.
 
