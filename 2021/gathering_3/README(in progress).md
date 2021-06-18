@@ -2,7 +2,7 @@
 
 Revisited from last week:
 
-1. [Measuring voltage and resistance (multimeter)]()
+1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#1-measuring-voltage-and-resistance-multimeter)
 2. [Reading schematics]()
 3. [Blink your LED (buttons and switches)]()
 4. [Answers]()
