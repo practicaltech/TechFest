@@ -75,9 +75,12 @@ https://everycircuit.com/circuit/5845579776917504
 
 **Materials:** Button (included in kit), multimeter, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
 
-![WIN_20210618_12_38_22_Pro (2)_LI](https://user-images.githubusercontent.com/52707386/122598873-48932380-d022-11eb-808b-70e3d9bd3394.jpg)
-
-*This piece box is within the kit*
+<p align="center"> 
+  <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/122598873-48932380-d022-11eb-808b-70e3d9bd3394.jpg">
+  <br>
+  <i>This piece box is within the kit</i><br> 
+   </br><br>
+</p>
 
 **Objective:** Understand how a button works and how to incorporate it into a circuit.
 
