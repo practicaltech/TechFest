@@ -3,7 +3,7 @@
 Revisited from last week:
 
 1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#1-measuring-voltage-and-resistance-multimeter)
-2. [Reading schematics]()
+2. [Reading schematics](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#2-reading-schematics-revisiting-the-circuit-from-last-week)
 3. [Blink your LED (buttons and switches)]()
 4. [Answers]()
 
@@ -42,7 +42,7 @@ https://everycircuit.com/circuit/5845579776917504
 
 <br>
 
-**Materials:** Red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
+**Materials:** Writing utensil, paper, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
 
 **Objective:** Understand how to read a simple schematic and translate that into a working circuit and vice versa.
 
@@ -57,7 +57,7 @@ https://everycircuit.com/circuit/5845579776917504
    <b>'Protected LED' circuit </b><br> 
    </br><br>
 </p>
-   <li> Look at the key below and draw the circuit you've created.</li>
+   <li> Look at the key below and draw the circuit you've created using the symbols below. <i>Draw a line from the end of one component to the next to represent a wire connecting them.</i></li>
    <br>
 <p align="center"> 
   <a href="https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all"><img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/122452671-5aab8e00-cf5e-11eb-96ea-d670c83e5679.png" alt="Truncated schematic symbols"> </a>
