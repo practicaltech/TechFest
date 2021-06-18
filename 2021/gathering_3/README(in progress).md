@@ -4,8 +4,8 @@ Revisited from last week:
 
 1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#1-measuring-voltage-and-resistance-multimeter)
 2. [Reading schematics (revisiting the circuit from last week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#2-reading-schematics-revisiting-the-circuit-from-last-week)
-3. [Blink your LED (buttons and switches)]()
-4. [Answers]()
+3. [Blink your LED (buttons and switches)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#3-blink-your-led-buttons-and-switches)
+4. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#4-answers)
 
 
 
@@ -38,6 +38,8 @@ Our multimeter offers the ability to measure voltage in both alternating current
 
 https://user-images.githubusercontent.com/52707386/122451703-4e730100-cf5d-11eb-801c-51644dc2431d.mp4
 
+*In this simulation voltage is supplied by a power source, the power source symbol is different to that of a battery*
+
 https://everycircuit.com/circuit/5845579776917504
 
 <br>
@@ -57,7 +59,7 @@ https://everycircuit.com/circuit/5845579776917504
    <b>'Protected LED' circuit </b><br> 
    </br><br>
 </p>
-   <li> Look at the key below and draw the circuit you've created using the symbols below. <i>Draw a line from the end of one component to the next to represent a wire connecting them.</i></li>
+   <li> Draw the circuit you've created using the symbols below. <i>Draw a line from the end of one component to the next to represent a wire connecting them.</i></li>
    <br>
 <p align="center"> 
   <a href="https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all"><img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/122452671-5aab8e00-cf5e-11eb-96ea-d670c83e5679.png" alt="Truncated schematic symbols"> </a>
@@ -73,15 +75,20 @@ https://everycircuit.com/circuit/5845579776917504
 
 **Materials:** Button (included in kit), multimeter, red LED (included in kit), 2x220ohm resistors (included in kit), breadboard (included in kit), 9v battery (included in kit), and jumper wires (included in kit).
 
+![WIN_20210618_12_38_22_Pro (2)_LI](https://user-images.githubusercontent.com/52707386/122598873-48932380-d022-11eb-808b-70e3d9bd3394.jpg)
+
+*This piece box is within the kit*
+
 **Objective:** Understand how a button works and how to incorporate it into a circuit.
 
 **Instructions:**
 
 <ol type='i'>
-  <li></li>
-  <li>Find out what the symbol for a 'NO button' is in a schematic</li>
+  <li>Find out what the symbol for a 'NO button' is in a schematic. You will need to google this. In functionality, it is similar to the SPST switch in the key above.</li>
   From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need?
-  <li>Use a multimeter to measure the resistance between pins. What is the resistance between two that are opposing vs. two that are on the same side? ADD IMAGES FOR WHAT IM TALKING ABOUT</li>
+  <li>Use a multimeter to measure the resistance between pins on the button. What is the resistance between two that are opposing vs. two that are on the same side?</li>
+  <img width="600" height="600" src="https://user-images.githubusercontent.com/52707386/122598709-0bc72c80-d022-11eb-9452-df97fef5b4c5.jpg">
+  
   <li>Incorporate the button into the circuit you made previously. Does it matter where you place it? Which pins do you need to connect to?</li>
   <li>blink your led!</li>
 </ol>
