@@ -103,4 +103,18 @@ https://everycircuit.com/circuit/5845579776917504
 
 ### 4. Answers
 
+
+Continuity tests to see if the circuit (path between the two testing leads in this case) is closed (can electricity run through it?).
+  <li>Try testing a jumper wire, what does the multimeter read? What about a resistor? Try switching the dial to the other modes within resistance (Ω), what does the multimeter read?</li>
+  <li>Turn the dial to read for DC voltage. Test the battery by placing the red lead on the positive terminal and the black lead on the negative terminal. What does your multimeter read? Try turning the dial to the different options available within DC voltage. How does the value change?</li>
+
+<li> Draw the circuit you've created using the symbols below. <i>Draw a line from the end of one component to the next to represent a wire connecting them.</i></li>
 add drawing of circuit 1
+
+<ol type='i'>
+  <li>Find out what the symbol for a 'NO button' is in a schematic. You will need to google this. In functionality, it is similar to the SPST switch in the key above.</li>
+  From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need for electricity to flow through it?
+  <li>Turn the dial on your multimeter to continuity. Use the multimeter to measure the resistance between pins on the button. What is the resistance between two that are opposing vs. two that are on the same side?</li>
+  
+    <li>Incorporate the button into the circuit you made previously. Does it matter where you place it? Which pins do you need to connect to?</li>
+  <li>blink your led!</li>
