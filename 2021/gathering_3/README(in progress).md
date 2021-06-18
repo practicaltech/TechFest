@@ -12,7 +12,7 @@ Revisited from last week:
 ### 1. Measuring voltage and resistance (multimeter)
 
 A multimeter is a tool used to measure resistance, voltage, and current (some also measure capacitance). It is invaluable for diagnosing systems and figuring out the characteristics of circuits. 
-Our multimeter offers the ability to measure voltage in both alternating current circuits (AC) and direct current circuits (DC). AC is denoted by the squiggly line above V and DC by the solid and dashed line. We will be using DC for our testing.
+Our multimeter offers the ability to measure voltage in both alternating current (AC) systems and direct current (DC) systems. AC is denoted by the squiggly line above V and DC by the solid and dashed line. We will be using DC for our testing.
 
 ![cropmultimeter_LI (3)](https://user-images.githubusercontent.com/52707386/122595779-c7399200-d01d-11eb-80c1-b16a13869590.jpg)
 
@@ -25,10 +25,11 @@ Our multimeter offers the ability to measure voltage in both alternating current
 
 <ol type="i">
   <li>Put in the 9v battery</li>
-  <li>Connect the testing leads to the front (black in the center, red on the right)</li>
-  <li>Set the multimeter to read for continuity</li>
+  <li>Connect the testing leads to the front of the multimeter (black in the center, red on the right)</li>
+  <li>Set the multimeter to read for continuity (circled in cyan below)</li>
   <img width="600" height="300" src="https://user-images.githubusercontent.com/52707386/122596274-74aca580-d01e-11eb-9467-8e73136db208.jpg"> 
-  <li>Try testing a jumper wire, what does the multimeter read? What about a resistor?</li>
+  Continuity tests to see if the circuit (path between the two testing leads in this case) is closed (can electricity run through it?).
+  <li>Try testing a jumper wire, what does the multimeter read? What about a resistor? Try switching the dial to the other modes within resistance (Ω), what does the multimeter read?</li>
   <li>Turn the dial to read for DC voltage. Test the battery by placing the red lead on the positive terminal and the black lead on the negative terminal. What does your multimeter read? Try turning the dial to the different options available within DC voltage. How does the value change?</li>
 </ol>
 
@@ -88,8 +89,8 @@ https://everycircuit.com/circuit/5845579776917504
 
 <ol type='i'>
   <li>Find out what the symbol for a 'NO button' is in a schematic. You will need to google this. In functionality, it is similar to the SPST switch in the key above.</li>
-  From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need?
-  <li>Use a multimeter to measure the resistance between pins on the button. What is the resistance between two that are opposing vs. two that are on the same side?</li>
+  From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need for electricity to flow through it?
+  <li>Turn the dial on your multimeter to continuity. Use the multimeter to measure the resistance between pins on the button. What is the resistance between two that are opposing vs. two that are on the same side?</li>
   <img width="600" height="600" src="https://user-images.githubusercontent.com/52707386/122598709-0bc72c80-d022-11eb-9452-df97fef5b4c5.jpg">
   
   <li>Incorporate the button into the circuit you made previously. Does it matter where you place it? Which pins do you need to connect to?</li>
