@@ -103,11 +103,15 @@ https://everycircuit.com/circuit/5845579776917504
 
 1.iv 
 
-![WIN_20210619_20_39_02_Pro](https://user-images.githubusercontent.com/52707386/122659536-01925480-d12e-11eb-9d80-4f6dc80f5454.jpg)
+<p align="center"> 
+  <img width="560" height="400" src="https://user-images.githubusercontent.com/52707386/122659536-01925480-d12e-11eb-9d80-4f6dc80f5454.jpg"> 
+   </br>
+   <b>Example showing how to place the multimeter leads for testing.</b><br> 
+   </br><br>
+</p>
+The multimeter should read 0Ω for the jumper wire and 220Ω for the resistors we used for our circuit (the number will vary for different resistors). When you change the mode within Ω, you are changing the range that you are reading at. If the resistance value is too low or too high for the range you are reading at, the reading may be incomplete or missing.
 
-Example showing how to place the multimeter leads for testing.
-
-Answer: the multimeter should read 0Ω for the wire and 220Ω for the resistors we used for our circuit (the number will vary for different resistors). When you change the mode within Ω, you are changing the range that you are reading at. If the resistance value is too low or too high for the range you are reading at, the reading may be incomplete or missing.
+<br>
 
 1.v
 
@@ -121,11 +125,27 @@ The multimeter should read 9v or close to it. When you move the dial, the 9 will
    <b>Drawing of the circuit (conventional) </b><br> 
    </br><br>
 </p>
+3.i
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/52707386/122659836-a7df5980-d130-11eb-8da4-f411097ad8e5.png"> 
+   </br>
+   <b>NO pushbutton</b><br> 
+   </br>
+</p>
+When pressed, the button will close the circuit and allow for current to flow. When left unpushed, the normally open (NO) button will create a gap in the circuit, preventing the flow of current.
 
-<ol type='i'>
-  <li>Find out what the symbol for a 'NO button' is in a schematic. You will need to google this. In functionality, it is similar to the SPST switch in the key above.</li>
-  From looking at the symbol, how does the button interact with a circuit? Look back to the elements of a circuit. What does a circuit need for electricity to flow through it?
-  <li>Turn the dial on your multimeter to continuity. Use the multimeter to measure the resistance between pins on the button. What is the resistance between two that are opposing vs. two that are on the same side?</li>
-  
-    <li>Incorporate the button into the circuit you made previously. Does it matter where you place it? Which pins do you need to connect to?</li>
-  <li>blink your led!</li>
+<br>
+
+3.ii
+
+Pins that are opposing eachother under the button should have 0 resistance between them. Pins that are next to eachother should have a large resistance when the button is unpressed. To succesfully incorporate the button into our circuit, we will need to connect to pins that are next to eachother.
+
+<br>
+
+3.iii & 3.iv
+
+It does not matter where you place the button in the system, it will still create a gap that can be closed when the button is pressed.
+
+https://user-images.githubusercontent.com/52707386/122659966-ff31f980-d131-11eb-88c7-39d159db2b28.mp4
+
+
