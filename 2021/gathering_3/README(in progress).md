@@ -1,7 +1,5 @@
 # Tools of the trade: using a multimeter, reading schematics, buttons & switches
 
-Revisited from last week:
-
 1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#1-measuring-voltage-and-resistance-multimeter)
 2. [Reading schematics (revisiting the circuit from last week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#2-reading-schematics-revisiting-the-circuit-from-last-week)
 3. [Blink your LED (buttons and switches)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#3-blink-your-led-buttons-and-switches)
@@ -103,13 +101,26 @@ https://everycircuit.com/circuit/5845579776917504
 
 ### 4. Answers
 
+1.iv 
 
-Continuity tests to see if the circuit (path between the two testing leads in this case) is closed (can electricity run through it?).
-  <li>Try testing a jumper wire, what does the multimeter read? What about a resistor? Try switching the dial to the other modes within resistance (Ω), what does the multimeter read?</li>
-  <li>Turn the dial to read for DC voltage. Test the battery by placing the red lead on the positive terminal and the black lead on the negative terminal. What does your multimeter read? Try turning the dial to the different options available within DC voltage. How does the value change?</li>
+![WIN_20210619_20_39_02_Pro](https://user-images.githubusercontent.com/52707386/122659536-01925480-d12e-11eb-9d80-4f6dc80f5454.jpg)
 
-<li> Draw the circuit you've created using the symbols below. <i>Draw a line from the end of one component to the next to represent a wire connecting them.</i></li>
-add drawing of circuit 1
+Example showing how to place the multimeter leads for testing.
+
+Answer: the multimeter should read 0Ω for the wire and 220Ω for the resistors we used for our circuit (the number will vary for different resistors). When you change the mode within Ω, you are changing the range that you are reading at. If the resistance value is too low or too high for the range you are reading at, the reading may be incomplete or missing.
+
+1.v
+
+The multimeter should read 9v or close to it. When you move the dial, the 9 will move some decimal places to the right or left as you read in kV, mV, etc.
+
+2.ii
+
+<p align="center"> 
+  <img width="560" height="400" src="https://user-images.githubusercontent.com/52707386/122061318-3c4d6300-cda3-11eb-9e76-33493a32d96a.jpg"> 
+   </br>
+   <b>Drawing of the circuit (conventional) </b><br> 
+   </br><br>
+</p>
 
 <ol type='i'>
   <li>Find out what the symbol for a 'NO button' is in a schematic. You will need to google this. In functionality, it is similar to the SPST switch in the key above.</li>
