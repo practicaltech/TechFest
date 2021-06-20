@@ -146,6 +146,7 @@ Pins that are opposing eachother under the button should have 0 resistance betwe
 
 It does not matter where you place the button in the system, it will still create a gap that can be closed when the button is pressed.
 
-https://user-images.githubusercontent.com/52707386/122659966-ff31f980-d131-11eb-88c7-39d159db2b28.mp4
+https://user-images.githubusercontent.com/52707386/122659986-27215d00-d132-11eb-978b-6b506326c1a2.mp4
+
 
 
