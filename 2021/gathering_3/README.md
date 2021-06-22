@@ -111,6 +111,8 @@ https://everycircuit.com/circuit/5845579776917504
 </p>
 The multimeter should read 0Ω for the jumper wire and 220Ω for the resistors we used for our circuit (the number will vary for different resistors). When you change the mode within Ω, you are changing the range that you are reading at. If the resistance value is too low or too high for the range you are reading at, the reading may be incomplete or missing.
 
+
+<br>
 <br>
 
 1.v
@@ -134,6 +136,7 @@ The multimeter should read 9v or close to it. When you move the dial, the 9 will
 </p>
 When pressed, the button will close the circuit and allow for current to flow. When left unpushed, the normally open (NO) button will create a gap in the circuit, preventing the flow of current.
 
+<br>
 <br>
 
 3.ii
