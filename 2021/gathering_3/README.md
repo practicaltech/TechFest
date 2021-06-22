@@ -1,9 +1,9 @@
 # Tools of the trade: using a multimeter, reading schematics, buttons & switches
 
-1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#1-measuring-voltage-and-resistance-multimeter)
-2. [Reading schematics (revisiting the circuit from last week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#2-reading-schematics-revisiting-the-circuit-from-last-week)
-3. [Blink your LED (buttons and switches)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#3-blink-your-led-buttons-and-switches)
-4. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README(in%20progress).md#4-answers)
+1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#1-measuring-voltage-and-resistance-multimeter)
+2. [Reading schematics (revisiting the circuit from last week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#2-reading-schematics-revisiting-the-circuit-from-last-week)
+3. [Blink your LED (buttons and switches)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#3-blink-your-led-buttons-and-switches)
+4. [Answers](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#4-answers)
 
 
 
