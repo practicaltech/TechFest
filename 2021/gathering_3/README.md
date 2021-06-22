@@ -10,7 +10,7 @@
 ### 1. Measuring voltage and resistance (multimeter)
 
 A multimeter is a tool used to measure resistance, voltage, and current (some also measure capacitance). It is invaluable for diagnosing systems and figuring out the characteristics of circuits. 
-Our multimeter offers the ability to measure voltage in both alternating current (AC) systems and direct current (DC) systems. AC is denoted by the squiggly line above V and DC by the solid and dashed line. We will be using DC for our testing.
+Our multimeter offers the ability to measure voltage in both alternating current (AC) systems and direct current (DC) systems. AC is denoted by the squiggly line above V and DC by the solid and dashed line. **We will be using DC for our testing.**
 
 ![cropmultimeter_LI (3)](https://user-images.githubusercontent.com/52707386/122595779-c7399200-d01d-11eb-80c1-b16a13869590.jpg)
 
