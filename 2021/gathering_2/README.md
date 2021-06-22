@@ -158,3 +158,6 @@ Once you get the LED to flash
    <b>Drawing of the circuit (conventional) </b><br> 
    </br><br>
 </p>
+
+<p align="right">Main Page | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></p>
+</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
