@@ -1,3 +1,9 @@
+
+<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">Next</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a>
+<br/>
+<sup>gathering_1</sup></p>
+
+
 # Intro to Microcontrollers
 1. [Download Arduino IDE](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#1-download-arduino-ide)
 2. [Download Elegoo kit guides and libraries](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#2-download-elegoo-kit-guides-and-libraries)
