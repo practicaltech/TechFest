@@ -156,12 +156,8 @@ It does not matter where you place the button in the system, it will still creat
 
 https://user-images.githubusercontent.com/52707386/122659986-27215d00-d132-11eb-978b-6b506326c1a2.mp4
 
-<br>
-<p align="right">Main Page | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4">gathering_4</a></p>
-</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
-
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4">gathering_3</a></b>
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">gathering_3</a></p>
-</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
+</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
