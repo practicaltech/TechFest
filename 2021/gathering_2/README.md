@@ -168,4 +168,4 @@ Once you get the LED to flash
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></b>
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">gathering_1</a></p>
-</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
+</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
