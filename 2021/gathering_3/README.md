@@ -159,3 +159,9 @@ https://user-images.githubusercontent.com/52707386/122659986-27215d00-d132-11eb-
 <br>
 <p align="right">Main Page | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4">gathering_4</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
+
+
+<p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4">gathering_3</a></b>
+<br/>
+Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">gathering_3</a></p>
+</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
