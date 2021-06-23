@@ -1,5 +1,5 @@
 
-<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">Next</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a>
+<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">gathering_2</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a>
 <br/>
 <sup>gathering_1</sup></p>
 
@@ -92,4 +92,4 @@ A microcontroller is a mini-computer that performs a task(s) over and over again
 <br>
 
 <p align="right">Main Page | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">gathering_2</a></p>
-</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
+</b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
