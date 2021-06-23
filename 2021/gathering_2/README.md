@@ -1,3 +1,8 @@
+<img src="https://user-images.githubusercontent.com/52707386/123175456-ad8db580-d436-11eb-936c-f43bb45d83f9.jpg" width="100%">
+<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">Back</a> |<a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3"> Next</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup> Contents</sup></a>
+<br/>
+<sup>gathering_2</sup></p>
+
 # The LED: an intro into your new best friend
 1. [Turn 'ON' an LED (battery)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#1-turn-on-an-led-battery)
 2. [Protect your LED (resistor)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_2/README.md#2-protect-your-led-resistors)
@@ -159,5 +164,8 @@ Once you get the LED to flash
    </br><br>
 </p>
 
-<p align="right">Main Page | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></p>
+##
+<p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></b>
+<br/>
+Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">gathering_1</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href=""><sup>Table of Contents</sup></a></p>
