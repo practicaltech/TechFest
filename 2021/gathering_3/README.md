@@ -1,3 +1,8 @@
+<img src="https://user-images.githubusercontent.com/52707386/123175456-ad8db580-d436-11eb-936c-f43bb45d83f9.jpg" width="100%">
+<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">Back</a> |<a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4"> Next</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup> Contents</sup></a>
+<br/>
+<sup>gathering_3</sup></p>
+
 # Tools of the trade: using a multimeter, reading schematics, buttons & switches
 
 1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#1-measuring-voltage-and-resistance-multimeter)
