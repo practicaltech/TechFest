@@ -164,7 +164,7 @@ Once you get the LED to flash
    </br><br>
 </p>
 
-##
+
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></b>
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1">gathering_1</a></p>
