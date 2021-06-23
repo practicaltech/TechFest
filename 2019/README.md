@@ -1,9 +1,9 @@
 # Table of contents
 
-1. [gathering_1](/README.md#gathering_1)
-2. [gathering_2]()
-3. [gathering_3]()
-4. [gathering_4]()
+1. [gathering_1](../README.md#gathering_1)
+2. [gathering_2](https://github.com/practicaltech/TechFest/tree/master/2019#gathering_2)
+3. [gathering_3](https://github.com/practicaltech/TechFest/tree/master/2019#gathering_3)
+4. [gathering_4](https://github.com/practicaltech/TechFest/tree/master/2019#gathering_4)
 5. [gathering_5]()
 6. [gathering_6]()
 7. [gathering_7]()
