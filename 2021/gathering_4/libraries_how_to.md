@@ -58,3 +58,4 @@ Many libraries that are offered by Arduino, SparkFun, Elegoo, etc., come in a zi
    </br><br>
 </p>
 
+More info on libraries and the files they contain: (C++ (Arduino is based off C++)) [cplusplus.com guide](https://www.cplusplus.com/articles/Gw6AC542/).
