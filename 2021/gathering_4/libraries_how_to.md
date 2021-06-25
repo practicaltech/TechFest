@@ -1,4 +1,4 @@
-# How to add libraries to the Arduino IDE:
+# How to add libraries to the Arduino IDE
 
 **What is a library?**
 
