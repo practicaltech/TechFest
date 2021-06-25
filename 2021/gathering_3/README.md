@@ -30,9 +30,10 @@ Our multimeter offers the ability to measure voltage in both alternating current
   <li>Put in the 9v battery</li>
   <li>Connect the testing leads to the front of the multimeter (black in the center, red on the right)</li>
   <li>Set the multimeter to read for continuity (circled in cyan below)</li>
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/52707386/122596274-74aca580-d01e-11eb-9467-8e73136db208.jpg"> 
-  
-  Continuity tests to see if the circuit (path between the two testing leads in this case) is closed (can electricity run through it?).
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/52707386/122596274-74aca580-d01e-11eb-9467-8e73136db208.jpg">
+  <br>Continuity tests to see if the circuit (path between the two testing leads in this case) is closed (can electricity run through it?). For more information check out this <a href="https://www.fluke.com/en-us/learn/blog/electrical/what-is-continuity">guide by Fluke</a>.
+  <br>
+  <br>
   <li>Try testing a jumper wire, what does the multimeter read? What about a resistor? Try switching the dial to the other modes within resistance (Ω), what does the multimeter read?</li>
   <li>Turn the dial to read for DC voltage. Test the battery by placing the red lead on the positive terminal and the black lead on the negative terminal. What does your multimeter read? Try turning the dial to the different options available within DC voltage. How does the value change?</li>
 </ol>
