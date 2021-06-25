@@ -3,7 +3,7 @@
 <br/>
 <sup>gathering_3</sup></p>
 
-# Tools of the trade: using a multimeter, reading schematics, buttons & switches
+# Tools of the trade
 
 1. [Measuring voltage and resistance (multimeter)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#1-measuring-voltage-and-resistance-multimeter)
 2. [Reading schematics (revisiting the circuit from last week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#2-reading-schematics-revisiting-the-circuit-from-last-week)
