@@ -6,7 +6,7 @@
 
 https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-9d81-0f1b2d4d9b79.mp4
 
-# Sensors galore: gather information, add logic, visualize result
+# Sensors galore: gather information, add logic, visualize results
 
 1. [Turn on an external LED with the board]()
 2. [Hello World: using the serial monitor]()
