@@ -15,9 +15,27 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 5. [Read from a sensor]()
 6. [Use sensor info to manipulate LED]()
 7. [Use any sensor in the kit]()
+8. [Answers]()
 
 
 ### 1. Turn on an external LED with the board 
+
+**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit](), an LED (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Learn how to output signals with your board (0-5V signals).
+
+**Instructions:**
+
+<ol type="i">
+  <li>Recreate the 'protected LED' circuit from 2 weeks ago</li>
+  <img width="600" height="730" src="https://user-images.githubusercontent.com/52707386/122060687-a7e30080-cda2-11eb-98d6-3f520c1f8d04.jpg"> 
+   </br><br>
+  <li>Disconnect the red wire from the battery and connect it to Pin 22 on the board</li>
+  <li>Disconnect the black wire from the battery and connect it to GND on the board</li>
+  <li>Run the code example 'Blink' with <code>LED_BUILTIN</code> swapped out for <code>22</code> </li>
+  <li>How is our board similar to a battery? How is it different?</li>
+</ol>
+<br>
 
 ### 2. Hello World: using the serial monitor
 
@@ -65,23 +83,9 @@ We've used our digital I/O pins as I/**O**(output) when we used our board to con
 </ol>
 <br>
 
+### x. Answers
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+add images on how to open blink and how to swapp led_builtin for 22
 
 https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-9a82-7d2d8731caa5.mp4
 
@@ -89,34 +93,7 @@ https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-
 
 <br>
 
-### 2. Build a circuit you can turn on and off (buttons and switches)
-**Materials:** Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), button (included in kit), and jumper wires (included in kit).
 
-**Objective:** Blink an LED with a button.
-
-**Intro to buttons and switches:**
-
---Explain how a button and a switch wwork, what sides to connect to, how to tell (multimeter) (introduce voltmeter?)
-
-**Instructions:**
-
-<ol type="i">
-  <li>Rebuild the circuit from last week</a></li>
-  <br>
-<p align="center"> 
-  <img width="600" height="730" src="https://user-images.githubusercontent.com/52707386/122060687-a7e30080-cda2-11eb-98d6-3f520c1f8d04.jpg"> 
-  <br>
-   <b>'Protected LED' circuit </b><br> 
-   </br><br>
-</p>
-<li></li>
-</ol>
-<br>
-
-### 3.
-
-
-Answers
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5">gathering_5</a></b>
 <br/>
