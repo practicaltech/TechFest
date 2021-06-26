@@ -1,21 +1,19 @@
+<img src="https://user-images.githubusercontent.com/52707386/123524825-9f7fa500-d681-11eb-8fe6-452afc4e432d.png" width="100%">
+<p align="right"><sup>  <a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">Back</a> |<a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5"> Next</a> | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup> Contents</sup></a>
+<br/>
+<sup>gathering_4</sup></p>
+
+
 https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-9d81-0f1b2d4d9b79.mp4
 
-# Sensors prep: gather information, add logic, manipulate
+# Sensors galore: gather information, add logic, visualize result
 
-Revisited from last week:
-
-1. [The LED at work (Arduino)]()
-
-New:
-(brainstorming)
-2. multimeter intro
-2. [Build a circuit you can turn on and off (buttons and switches)]()
-3. [Blink external LED with button (in circuit)]()
-4. 
-5. [Serial Monitor (Hello World)]() {{{{end with this??}}} start with Input week after? or make big week?
-6. 
-7. [Read button press]()
-8. [Blink external LED with button (out of circuit)]()
+1. [Hello World: using the serial monitor]()
+2. [Read an input with your board (button)]()
+3. [Use input and logic to turn on an LED]()
+4. [Read from a sensor]()
+5. [Use sensor info to manipulate LED]()
+6. [Use any sensor in the kit]()
 
 
 ### 1. The LED at work (Arduino)
