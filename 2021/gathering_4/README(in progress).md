@@ -16,16 +16,20 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 6. [Use any sensor in the kit]()
 
 
-### 1. The LED at work (Arduino)
-**Materials:** Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), USB to USB A/B cable (included in kit), Red LED (included in kit), Resistors (included in kit), breadboard (included in kit), and jumper wires (included in kit).
+### 1. Hello World: using the serial monitor
 
-**Objective:** Turn an external LED on and off using the Arduino Mega board.
+The serial monitor allows us to communicate with our board as a process is being run. The serial monitor can both show and read text. It can show us words and numbers the process running on the board is printing and we can type in the serial monitor to send commands to our board.It is an invaluable tool for interacting with our board, whether to debug, read sensor values, send commands, etc.
+
+**Materials:** Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Learn how to open, and print to, the serial monitor
 
 **Instructions:**
 
 <ol type="i">
-  <li>Navigate to <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink">Arduino 'Blink'</a></li>
-  <li>Follow the guide</li>
+  <li>Open the Arduino IDE and create a new sketch</li>
+  [image of new sketch]
+  <li>add a print statement in the setup with any text you'd like. Traditionally, programmers first try 'hello world.'</li>
   <li>Change the speed at which the external LED blinks</li>
 </ol>
 <br>
