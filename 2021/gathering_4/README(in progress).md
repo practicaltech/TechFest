@@ -20,19 +20,65 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 The serial monitor allows us to communicate with our board as a process is being run. The serial monitor can both show and read text. It can show us words and numbers the process running on the board is printing and we can type in the serial monitor to send commands to our board.It is an invaluable tool for interacting with our board, whether to debug, read sensor values, send commands, etc.
 
+*[History blurb on 'Hello, World!'](https://ozanerhansha.medium.com/on-the-origin-of-hello-world-61bfe98196d5)*
+
 **Materials:** Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
 
-**Objective:** Learn how to open, and print to, the serial monitor
+**Objective:** Learn how to open, and print to, the serial monitor.
 
 **Instructions:**
 
 <ol type="i">
-  <li>Open the Arduino IDE and create a new sketch</li>
-  [image of new sketch]
-  <li>add a print statement in the setup with any text you'd like. Traditionally, programmers first try 'hello world.'</li>
-  <li>Change the speed at which the external LED blinks</li>
+  <li>Open the Arduino IDE and create a new sketch (Ctrl + N is the shortcut)</li>
+  <li>Initialize the serial monitor by typing <code>Serial.begin(9600);</code> in the <code>void setup(){</code> section.</li>
+  <li>Add a print statement after the previous line of code with any text you'd like. Traditionally, programmers first try <code>hello world</code>.</li>
+  <img width="400" height="300" src="https://user-images.githubusercontent.com/52707386/123526100-7283c000-d68a-11eb-84fa-58a858607352.png"> 
+  <br>
+  <br>
+  <li>Make sure the right board (Mega 2560) and the right port are selected</li>
+  <img src="https://user-images.githubusercontent.com/52707386/123526291-be833480-d68b-11eb-9099-2015741f205e.jpg"> 
+  <br>
+  <br>
+  <li>Upload your code (Ctrl + U or click on the right arrow below the header)</li>
+  <li>Open the serial monitor (Ctrl + Shift + M)</li>
+  <b>Congratulations! You've joined millions of hobbyists and engineers in succesfully communicating with your device in code.</b>
+  <i>Sometimes the print statement will not be visible in the serial monitor. Look at the end of this file for tips and tricks to make sure you're always able to read what you print to the serial monitor.</i>
 </ol>
 <br>
+
+### 2. Read an input with your board (button)
+
+We've used our digital I/O pins as I/**O**(output) when we used our board to control an external LED. Now, we will learn how to use them as **I**(input)/O to collect information.
+
+**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Learn how to gather information with the board.
+
+**Instructions:**
+
+<ol type="i">
+  <li></li>
+  <li></li>
+</ol>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-9a82-7d2d8731caa5.mp4
 
