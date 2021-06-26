@@ -8,15 +8,18 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 # Sensors galore: gather information, add logic, visualize result
 
-1. [Hello World: using the serial monitor]()
-2. [Read an input with your board (button)]()
-3. [Use input and logic to turn on an LED]()
-4. [Read from a sensor]()
-5. [Use sensor info to manipulate LED]()
-6. [Use any sensor in the kit]()
+1. [Turn on an external LED with the board]()
+2. [Hello World: using the serial monitor]()
+3. [Read an input with the board (button)]()
+4. [Use input and logic to turn on an LED]()
+5. [Read from a sensor]()
+6. [Use sensor info to manipulate LED]()
+7. [Use any sensor in the kit]()
 
 
-### 1. Hello World: using the serial monitor
+### 1. Turn on an external LED with the board 
+
+### 2. Hello World: using the serial monitor
 
 The serial monitor allows us to communicate with our board as a process is being run. The serial monitor can both show and read text. It can show us words and numbers the process running on the board is printing and we can type in the serial monitor to send commands to our board.It is an invaluable tool for interacting with our board, whether to debug, read sensor values, send commands, etc.
 
@@ -46,7 +49,7 @@ The serial monitor allows us to communicate with our board as a process is being
 </ol>
 <br>
 
-### 2. Read an input with your board (button)
+### 3. Read an input with the board (button)
 
 We've used our digital I/O pins as I/**O**(output) when we used our board to control an external LED. Now, we will learn how to use them as **I**(input)/O to collect information.
 
