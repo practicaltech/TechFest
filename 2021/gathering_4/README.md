@@ -132,7 +132,7 @@ Having completed the schema of going from information in, logic, then informatio
   <br>
 <img width="500" height="300" src="https://user-images.githubusercontent.com/52707386/123834964-d5f53400-d8bc-11eb-8f20-76955d6f24fa.jpg">
   <br>
-  <li>From the same Elegoo file folder, go to 'code'>'Lesson 10 Ultraso...'>'SR04_Example', open the file and run the code. If prompted to make a file for the file, click yes.</li>
+  <li>From the same Elegoo file folder, go to <b>code > Lesson 10 Ultraso... > SR04_Example</b>, open the file and run the code. If prompted to make a folder for the file, click yes.</li>
   <li>Run the code and open the serial monitor. How is the data presented in the serial monitor? Can you track what part of the code is printing this data?</li>
 </ol>
 <br>
@@ -226,6 +226,11 @@ I'll attach my code for this wiring setup within the gathering_4 folder, [Button
 <br>
 
 #### 5. Read from a sensor
+
+![image](https://user-images.githubusercontent.com/52707386/123848669-d269a900-d8cc-11eb-9b97-592d4c70abc3.png)
+
+![InkedScreenshot 2021-06-29 132647_LI](https://user-images.githubusercontent.com/52707386/123848948-1f4d7f80-d8cd-11eb-8b43-a273c7a118a8.jpg)
+
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5">gathering_5</a></b>
