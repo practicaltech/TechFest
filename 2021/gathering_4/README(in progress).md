@@ -87,6 +87,7 @@ We've used our digital I/O pins as I/**O**(output) when we used our board to con
   <li>Upload the code</li>
   <li>Switch the black wire to 5v. We do this <i>after</i> we change the code so as to not send a voltage signal to a pin we programmed as OUTPUT (this causes problems).</li>
   <li>Open up the serial monitor (Ctrl + Shift + M), what do you see? Re-upload the code if you need to.</li>
+  <li>Check out the information at the end on preventing noise/pulldowns.</li>
 </ol>
 <br>
 
@@ -166,7 +167,7 @@ Relevant links:
 
 ### 8. Answers
 
-##### 1. Turn on an external LED with the board
+#### 1. Turn on an external LED with the board
 
 ![Screenshot 2021-06-29 121212](https://user-images.githubusercontent.com/52707386/123839875-80238a80-d8c2-11eb-8a8f-a42a34e89ad3.png)
 
@@ -186,20 +187,28 @@ Our board is similar to a battery in the sense that it can provide power, yet it
 
 <br>
 
-##### 2. Hello World: using the serial monitor
+#### 2. Hello World: using the serial monitor
 
 Information on printing 'hello world' to the serial monitor succesfully [here](https://github.com/practicaltech/TechFest/blob/master/2019/gathering_1/FAQ.md).
 
 <br>
 
-##### 3. Read an input with the board (button)
+#### 3. Read an input with the board (button)
 
+Noise in this case is any unintended voltage being read by our input pin. Unintended voltage, in this case, is any static or other signal that causes us to read voltages apart from what we're supplying. To prevent this, we connect the input pin to ground so that it reads 0 when we're not sending a signal to it. To do this, follow the guide and image below.
+
+<p align="center"> 
+  <img width="850" height="400" src="https://user-images.githubusercontent.com/52707386/123843299-9f241b80-d8c6-11eb-99c0-45c280928745.jpg"> 
+  <br>
+  <b><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Arduino wiring diagram and guide</a></b><br>Make sure you connect to pin 22 instead of the one in this wiring diagram 
+   </br><br>
+</p>
+<br>
+
+#### 4. 
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5">gathering_5</a></b>
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
-
-
-for # 3 add pull down stuff to
