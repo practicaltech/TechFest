@@ -8,14 +8,14 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 # Sensors galore: gather information, add logic, visualize results
 
-1. [Turn on an external LED with the board]()
-2. [Hello World: using the serial monitor]()
-3. [Read an input with the board (button)]()
-4. [Use input and logic to turn on an LED]()
-5. [Read from a sensor]()
-6. [Use sensor info to manipulate LED]()
-7. [Use any sensor in the kit]()
-8. [Answers & hints]()
+1. [Turn on an external LED with the board](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#1-turn-on-an-external-led-with-the-board)
+2. [Hello World: using the serial monitor](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#2-hello-world-using-the-serial-monitor)
+3. [Read an input with the board (button)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#3-read-an-input-with-the-board-button)
+4. [Use input and logic to turn on an LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#4-use-input-and-logic-to-turn-on-an-led)
+5. [Read from a sensor](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#5-read-from-a-sensor)
+6. [Use sensor info to manipulate LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#6-use-sensor-info-to-manipulate-led)
+7. [Use any sensor in the kit](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#7-use-any-sensor-in-the-kit)
+8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#8-answers)
 
 *Throughout this week's guide we will be going back to circuits completed in earlier sections to build on them. Make sure not to take them apart!*
 
