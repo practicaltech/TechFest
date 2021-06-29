@@ -147,13 +147,22 @@ Just how we took the button reading to turn on an LED, we will use the ultrasoni
 **Instructions:**
 
 <ol type='i'>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Look back on the code we built to turn on an LED at the press of a button.</li>
+  <li>Combine the button>LED code with the example code for the ultrasonic sensor. What areas of the code do we need to modify? This is not easy, start piece by piece and be sure to checkout the hints at the end. Starting from the top, make sure you have all the declarations you need (libraries, pin numbers {that match the wiring}, variables).</li>
+  <li>Test, troubleshoot, test, checkout the hints, troubleshoot, and test again!</li>
 </ol>
+<br>
 
-### x. Answers
+### 7. Use any sensor in the kit
+
+Now that you've succesfully troubleshooted through the use of a sensor in the kit (downloaded necessary files to run it, captured information with it, and utilized the information received from it) choose a different component from the kit and test it! As you get more comfortable integrating different components, you will see how they can interact with each other and be used for a variety of purposes. Good luck, you got this.
+
+Relevant links:
+1. [Elegoo files](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#2-download-elegoo-kit-guides-and-libraries)
+2. [How to download libraries](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/libraries_how_to.md)
+3. [Arduino operators for conditional statements (and, not, or, multiplication, etc.)](https://www.tutorialspoint.com/arduino/arduino_operators.htm)
+
+### 8. Answers
 
 add images on how to open blink and how to swapp led_builtin for 22
 
