@@ -227,9 +227,20 @@ I'll attach my code for this wiring setup within the gathering_4 folder, [Button
 
 #### 5. Read from a sensor
 
-![image](https://user-images.githubusercontent.com/52707386/123848669-d269a900-d8cc-11eb-9b97-592d4c70abc3.png)
+<p align="center"> 
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/52707386/123848669-d269a900-d8cc-11eb-9b97-592d4c70abc3.png">
+  <br>
+  Distance of nearest object to ultrasonic sensor printed in the serial monitor in cm
+   </br><br>
+</p>
+<br>
+<p align="center"> 
+  <img width="300" height="500" src="https://user-images.githubusercontent.com/52707386/123848948-1f4d7f80-d8cd-11eb-8b43-a273c7a118a8.jpg">
+  <br>
+  Code that is printing distance to the serial monitor
+   </br><br>
+</p>
 
-![InkedScreenshot 2021-06-29 132647_LI](https://user-images.githubusercontent.com/52707386/123848948-1f4d7f80-d8cd-11eb-8b43-a273c7a118a8.jpg)
 
 
 
