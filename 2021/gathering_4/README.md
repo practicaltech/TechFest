@@ -183,7 +183,7 @@ https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-
 
 <br>
 
-Our board is similar to a battery in the sense that it can provide power, yet it is different in that it can modulate that power, 0-5v, and it can receive, send , and manipulate information.
+Our board is similar to a battery in the sense that it can provide power, yet it is different in that it can modulate that power, 0-5v, and it can receive, send, and manipulate information.
 
 <br>
 
