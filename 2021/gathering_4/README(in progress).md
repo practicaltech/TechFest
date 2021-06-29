@@ -15,7 +15,9 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 5. [Read from a sensor]()
 6. [Use sensor info to manipulate LED]()
 7. [Use any sensor in the kit]()
-8. [Answers]()
+8. [Answers & hints]()
+
+*Throughout this week's guide we will be going back to circuits completed in earlier sections to build on them. Make sure not to take them apart after every section!*
 
 
 ### 1. Turn on an external LED with the board 
@@ -60,7 +62,7 @@ The serial monitor allows us to communicate with our board as a process is being
   <img src="https://user-images.githubusercontent.com/52707386/123526291-be833480-d68b-11eb-9099-2015741f205e.jpg"> 
   <br>
   <br>
-  <li>Upload your code (Ctrl + U or click on the right arrow below the header)</li>
+  <li>Upload your code (Ctrl + U or click on the right arrow below the header). Make sure the board is connected. <i>Keep the circuit from the last step intact, it won't affect this program.</i></li>
   <li>Open the serial monitor (Ctrl + Shift + M)</li>
   <b>Congratulations! You've joined millions of hobbyists and engineers in succesfully communicating with your device in code.</b>
   <i>Sometimes the print statement will not be visible in the serial monitor. Look at the end of this file for tips and tricks to make sure you're always able to read what you print to the serial monitor.</i>
@@ -78,10 +80,49 @@ We've used our digital I/O pins as I/**O**(output) when we used our board to con
 **Instructions:**
 
 <ol type="i">
-  <li></li>
-  <li></li>
+  <li>Replace the LED in the circuit your created in part 1 with a button. <i>Look at last week's gathering to see how to connect a button</i></li>
+  <li>Open up the code you used to turn on the LED in part 1.</li>
+  <li>Switch <code>pinMode(22, OUTPUT);</code> to <code>pinMode(22, INPUT);</code></li>
+  <li>Switch <code>digitalWrite(22, HIGH);</code> to <code>serial.println(digitalRead(22));</code></li>
+  <li>Upload the code</li>
+  <li>Switch the black wire to 5v. We do this <i>after</i> we change the code so as to not send a voltage signal to a pin we programmed as OUTPUT (this causes problems).</li>
+  <li>Open up the serial monitor (Ctrl + Shift + M), what do you see? Re-upload the code if you need to.</li>
 </ol>
 <br>
+
+
+### 4. Use input and logic to turn on an LED
+
+Now that we know how to input and output information from/to our board, we will start adding some logic to manipulate the information passing through.
+
+**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit](), an LED (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Tie inputs and outputs together to understand the flow of information and actuation (read an input, add logic to the information gathered, and turn on an LED with it).
+
+**Instructions:**
+
+<ol type='i'>
+  <li>Recreate the circuit from part 1 on a seperate set of pins on the board. Keep the button circuit intact.</li>
+  <li>Next, we need to add a conditional logic statement to turn on the LED when the button is pressed. What did we read on the serial monitor when reading for the button in part 3?</li>
+  <li>Knowing what was received we can incorporate it into an <b>if</b> statement. 'If the button equals x reading, then turn on the LED.' Try and see if you can write this statement in Arduino before you look at the solution at the bottom. Here's a link to <a href="https://www.arduino.cc/reference/en/language/structure/control-structure/if/">conditional statements in Arduino.</li>
+  <li>Upload your code and press the button to see if it works!</li>
+</ol>
+<br>
+
+
+### 5. Read from a sensor
+
+Having completed the schema of going from information in, logic, then information out, we will be going back to 'information in' with sensors.
+
+**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit](), an LED (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Learn how different sensors are read by the IDE and learn how to capture this information for our own uses.
+
+**Instructions:**
+
+<ol type='i'>
+  <li></li>
+  <li></li>
 
 ### x. Answers
 
@@ -99,3 +140,6 @@ https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3">gathering_3</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
+
+
+for # 3 add pull down stuff to
