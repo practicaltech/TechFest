@@ -165,7 +165,7 @@ Relevant links:
 
 <br>
 
-### 8. Answers
+### 8. Answers & hints
 
 #### 1. Turn on an external LED with the board
 
