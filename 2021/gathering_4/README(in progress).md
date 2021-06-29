@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 7. [Use any sensor in the kit]()
 8. [Answers & hints]()
 
-*Throughout this week's guide we will be going back to circuits completed in earlier sections to build on them. Make sure not to take them apart after every section!*
+*Throughout this week's guide we will be going back to circuits completed in earlier sections to build on them. Make sure not to take them apart!*
 
 
 ### 1. Turn on an external LED with the board 
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 ### 2. Hello World: using the serial monitor
 
-The serial monitor allows us to communicate with our board as a process is being run. The serial monitor can both show and read text. It can show us words and numbers the process running on the board is printing and we can type in the serial monitor to send commands to our board.It is an invaluable tool for interacting with our board, whether to debug, read sensor values, send commands, etc.
+The serial monitor allows us to communicate with our board as a process is being run. The serial monitor can both show and read text. It can show us words and numbers and we can type in the serial monitor to send commands to our board. It is an invaluable tool for interacting with our board, whether to debug, read sensor values, send commands, etc.
 
 *[History blurb on 'Hello, World!'](https://ozanerhansha.medium.com/on-the-origin-of-hello-world-61bfe98196d5)*
 
@@ -104,7 +104,7 @@ Now that we know how to input and output information from/to our board, we will 
 <ol type='i'>
   <li>Recreate the circuit from part 1 on a seperate set of pins on the board. Keep the button circuit intact.</li>
   <li>Next, we need to add a conditional logic statement to turn on the LED when the button is pressed. What did we read on the serial monitor when reading for the button in part 3?</li>
-  <li>Knowing what was received we can incorporate it into an <b>if</b> statement. 'If the button equals x reading, then turn on the LED.' Try and see if you can write this statement in Arduino before you look at the solution at the bottom. Here's a link to <a href="https://www.arduino.cc/reference/en/language/structure/control-structure/if/">conditional statements in Arduino.</li>
+  <li>Knowing what was received we can incorporate it into an <b>if</b> statement. 'If the button equals x reading, then turn on the LED.' Try and see if you can write this statement in Arduino before you look at the solution at the bottom. Here's a link to <a href="https://www.arduino.cc/reference/en/language/structure/control-structure/if/">conditional statements in Arduino.</a></li>
   <li>Upload your code and press the button to see if it works!</li>
 </ol>
 <br>
@@ -114,15 +114,44 @@ Now that we know how to input and output information from/to our board, we will 
 
 Having completed the schema of going from information in, logic, then information out, we will be going back to 'information in' with sensors.
 
-**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit](), an LED (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+*You can take apart your previous circuits for this portion*
+
+**Materials:** Ultrasonic sensor (included in kit), Jumper wires (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
 
 **Objective:** Learn how different sensors are read by the IDE and learn how to capture this information for our own uses.
 
 **Instructions:**
 
 <ol type='i'>
+  <li>Navigate to lesson 10 of the Elegoo PDF (Ultrasonic sensor module) on page 10.</li>
+  <li>Follow the wiring diagram to connect the sensor module to the board.</li>
+  <li>Install the necessary library. For information on how to do this checkout <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/libraries_how_to.md#how-to-add-libraries-to-the-arduino-ide">libraries_how_to</a>. Click on the hyperlink for <b>Zip</b> libraries. The HC-SR04 library for this sensor can be found in the Elegoo folder we downloaded under 'libraries.' For information on how to re-download the Elegoo files, checkout <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_1/README.md#2-download-elegoo-kit-guides-and-libraries">gathering_1</a></li>  
+<img width="500" height="300" src="https://user-images.githubusercontent.com/52707386/123834636-7a2aab00-d8bc-11eb-83fd-447428a3f85c.png">
+  <br>
+  <br>
+<img width="500" height="300" src="https://user-images.githubusercontent.com/52707386/123834964-d5f53400-d8bc-11eb-8f20-76955d6f24fa.jpg">
+  <br>
+  <li>From the same Elegoo file folder, go to 'code'>'Lesson 10 Ultraso...'>'SR04_Example', open the file and run the code. If prompted to make a file for the file, click yes.</li>
+  <li>Run the code and open the serial monitor. How is the data presented in the serial monitor? Can you track what part of the code is printing this data?</li>
+</ol>
+<br>
+
+### 6. Use sensor info to manipulate LED
+
+Just how we took the button reading to turn on an LED, we will use the ultrasonic sensor to do the same.
+
+**Materials:** Ultrasonic sensor (included in kit), Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit), an LED (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+
+**Objective:** Learn how to interpret and utilize data from different sensors.
+
+**Instructions:**
+
+<ol type='i'>
   <li></li>
   <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 ### x. Answers
 
