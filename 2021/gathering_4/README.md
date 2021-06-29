@@ -8,6 +8,8 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 # Sensors galore: gather information, add logic, visualize results
 
+*When in doubt, check out the 'Answers & hints' section*
+
 1. [Turn on an external LED with the board](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#1-turn-on-an-external-led-with-the-board)
 2. [Hello World: using the serial monitor](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#2-hello-world-using-the-serial-monitor)
 3. [Read an input with the board (button)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#3-read-an-input-with-the-board-button)
