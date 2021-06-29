@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 3. [Read an input with the board (button)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#3-read-an-input-with-the-board-button)
 4. [Use input and logic to turn on an LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#4-use-input-and-logic-to-turn-on-an-led)
 5. [Read from a sensor](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#5-read-from-a-sensor)
-6. [Use sensor info to manipulate LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#6-use-sensor-info-to-manipulate-led)
+6. [Use sensor info to manipulate an LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#6-use-sensor-info-to-manipulate-an-led)
 7. [Use any sensor in the kit](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#7-use-any-sensor-in-the-kit)
 8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README(in%20progress).md#8-answers)
 
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 
 ### 1. Turn on an external LED with the board 
 
-**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit](), an LED (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+**Materials:** Jumper wires (included in kit), atleast 1 220Ω resistor (included in kit) [how to choose a resistor for your circuit (for the specifics of your LED, lookup 'Red LED datasheet' on google](https://forum.digikey.com/t/choosing-the-correct-resistor-for-your-led/183), an LED (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
 
 **Objective:** Learn how to output signals with your board (0-5V signals).
 
@@ -136,7 +136,7 @@ Having completed the schema of going from information in, logic, then informatio
 </ol>
 <br>
 
-### 6. Use sensor info to manipulate LED
+### 6. Use sensor info to manipulate an LED
 
 Just how we took the button reading to turn on an LED, we will use the ultrasonic sensor to do the same.
 
@@ -164,13 +164,33 @@ Relevant links:
 
 ### 8. Answers
 
-add images on how to open blink and how to swapp led_builtin for 22
+1. Turn on an external LED with the board
+
+![Screenshot 2021-06-29 121212](https://user-images.githubusercontent.com/52707386/123839875-80238a80-d8c2-11eb-8a8f-a42a34e89ad3.png)
+
+<br>Then swap <code>LED_BUILTIN</code> swapped out for <code>22</code>
+
+![InkedScreenshot 2021-06-29 121521_LI](https://user-images.githubusercontent.com/52707386/123840462-312a2500-d8c3-11eb-904e-712f1dbba4f2.jpg)
+
+<br> Run the code
 
 https://user-images.githubusercontent.com/52707386/122322170-e4654800-ced9-11eb-9a82-7d2d8731caa5.mp4
 
 <div align="center"><i>Make sure the pin you connect to on the board matches that of the code!!!</i></div>
 
 <br>
+
+Our board is similar to a battery in the sense that it can provide power, yet it is different in that it can modulate that power, 0-5v, and it can receive, send , and manipulate information.
+
+<br>
+
+2. Hello World: using the serial monitor
+
+Information on printing 'hello world' to the serial monitor succesfully [here](https://github.com/practicaltech/TechFest/blob/master/2019/gathering_1/FAQ.md).
+
+<br>
+
+3. 
 
 
 
