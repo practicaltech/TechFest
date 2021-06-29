@@ -221,26 +221,32 @@ As you might have noticed, the code offered for part 3 includes the turning on o
 
 ![Inked20210629_131057_LI](https://user-images.githubusercontent.com/52707386/123847469-78b4af00-d8cb-11eb-9b42-39e5324323c2.jpg)
 
-I'll attach my code for this wiring setup within the gathering_4 folder, [Button_customGS](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/Button_customGS.ino).
+The code for this wiring setup can be found within the gathering_4 folder,  [Button_customGS](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/Button_customGS.ino).
 
 <br>
 
 #### 5. Read from a sensor
 
 <p align="center"> 
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/52707386/123848669-d269a900-d8cc-11eb-9b97-592d4c70abc3.png">
+  <img width="550" height="300" src="https://user-images.githubusercontent.com/52707386/123848669-d269a900-d8cc-11eb-9b97-592d4c70abc3.png">
   <br>
   Distance of nearest object to ultrasonic sensor printed in the serial monitor in cm
    </br><br>
 </p>
 <br>
 <p align="center"> 
-  <img width="300" height="500" src="https://user-images.githubusercontent.com/52707386/123848948-1f4d7f80-d8cd-11eb-8b43-a273c7a118a8.jpg">
+  <img width="450" height="500" src="https://user-images.githubusercontent.com/52707386/123848948-1f4d7f80-d8cd-11eb-8b43-a273c7a118a8.jpg">
   <br>
   Code that is printing distance to the serial monitor
    </br><br>
 </p>
+<br>
 
+#### 6. Use sensor info to manipulate an LED
+
+![Inked20210629_134129_LI](https://user-images.githubusercontent.com/52707386/123851015-8f5d0500-d8cf-11eb-9b13-b3f1026ac346.jpg)
+
+The code for this wiring setup can be found within the gathering_4 folder, 
 
 
 
