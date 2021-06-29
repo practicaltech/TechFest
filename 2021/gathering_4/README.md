@@ -83,7 +83,7 @@ We've used our digital I/O pins as I/**O**(output) when we used our board to con
   <li>Replace the LED in the circuit your created in part 1 with a button. <i>Look at last week's gathering to see how to connect a button</i></li>
   <li>Open up the code you used to turn on the LED in part 1.</li>
   <li>Switch <code>pinMode(22, OUTPUT);</code> to <code>pinMode(22, INPUT);</code></li>
-  <li>Switch <code>digitalWrite(22, HIGH);</code> to <code>serial.println(digitalRead(22));</code></li>
+  <li>Switch <code>digitalWrite(22, HIGH);</code> to <code>Serial.println(digitalRead(22));</code></li>
   <li>Upload the code</li>
   <li>Switch the black wire to 5v. We do this <i>after</i> we change the code so as to not send a voltage signal to a pin we programmed as OUTPUT (this causes problems).</li>
   <li>Open up the serial monitor (Ctrl + Shift + M), what do you see? Re-upload the code if you need to.</li>
@@ -203,9 +203,25 @@ Noise in this case is any unintended voltage being read by our input pin. Uninte
   <b><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Arduino wiring diagram and guide</a></b><br>Make sure you connect to pin 22 instead of the one in this wiring diagram 
    </br><br>
 </p>
+
+<p align="center"> 
+  <img width="650" height="300" src="https://user-images.githubusercontent.com/52707386/123845089-a2200b80-d8c8-11eb-9d79-638e525d1d9e.png"> 
+  <br>
+  Button press displayed in the serial monitor (1 = pressed, 0 = unpressed).
+   </br><br>
+</p>
+
 <br>
 
-#### 4. 
+#### 4. Use input and logic to turn on an LED
+
+As you might have noticed, the code offered for part 3 includes the turning on of an LED. Instead of printing to the serial monitor the state of the button, it turns on the built-in LED on pin 13. It is good to see how the board receives information and how it can be manipulated. Look at the diagram above, and then add the circuit you had built earlier for the external LED. On the original Arduino 'button' code, **change 13** to your LED's pin and make sure the button input pin matches your wiring.
+
+![image](https://user-images.githubusercontent.com/52707386/123846430-363ea280-d8ca-11eb-83af-7091a837fce8.png)
+
+![Inked20210629_131057_LI](https://user-images.githubusercontent.com/52707386/123847469-78b4af00-d8cb-11eb-9b42-39e5324323c2.jpg)
+
+I'll attach my code for this wiring setup within the gathering_4 folder, 
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5">gathering_5</a></b>
