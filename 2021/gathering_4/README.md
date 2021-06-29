@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/52707386/122319796-f9d87300-ced5-11eb-
 5. [Read from a sensor](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#5-read-from-a-sensor)
 6. [Use sensor info to manipulate an LED](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#6-use-sensor-info-to-manipulate-an-led)
 7. [Use any sensor in the kit](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#7-use-any-sensor-in-the-kit)
-8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#8-answers)
+8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#8-answers--hints)
 
 *Throughout this week's guide we will be going back to circuits completed in earlier sections to build on them. Make sure not to take them apart!*
 
