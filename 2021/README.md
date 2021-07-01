@@ -6,7 +6,7 @@
 
 - [Item list](https://github.com/practicaltech/TechFest/blob/master/2021/TechFest2021_ItemList.md)
 - [Resources (**In progress**)]()
-- [Intern projects (**In progress**)]()
+- [Intern projects (**In progress**)](https://github.com/practicaltech/TechFest/edit/master/2021/intern_projects/submitted_ideas.md)
 -----------------------------
 &nbsp;&nbsp; **Gatherings**
 - (6/08/21) [gathering_1 **(Intro to Microcontrollers)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_1)
