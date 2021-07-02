@@ -7,6 +7,6 @@
 5. [Automatic plant watering system](https://create.arduino.cc/projecthub/neetithakur/automatic-plant-watering-system-usin[…]no-uno-8764ba?ref=platform&ref_id=424_trending___&offset=127)
 6. Camera trap
 7. Camera stream
-8. 
+8. [Smartphone controlled Arduino car](https://create.arduino.cc/projecthub/andriy-baranov/smartphone-controlled-arduino-4wd-robot-car-14d239?ref=platform&ref_id=424_trending___&offset=92)
 
 
