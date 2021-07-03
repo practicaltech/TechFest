@@ -5,9 +5,33 @@
 
 # Communication
 
+1. [Signals]()
+2. [Digital]()
+3. [Analog]()
+4. [Pseudo-analog]()
+5. [PWM]()
+6. [I2C]()
+7. [SPI]()
 
 
 
+### 1. Signals
+
+**Definition:** a detectable physical quantity or impulse (such as a voltage, current, or magnetic field strength) by which messages or information can be transmitted ([Merriam-Webster](https://www.merriam-webster.com/dictionary/signal#:~:text=a%20detectable%20physical%20quantity%20or%20impulse%20(such%20as%20a%20voltage%2C%20current%2C%20or%20magnetic%20field%20strength)%20by%20which%20messages%20or%20information%20can%20be%20transmitted))
+
+**Definition 2 (generalized):** time varying quantity. In other words, something that changes, whose change is interpreted as information. E.g. morse code (beeps that vary), speech (vibrations that vary), etc (cause i'm out of ideas).
+
+<br>
+
+### 2. Digital
+
+
+
+**Materials:** 
+
+**Objective:** 
+
+**Instructions:**
 
 
 
