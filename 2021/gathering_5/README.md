@@ -65,7 +65,7 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
   <li>Go back to the circuit you put together in the previous example.</li>
   <li>Switch the input pin to an analog capable pin (a pin labeled A1, A2, etc.). I.e. switch the wire connecting to Pin 8 to a pin starting with A.</li>
   <p align="center"> 
-    <img width="600" height="700" src="https://user-images.githubusercontent.com/52707386/124668245-6c00ff80-de65-11eb-988b-7535536c1dc5.png">
+    <img width="700" height="700" src="https://user-images.githubusercontent.com/52707386/124668245-6c00ff80-de65-11eb-988b-7535536c1dc5.png">
     <br>
     This is called a <b>pinout</b>. This is the <a href="https://store.arduino.cc/usa/mega-2560-r3">Mega 2560 Rev 3 Pinout</a> by Arduino.
     </br><br>
