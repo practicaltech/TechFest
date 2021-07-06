@@ -35,7 +35,7 @@ Digital is discrete and finite. When combined with our previous definition, a di
 **Instructions:**
 
 <ol type="i">
-  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and upload the <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/Button_Pin8.ino">Button_Pin8</a> code above.</li>
+  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and upload the <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/Button_Pin8.ino">Button_Pin8</a> code above. Either download the file or copy the code to a new Arduino sketch.</li>
   <p align="center"> 
   <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124528344-ce51f580-ddbc-11eb-8c1d-f18acb4423e2.jpg">
   <br>
@@ -45,6 +45,11 @@ Digital is discrete and finite. When combined with our previous definition, a di
 
   <li>Open the serial monitor (Ctrl + Shift + M) and look at how each button press is read. What are the possible values? What does each represent in terms of voltage (<a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#:~:text=When%20pressed%2C%20the%20button%20will%20close%20the%20circuit%20and%20allow%20for%20current%20to%20flow.%20When%20left%20unpushed%2C%20the%20normally%20open%20(NO)%20button%20will%20create%20a%20gap%20in%20the%20circuit%2C%20preventing%20the%20flow%20of%20current.">think back</a> to what a button does and what pressing it would cause in the circuit).</li>
 
+<br>
+01001000 01100101 01101100 01101100 01101111 00100000 01110100 01101000 01100101 01110010 01100101
+<br>
+
+### 3. Analog
 
 
 
