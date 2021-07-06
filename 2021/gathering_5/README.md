@@ -35,7 +35,7 @@ Digital is discrete and finite. When combined with our previous definition, a di
 **Instructions:**
 
 <ol type="i">
-  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and upload the <a href="">button_custom</a> code above.</li>
+  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and upload the <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/Button_Pin8.ino">Button_Pin8</a> code above.</li>
   <p align="center"> 
   <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124528344-ce51f580-ddbc-11eb-8c1d-f18acb4423e2.jpg">
   <br>
