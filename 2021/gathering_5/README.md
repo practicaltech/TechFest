@@ -35,7 +35,7 @@ Digital is discrete and finite. When combined with our previous definition, a di
 **Instructions:**
 
 <ol type="i">
-  <li>Go back to the button circuit we put together last week. If you took it apart, either follow <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">this guide</a> from Arduino, or follow <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#3-read-an-input-with-the-board-button">step 3</a> from last week.</li>
+  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and look for the <a href="">button_custom</a> code above.</li>
   <li>Open the serial monitor and look at how each button press is read. What are the range of values? What does each represent in terms of voltage?</li>
 
 
