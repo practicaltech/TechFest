@@ -3,7 +3,9 @@
 <br/>
 <sup>gathering_5</sup></p>
 
-# Communication
+# Communication (understanding voltage signals/robospeek) 
+
+*When in doubt, check out the 'Answers & hints' section*
 
 1. [Signals (definition)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
 2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
