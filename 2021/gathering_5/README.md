@@ -55,11 +55,11 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
 
 {button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
 
-**Materials:** 10k potentiometer (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+**Materials:** Photoresistor (included in kit), 10k potentiometer (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
 
 **Objective:** Understand the basics of what an analog signal is as well as how it differs from a digital signal.
 
-**Instructions:**
+**Instructions (Part 1):**
 
 <ol type="i">
   <li>Go back to the circuit you put together in the previous step.</li>
@@ -71,7 +71,28 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
     This is called a <b>pinout</b>. This is the <a href="https://store.arduino.cc/usa/mega-2560-r3">Mega 2560 Rev 3 Pinout</a> by Arduino. Pinouts are invaluable tools for learning where each pin is located and what it's capable of.
     </br><br>
    </p>
-  <li>Change <code>const int buttonPin = 8</code> to <code>const int buttonPin = A(number you chose)</code> </li>
+  <li>Make a copy of the code we used for the previous step.</li>
+  <li>In the copy of the previous code:</li>
+  <ul>
+    <li>change <code>const int buttonPin = 8;</code> to <code>const int buttonPin = A(number you chose);</code></li>
+  <li>change <code> buttonState = <b>digital</b>Read(buttonPin);</code> to <code> buttonState = <b>analog</b>Read(buttonPin);</code></li>
+  </ul>
+  <li>Upload the code (make sure the correct board and port are selected) and open the serial monitor.</li>
+  <li>What values do you see when you press the button? How are they different from the values in the previous example?</li>
+  <li>What do you need to change in the code for the on-board LED to light up?</li>
+</ol>
+<br>
+
+**Instructions (Part 2):**
+
+<ol type="i">
+  <li>Disconnect your board from your computer.</li>
+  <li>Replace the button in your circuit with a photoresistor.</li>
+  <li>Reconnect your board, upload your code (make sure port and board are selected and correct), and open the serial monitor.</li>
+  <li>What values do you see on the serial monitor?</li>
+  <li>Try covering the photoresistor with your hand. How do the values change? What is the ultimate range of values you can see? Can the printed value be any number between that range?</li>
+  <li>Looking at the values printed on the serial monitor, is the signal received by the board analog or digital?</li>
+ 
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
