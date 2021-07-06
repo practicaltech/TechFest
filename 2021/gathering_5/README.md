@@ -19,20 +19,24 @@
 
 <dl>
   <dt>Defition</dt>
-    <dd>Signals are "time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, just think of them as a voltage that's changing over time" <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
+    <dd>Signals are "time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, <b>just think of them as a voltage that's changing over time</b>" <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
 </dl>
 For our purposes, a signal is a change in voltage.
 <br>
 
 ### 2. Digital
 
+Digital is discrete and finite. When combined with our previous definition, a digital signal is a voltage that changes between a set of discrete values over time. Before we go any further with a definition we'll go back to a circuit we put together last week to illustrate the concept.
 
+**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
 
-**Materials:** 
-
-**Objective:** 
+**Objective:** Understand what type of signal we are receiving when we read a button press with our board.
 
 **Instructions:**
+
+<ol type="i">
+  <li>Go back to the button circuit we put together last week. If you took it apart, either follow <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">this guide</a> from Arduino, or follow <a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_4/README.md#3-read-an-input-with-the-board-button">step 3</a> from last week.</li>
+  <li>Open the serial monitor and look at how each button press is read. What are the range of values? What does each represent in terms of voltage?</li>
 
 
 
