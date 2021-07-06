@@ -5,13 +5,14 @@
 
 # Communication
 
-1. [Signals](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
-2. [Digital](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
-3. [Analog](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
-4. [Pseudo-analog]()
-5. [PWM]()
-6. [I2C]()
-7. [SPI]()
+1. [Signals (definition)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
+2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
+3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
+4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
+5. [Pseudo-analog]()
+6. [PWM]()
+7. [I2C]()
+8. [SPI]()
 
 
 
