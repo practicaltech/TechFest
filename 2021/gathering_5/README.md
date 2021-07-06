@@ -11,7 +11,7 @@
 2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
 3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
 4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
-5. [Pseudo-analog]()
+5. [Pseudo-analog (ADCs and what microcontrollers communicate in)]()
 6. [PWM]()
 7. [I2C]()
 8. [SPI]()
