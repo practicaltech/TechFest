@@ -51,7 +51,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 
 ### 3. Analog
 
-Analog is continuous and infinite. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. To help illustrate the concept, we can think of sound and color as analog. There are an infinite number of frequencies and hues.
+Analog is continuous and infinite. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. To help illustrate the concept, sound and color are analog; there are an infinite number of frequencies and hues.
 
 {button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
 
@@ -62,15 +62,16 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
 **Instructions:**
 
 <ol type="i">
-  <li>Go back to the circuit you put together in the previous example.</li>
+  <li>Go back to the circuit you put together in the previous step.</li>
+  <li><b>Disconnect your board from your computer.</b> It is good practice to cutoff power to any electrical system while you're working on it. In our case, we don't want to output power to a pin that has been programmed to output power as well (this can damage components).</li>
   <li>Switch the input pin to an analog capable pin (a pin labeled A1, A2, etc.). I.e. switch the wire connecting to Pin 8 to a pin starting with A.</li>
   <p align="center"> 
     <img width="700" height="700" src="https://user-images.githubusercontent.com/52707386/124668245-6c00ff80-de65-11eb-988b-7535536c1dc5.png">
     <br>
-    This is called a <b>pinout</b>. This is the <a href="https://store.arduino.cc/usa/mega-2560-r3">Mega 2560 Rev 3 Pinout</a> by Arduino.
+    This is called a <b>pinout</b>. This is the <a href="https://store.arduino.cc/usa/mega-2560-r3">Mega 2560 Rev 3 Pinout</a> by Arduino. Pinouts are invaluable tools for learning where each pin is located and what it's capable of.
     </br><br>
    </p>
-
+  <li>Change <code>const int buttonPin = 8</code> to <code>const int buttonPin = A(number you chose)</code> </li>
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
