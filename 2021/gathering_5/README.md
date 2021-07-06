@@ -21,12 +21,12 @@
   <dt>Defition</dt>
     <dd>Signals are "time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, <b>just think of them as a voltage that's changing over time</b>" <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
 </dl>
-For our purposes, a signal is a change in voltage.
+<i>For our purposes, a signal is a change in voltage over time</i>
 <br>
 
 ### 2. Digital
 
-Digital is discrete and finite. When combined with our previous definition, a digital signal is a voltage that changes between a set of discrete values over time. Before we go any further with a definition we'll go back to a circuit we put together last week to illustrate the concept.
+Digital is discrete and finite. When combined with our previous definition, a <b>digital signal</b> is a voltage that changes between a set of discrete values over time. Before we go any further with a definition, we'll go back to a circuit we put together last week to illustrate the concept.
 
 **Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
 
@@ -51,18 +51,25 @@ Digital is discrete and finite. When combined with our previous definition, a di
 
 ### 3. Analog
 
-Analog is continuous and infinite. An analog voltage signal can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. In the real world, sound and color are analog. There are an infinite number of frequencies and hues.
+Analog is continuous and infinite. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. To help illustrate the concept, we can think of sound and color as analog. There are an infinite number of frequencies and hues.
 
 {button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
 
-**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+**Materials:** 10k potentiometer (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
 
-**Objective:** Understand what type of signal we are receiving when we read a button press with our board.
+**Objective:** Understand the basics of what an analog signal is as well as how it differs from a digital signal.
 
 **Instructions:**
 
-
-
+<ol type="i">
+  <li>Go back to the circuit you put together in the previous example.</li>
+  <li>Switch the input pin to an analog capable pin (a pin labeled A1, A2, etc.). I.e. switch the wire connecting to Pin 8 to a pin starting with A.</li>
+  <p align="center"> 
+    <img width="600" height="700" src="https://user-images.githubusercontent.com/52707386/124668245-6c00ff80-de65-11eb-988b-7535536c1dc5.png">
+    <br>
+    This is called a <b>pinout</b>. This is the <a href="https://store.arduino.cc/usa/mega-2560-r3">Mega 2560 Rev 3 Pinout</a> by Arduino.
+    </br><br>
+   </p>
 
 
 
