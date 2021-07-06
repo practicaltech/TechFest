@@ -51,6 +51,19 @@ Digital is discrete and finite. When combined with our previous definition, a di
 
 ### 3. Analog
 
+Analog is continuous and infinite. An analog voltage signal can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. In the real world, sound and color are analog. There are an infinite number of frequencies and hues.
+
+{button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
+
+**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+
+**Objective:** Understand what type of signal we are receiving when we read a button press with our board.
+
+**Instructions:**
+
+
+
+
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
