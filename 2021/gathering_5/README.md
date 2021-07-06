@@ -8,7 +8,7 @@
 1. [Signals (definition)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
 2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
 3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
-4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
+4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
 5. [Pseudo-analog]()
 6. [PWM]()
 7. [I2C]()
@@ -16,16 +16,15 @@
 
 
 
-### 1. Signals
+### 1. Signals (definition)
 
 <dl>
-  <dt>Defition</dt>
-    <dd>Signals are "time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, <b>just think of them as a voltage that's changing over time</b>" <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
+    <dd><i>time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, <b>just think of them as a voltage that's changing over time</b> </i><a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
 </dl>
-<i>For our purposes, a signal is a change in voltage over time</i>
+For our purposes, a signal is a change in voltage over time
 <br>
 
-### 2. Digital
+### 2. Digital signals (button revisited)
 
 Digital is discrete and finite. When combined with our previous definition, a <b>digital signal</b> is a voltage that changes between a set of discrete values over time. Before we go any further with a definition, we'll go back to a circuit we put together last week to illustrate the concept.
 
@@ -50,7 +49,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 01001000 01100101 01101100 01101100 01101111 00100000 01110100 01101000 01100101 01110010 01100101
 <br>
 
-### 3. Analog
+### 3. Analog signals
 
 Analog is continuous and infinite. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. To help illustrate the concept, sound and color are analog; there are an infinite number of frequencies and hues.
 
@@ -67,7 +66,7 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
    
 **Objective:** Understand the basics of what an analog signal is as well as how it differs from a digital signal.
 
-**Instructions (Part 1):**
+**Instructions (Part 1: button revisited):**
 
 <ol type="i">
   <li>Go back to the circuit you put together in the previous step.</li>
@@ -91,7 +90,7 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
 </ol>
 <br>
 
-**Instructions (Part 2):**
+**Instructions (Part 2: photocell):**
 
 <ol type="i">
   <li>Disconnect your board from your computer.</li>
