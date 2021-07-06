@@ -35,8 +35,8 @@ Digital is discrete and finite. When combined with our previous definition, a di
 **Instructions:**
 
 <ol type="i">
-  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and look for the <a href="">button_custom</a> code above.</li>
-  <li>Open the serial monitor and look at how each button press is read. What are the range of values? What does each represent in terms of voltage?</li>
+  <li>Go back to the button circuit we put together last week. If you took it apart, replicate the circuit in the image below and upload the <a href="">button_custom</a> code above.</li>
+  <li>Open the serial monitor (Ctrl + Shift + M) and look at how each button press is read. What are the possible values? What does each represent in terms of voltage (<a href="https://github.com/practicaltech/TechFest/blob/master/2021/gathering_3/README.md#:~:text=When%20pressed%2C%20the%20button%20will%20close%20the%20circuit%20and%20allow%20for%20current%20to%20flow.%20When%20left%20unpushed%2C%20the%20normally%20open%20(NO)%20button%20will%20create%20a%20gap%20in%20the%20circuit%2C%20preventing%20the%20flow%20of%20current.">think back</a> to what a button does and what pressing it would cause in the circuit).</li>
 
 
 
