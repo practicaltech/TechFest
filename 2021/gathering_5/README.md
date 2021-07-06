@@ -17,10 +17,11 @@
 
 ### 1. Signals
 
-**Definition:** a detectable physical quantity or impulse (such as a voltage, current, or magnetic field strength) by which messages or information can be transmitted ([Merriam-Webster](https://www.merriam-webster.com/dictionary/signal#:~:text=a%20detectable%20physical%20quantity%20or%20impulse%20(such%20as%20a%20voltage%2C%20current%2C%20or%20magnetic%20field%20strength)%20by%20which%20messages%20or%20information%20can%20be%20transmitted))
-
-**Definition 2 (generalized):** time varying quantity. In other words, something that changes, whose change is interpreted as information. E.g. morse code (beeps that vary), speech (vibrations that vary), etc (cause i'm out of ideas).
-
+<dl>
+  <dt>Defition</dt>
+    <dd>Signals are "time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, just think of them as a voltage that's changing over time" <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
+</dl>
+For our purposes, a signal is a change in voltage.
 <br>
 
 ### 2. Digital
