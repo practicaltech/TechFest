@@ -55,8 +55,15 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
 
 {button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
 
-**Materials:** Photoresistor (included in kit), 10k potentiometer (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+**Materials:** Photoresistor (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
 
+  <p align="center"> 
+    <img width="250" height="300" src="https://user-images.githubusercontent.com/52707386/124678471-6ad8ce00-de77-11eb-828e-799c14986964.jpg">
+    <br>
+    Photoresistor (photocell)
+    </br><br>
+   </p>
+   
 **Objective:** Understand the basics of what an analog signal is as well as how it differs from a digital signal.
 
 **Instructions (Part 1):**
@@ -88,6 +95,12 @@ Analog is continuous and infinite. An <b>analog voltage signal</b> can have any 
 <ol type="i">
   <li>Disconnect your board from your computer.</li>
   <li>Replace the button in your circuit with a photoresistor.</li>
+    <p align="center"> 
+    <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124677882-387aa100-de76-11eb-9e96-2aab95f4cc09.jpg">
+    <br>
+    Circuit with photoresistor (photocell) in place of button. Photoresistors are bi-directional, just like resistors.
+    </br><br>
+   </p>
   <li>Reconnect your board, upload your code (make sure port and board are selected and correct), and open the serial monitor.</li>
   <li>What values do you see on the serial monitor?</li>
   <li>Try covering the photoresistor with your hand. How do the values change? What is the ultimate range of values you can see? Can the printed value be any number between that range?</li>
