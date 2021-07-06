@@ -15,6 +15,7 @@
 6. [PWM]()
 7. [I2C]()
 8. [SPI]()
+9. [Answers & hints]()
 
 
 
