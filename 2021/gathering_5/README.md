@@ -5,9 +5,9 @@
 
 # Communication
 
-1. [Signals]()
-2. [Digital]()
-3. [Analog]()
+1. [Signals](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
+2. [Digital](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
+3. [Analog](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
 4. [Pseudo-analog]()
 5. [PWM]()
 6. [I2C]()
