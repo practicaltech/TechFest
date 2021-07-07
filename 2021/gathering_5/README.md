@@ -107,13 +107,25 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
  
  ### 5. Pseudo-analog (ADCs and what microcontrollers communicate in)
  
-As you saw in the last example, the possible read values for an analog pin on our board are 0-1023 (whole numbers only). This should strike you as strange given that an analog signal should have an infinite number of values and the pin is an analog one. The reason for this phenomenon is that our board can't read in true analog. It uses transistors to seperate the analog values coming in into discrete categories, in this case any number between 0-1023. The system that does this conversion is called an analog to digital converter or ADC for short.
+As you saw in the last example, the possible read values for an analog pin on our board are 0-1023 (whole numbers only). This should strike you as strange given that an analog signal should have an infinite number of values and the pin is an analog one. The reason for this phenomenon is that our board can't read in true analog. It uses transistors to seperate the analog values coming in into discrete categories, in this case any number between 0-1023. The system that does this conversion is called an analog to digital converter or ADC for short. If we look at the pinout image in the previous step we can see the ADC label next to each 'analog' pin.
+
+But why does this happen? In short, our boards are digital systems. They work in discrete signals. To be able to interpret information from analog systems, such as a photoresistor, an ADC is used.
  
-**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+Here are some graphs from Spark Fun that help illustrate the concept (the y-axis is Time (t) and the x-axis is Voltage (v):
 
-**Objective:** Understand what type of signal we are receiving when we read a button press with our board.
+   <p align="center"> 
+    <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124751943-10be2400-dedc-11eb-8a3f-a164c6af4054.png">
+    <br>
+    Graph of an analog voltage signal. The wave is smooth meaning values are continous. <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=Analog%20Signal%20Graphs">Spark Fun</a>
+    </br><br>
+   </p>
+<p align="center"> 
+    <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124752332-93df7a00-dedc-11eb-9652-f83f81e86461.png">
+    <br>
+    Graph of a digital voltage signal. The wave is 'stepped' meaning values are discrete. <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=make%20beautiful%20music.-,Digital%20Signals,-Digital%20signals%20must">Spark Fun</a>
+    </br><br>
+   </p>
 
-**Instructions:**
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
