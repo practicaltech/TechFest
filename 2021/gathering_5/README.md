@@ -15,6 +15,7 @@
 6. [PWM (Part 1: what about 'analog' output? back to our new best friend)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#6-pwm-part-1-what-about-analog-output-back-to-our-new-best-friend)
 7. [PWM (Part 2: Yohan's RGB light guide)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#7-pwm-part-2-yohans-rgb-light-guide)
 8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#8-answers--hints)
+9. [Additional resources]()
 
 
 
@@ -197,6 +198,18 @@ Click on the link title to get started.
 
 **6.vi.** By changing the delays we are modifying the amount of time our signal to the LED is set to HIGH or LOW. If the signal is set to HIGH for longer, the LED will be brighter and vice versa. We are varying the amount of time we are sending either 5v or 0v to our onboard LED, and in doing so, we are creating a false gradient of brightness. A pseudo-analog effect. This same effect can be achieved by using the function <code>analogWrite()</code>. It'll allow us to choose a value between 0-1023 to output, and do so in PWM fashion.
 
+<br>
+
+### 9. Additional resources
+
+<ol>
+    <li><a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all">Spark Fun guide to electrical signals</a></li>
+    <li><a href="https://www.seeedstudio.com/blog/2020/06/16/why-do-you-need-an-analog-to-digital-converter-adc-m/">Seeedstudio guide to analog signals and ADC</a></li>
+    <li><a href="https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/">Arduino info on <code>analogRead</code></a></li>
+    <li><a href="https://www.arduino.cc/en/Tutorial/Foundations/AnalogInputPins">Arduino info on ADC</a></li>
+    <li><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput">Arduino guide for analog inputs</a> (also a good guide for photocells and potentiometers)</li>
+    <li><a href="https://www.rapidtables.com/convert/number/ascii-to-binary.html">Rapid Tables binary to text converter</a></li>
+    
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
 <br/>
