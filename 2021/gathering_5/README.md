@@ -142,13 +142,16 @@ Nevertheless, this is all for reading information, the input side of our analog 
 
 <ol type ="i">
     <li>Open the example 'blink' from your Arduino IDE (File > Examples > 01.Basics > Blink).</li>
-    <li>Change the value of the <code>delay(1000);</code> after <code>digitalWrite(LED_BUILTIN, LOW);</code> to 0. Upload the program (Ctrl + U) and look at the built-in LED </li>
-    <li>Switch the <code>delay(1000)</code> functions to <code>delayMicroseconds(1000)</code> and change the value of the one you had at 0 to 10000</li>
-    <li>Upload the program (Ctrl + U). Look at the built-in LED. Does the LED look the same?</li>
+    <li>Change the value of the <code>delay(1000);</code> after <code>digitalWrite(LED_BUILTIN, LOW);</code> to 0. Upload the program (Ctrl + U) and look at the built-in LED. </li>
+    <li>Switch the <code>delay()</code> functions to <code>delayMicroseconds()</code> and change the value of the one you had at 0 to 10000</li>
+    <li>Upload the program. Look at the built-in LED. Does the LED look the same?</li>
     <li>Try varying the values of either of the delays, what happens to the LED?</li>
+    <li>What are you doing by changing the delays?</li>
 </ol>
-
 <br>
+What we're looking at, and working with, is pulse width modulation (PWM). It is our board's way of digitally sending out and interpreting signals that are not 1s or 0s in 1s and 0s. Yohan has awesome graphs and more information on the subject that will help you picture and understand the concept better. 
+
+*To check which of your pins support PWM, look for the PWM label on the pinout or side of your board.*
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
