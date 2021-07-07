@@ -11,10 +11,10 @@
 2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
 3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
 4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
-5. [Pseudo-analog (ADCs and what microcontrollers communicate in)]()
-6. [PWM (Part 1: what about 'analog' output? back to our new best friend)]()
+5. [Pseudo-analog (ADCs and what microcontrollers communicate in)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5#5-pseudo-analog-adcs-and-what-microcontrollers-communicate-in)
+6. [PWM (Part 1: what about 'analog' output? back to our new best friend!)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5#6-pwm-part-1-what-about-analog-output-back-to-our-new-best-friend)
 7. [PWM (Part 2: Yohan's RGB light guide)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide)
-8. [Answers & hints]()
+8. [Answers & hints](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5#8-answers--hints)
 
 
 
@@ -128,23 +128,33 @@ Here are some graphs from Spark Fun that help illustrate the concept (the y-axis
     </br><br>
    </p>
 
-Our board uses an ADC to read the top graph signal and convert it into something that looks like the bottom graph signal. Our board does this because it can only communicate in 1s and 0s. It is converting the information into something it can manage. The range for the data coming in is dependent on the resolution of our ADC. Our board's pins are 10bit. If we calculate 2^(our resolution) = 2^10 = 1024. We see 0-1023 because 0 counts as a value. Different boards and ADCs have different resolutions, follow 2^(bits) to figure out the resolution.
+Our board uses an ADC to read the top graph signal and convert it into something that looks like the bottom graph signal (there's a step missing that we will talk about next). Our board does this because it can only communicate in 1s and 0s. It is converting the information into something it can manage. The range for the data coming in is dependent on the resolution of our ADC. Our board's pins are 10bit. If we calculate 2^(our resolution) = 2^10 = 1024. We see 0-1023 because 0 counts as a value. Different boards and ADCs have different resolutions, follow 2^(bits) to figure out the resolution.
 
 Nevertheless, this is all for reading information, the input side of our analog pins.
 
-### 6. PWM (part 1: what about 'analog' output? back to our new best friend)
+### 6. PWM (part 1: what about 'analog' output? back to our new best friend!)
 
-**Materials:** Red LED, jumper wires, breadboard, Arduino Mega2560, computer, and USB to USB A/B cable. 
+**Materials:** Arduino Mega2560, computer, and USB to USB A/B cable. 
 
 **Objective:** Understand the basics of pulse width modulation (PWM) and how it enables our board to communicate in values seemingly different than '1'(HIGH) or '0'(LOW).
 
 **Instructions:**
 
+<ol type ="i">
+    <li>Open the example 'blink' from your Arduino IDE (File > Examples > 01.Basics > Blink).</li>
+    <li>Change the value of the <code>delay(1000);</code> after <code>digitalWrite(LED_BUILTIN, LOW);</code> to 0. Upload the program (Ctrl + U) and look at the built-in LED </li>
+    <li>Switch the <code>delay(1000)</code> functions to <code>delayMicroseconds(1000)</code> and change the value of the one you had at 0 to 10000</li>
+    <li>Upload the program (Ctrl + U). Look at the built-in LED. Does the LED look the same?</li>
+    <li>Try varying the values of either of the delays, what happens to the LED?</li>
+</ol>
+
 <br>
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
-Click on the link title ^
+Get ready for some potentiometer and RGB action! hint: the pot is wired, and works, similarly to a photoresistor.
+
+Click on the link title.
 
 <br>
 
