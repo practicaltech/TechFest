@@ -134,6 +134,8 @@ Our board uses an ADC to read the top graph signal and convert it into something
 
 Nevertheless, this is all for reading information, the input side of our analog pins.
 
+<br>
+
 ### 6. PWM (part 1: what about 'analog' output? back to our new best friend!)
 
 **Materials:** Arduino Mega2560, computer, and USB to USB A/B cable. 
@@ -156,6 +158,8 @@ What we're looking at, and working with, is pulse width modulation (PWM). It is 
 
 
 *To check which of your pins support PWM, look for the PWM label on the pinout or side of your board.*
+
+<br>
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
