@@ -3,7 +3,7 @@
 <br/>
 <sup>gathering_5</sup></p>
 
-# Communication (understanding our board's robospeek) 
+# Communication: understanding our board's robospeek 
 
 *When in doubt, check out the 'Answers & hints' section*
 
