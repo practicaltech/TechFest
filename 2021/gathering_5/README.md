@@ -24,6 +24,7 @@
     <dd><i>time-varying 'quantities' which convey some sort of information. In electrical engineering the quantity that's time-varying is usually voltage (if not that, then usually current). So when we talk about signals, <b>just think of them as a voltage that's changing over time</b> </i><a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=time-varying%20%22quantities%22%20which%20convey%20some%20sort%20of%20information.%20In%20electrical%20engineering%20the%20quantity%20that%27s%20time-varying%20is%20usually%20voltage%20(if%20not%20that%2C%20then%20usually%20current).%20So%20when%20we%20talk%20about%20signals%2C%20just%20think%20of%20them%20as%20a%20voltage%20that%27s%20changing%20over%20time.">(Spark Fun).</a></dd>
 </dl>
 For our purposes, a signal is a change in voltage over time
+
 <br>
 
 ### 2. Digital signals (button revisited)
@@ -49,6 +50,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 
 <br>
 01001000 01100101 01101100 01101100 01101111 00100000 01110100 01101000 01100101 01110010 01100101
+
 <br>
 
 ### 3. Analog signals (Part 1: button revisited)
@@ -88,6 +90,7 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
   <li>What values do you see when you press the button? How are they different from the values in the previous example?</li>
   <li>What do you need to change in the code for the on-board LED to light up?</li>
 </ol>
+
 <br>
 
 ### 4. Analog signals (Part 2: photocell)
@@ -107,6 +110,7 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
   <li>What values do you see on the serial monitor?</li>
   <li>Try covering the photoresistor with your hand. How do the values change? What is the ultimate range of values you can see? Can the printed value be any number between that range?</li>
   <li>Looking at the values printed on the serial monitor, is the signal received by the board analog or digital?</li>
+
 <br>
 
 ### 5. Pseudo-analog (ADCs and what microcontrollers communicate in)
@@ -193,8 +197,6 @@ Click on the link title to get started.
 
 **6.vi.** By changing the delays we are modifying the amount of time our signal to the LED is set to HIGH or LOW. If the signal is set to HIGH for longer, the LED will be brighter and vice versa. We are varying the amount of time we are sending either 5v or 0v to our onboard LED, and in doing so, we are creating a false gradient of brightness. A pseudo-analog effect. This same effect can be achieved by using the function <code>analogWrite()</code>. It'll allow us to choose a value between 0-1023 to output, and do so in PWM fashion.
 
-<br>
-<br>
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
 <br/>
