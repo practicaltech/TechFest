@@ -29,7 +29,7 @@ For our purposes, a signal is a change in voltage over time
 
 Digital is discrete and finite. When combined with our previous definition, a <b>digital signal</b> is a voltage that changes between a set of discrete values over time. Before we go any further with a definition, we'll go back to a circuit we put together last week to illustrate the concept.
 
-**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+**Materials:** Jumper wires, a button, breadboard, Arduino Mega2560, computer, and USB to USB A/B cable. 
 
 **Objective:** Understand what type of signal we are receiving when we read a button press with our board.
 
@@ -54,7 +54,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 
 Analog is continuous and infinite. Color and sound are analog, there are an infinite number of values for hues and frequencies. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v.
 
-**Materials:** Photoresistor (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
+**Materials:** Photoresistor, jumper wires, a button, breadboard, Arduino Mega2560, computer, and USB to USB A/B cable.
 
   <p align="center"> 
     <img width="250" height="300" src="https://user-images.githubusercontent.com/52707386/124678471-6ad8ce00-de77-11eb-828e-799c14986964.jpg">
@@ -131,13 +131,23 @@ Our board uses an ADC to read the top graph signal and convert it into something
 
 Nevertheless, this is all for reading information, the input side of our analog pins.
 
-### 6. PWM (What about 'analog' output?) (Part 1: Back to our best friend!)
+### 6. PWM (What about 'analog' output?) (Part 1: Back to our new best friend!)
 
-**Materials:** Red LED (included in kit), jumper wires (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+**Materials:** Red LED, jumper wires, breadboard, Arduino Mega2560, computer, and USB to USB A/B cable. 
 
 **Objective:** Understand the basics of pulse width modulation (PWM) and how it enables our board to communicate in values seemingly different than '1'(HIGH) or '0'(LOW).
 
 **Instructions:**
+
+<br>
+
+### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
+
+Click on the link title ^
+
+<br>
+
+### 8. Answers & hints
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
