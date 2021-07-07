@@ -152,7 +152,6 @@ Nevertheless, this is all for reading information, the input side of our analog 
 
 What we're looking at, and working with, is pulse width modulation (PWM). It is our board's way of digitally sending out and interpreting signals that are not 1s or 0s in 1s and 0s. Yohan has awesome graphs and more information on the subject that will help you picture and understand the concept better. 
 
-<br>
 
 *To check which of your pins support PWM, look for the PWM label on the pinout or side of your board.*
 
