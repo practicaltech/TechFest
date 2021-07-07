@@ -12,8 +12,9 @@
 3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
 4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
 5. [Pseudo-analog (ADCs and what microcontrollers communicate in)]()
-6. [PWM]()
-7. [Answers & hints]()
+6. [PWM (Part 1: what about 'analog' output? back to our new best friend)]()
+7. [PWM (Part 2: Yohan's RGB light guide)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide)
+8. [Answers & hints]()
 
 
 
@@ -131,7 +132,7 @@ Our board uses an ADC to read the top graph signal and convert it into something
 
 Nevertheless, this is all for reading information, the input side of our analog pins.
 
-### 6. PWM (What about 'analog' output?) (Part 1: Back to our new best friend!)
+### 6. PWM (part 1: what about 'analog' output? back to our new best friend)
 
 **Materials:** Red LED, jumper wires, breadboard, Arduino Mega2560, computer, and USB to USB A/B cable. 
 
