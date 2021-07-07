@@ -104,14 +104,15 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
   <li>What values do you see on the serial monitor?</li>
   <li>Try covering the photoresistor with your hand. How do the values change? What is the ultimate range of values you can see? Can the printed value be any number between that range?</li>
   <li>Looking at the values printed on the serial monitor, is the signal received by the board analog or digital?</li>
+<br>
+
+### 5. Pseudo-analog (ADCs and what microcontrollers communicate in)
  
- ### 5. Pseudo-analog (ADCs and what microcontrollers communicate in)
- 
-As you saw in the last example, the possible read values for an analog pin on our board are 0-1023 (whole numbers only). This should strike you as strange given that an analog signal should have an infinite number of values and the pin is an analog one. The reason for this phenomenon is that our board can't read in true analog. It uses transistors to seperate the analog values coming in into discrete categories, in this case any number between 0-1023. The system that does this conversion is called an analog to digital converter or ADC for short. If we look at the pinout image in the previous step we can see the ADC label next to each 'analog' pin.
+As you saw in the last example, the possible read values for an analog pin on our board are 0-1023 (whole numbers only). This should strike you as strange given that an analog signal should have an infinite number of values and the pin is an analog one. The reason for this phenomenon is that our board can't read in true analog. It uses transistors ('gates') to seperate the analog values coming in into discrete categories, in this case any number between 0-1023. The system that does this conversion is called an analog to digital converter or ADC for short. If we look at the pinout image in the previous step we can see the ADC label next to each 'analog' pin.
 
 But why does this happen? In short, our boards are digital systems. They work in discrete signals. To be able to interpret information from analog systems, such as a photoresistor, an ADC is used.
  
-Here are some graphs from Spark Fun that help illustrate the concept (the y-axis is Time (t) and the x-axis is Voltage (v):
+Here are some graphs from Spark Fun that help illustrate the concept (the y-axis is Time (t) and the x-axis is Voltage (v)):
 
    <p align="center"> 
     <img width="700" height="300" src="https://user-images.githubusercontent.com/52707386/124751943-10be2400-dedc-11eb-8a3f-a164c6af4054.png">
@@ -130,7 +131,13 @@ Our board uses an ADC to read the top graph signal and convert it into something
 
 Nevertheless, this is all for reading information, the input side of our analog pins.
 
-### 6. PWM (What about 'analog' output ?)
+### 6. PWM (What about 'analog' output?) (Part 1: Back to our best friend!)
+
+**Materials:** Red LED (included in kit), jumper wires (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+
+**Objective:** Understand the basics of pulse width modulation (PWM) and how it enables our board to communicate in values seemingly different than '1'(HIGH) or '0'(LOW).
+
+**Instructions:**
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
