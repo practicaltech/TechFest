@@ -157,10 +157,11 @@ Click on the link title ^
 **3.viii.** For the built-in LED to light up, switch the conditional statement <code>if (buttonState == HIGH)</code> to <code>if (buttonState == 1023)</code>
 
 
-Analog signals (Part 2: photocell)
+**Analog signals (Part 2: photocell)**
 
 **3.part2.iv.** The serial monitor should show some whole number between 0-1023.
 **3.part2.v.** As light to the photoresistor decreases, the number on the serial monitor should also decrease and vice versa. The range of values should include any whole number between 0-1023 (light permitting). As hinted in the previous answer, the printed values can only be 'whole' numbers. The values can not be any number within 0-1023 such as 14.784.
+
 **3.part2.vi.** The signal interpreted by the board and printed to the serial monitor is digital even though the photocell is an analog component.
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
