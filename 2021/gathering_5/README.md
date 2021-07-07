@@ -105,6 +105,15 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
   <li>Try covering the photoresistor with your hand. How do the values change? What is the ultimate range of values you can see? Can the printed value be any number between that range?</li>
   <li>Looking at the values printed on the serial monitor, is the signal received by the board analog or digital?</li>
  
+ ### 5. Pseudo-analog (ADCs and what microcontrollers communicate in)
+ 
+As you saw in the last example, the possible read values for an analog pin on our board are 0-1023 (whole numbers only). This should strike you as strange given that an analog signal should have an infinite number of values and the pin is an analog one. The reason for this phenomenon is that our board can't read in true analog. It uses transistors to seperate the analog values coming in into discrete categories, in this case any number between 0-1023. The system that does this conversion is called an analog to digital converter or ADC for short.
+ 
+**Materials:** Jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit). 
+
+**Objective:** Understand what type of signal we are receiving when we read a button press with our board.
+
+**Instructions:**
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
