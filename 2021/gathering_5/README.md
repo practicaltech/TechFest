@@ -157,7 +157,7 @@ What we're looking at, and working with, is pulse width modulation (PWM). It is 
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
-Get ready for some potentiometer and RGB action! hint: the pot is wired, and works, similarly to a photoresistor.
+Get ready for some potentiometer and RGB action! *hint: the pot is wired, and works, similarly to a photoresistor.*
 
 Click on the link title.
 
@@ -179,7 +179,7 @@ Click on the link title.
 
 **3.part2.vi.** The signal interpreted by the board and printed to the serial monitor is digital even though the photocell is an analog component.
 
-**6.iv.** The LED should look dimmer when the delay after setting the LED to LOW is increased.
+**6.iv.** The LED should look dimmer when the delay, after setting the LED to LOW function (<code>digitalWrite(pin, LOW)</code>), is increased.
 
 **6.v.** As the delays are changed the LED should vary in brightness, depending on the delay modified.
 
