@@ -159,9 +159,11 @@ What we're looking at, and working with, is pulse width modulation (PWM). It is 
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
-Get ready for some potentiometer and RGB action! *hint: the pot is wired, and works, similarly to a photoresistor.*
+Get ready for some potentiometer and RGB action! 
 
-Click on the link title.
+*hint: the pot is wired, and works, similarly to a photoresistor.*
+
+Click on the link title to get started.
 
 <br>
 
