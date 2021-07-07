@@ -142,9 +142,9 @@ Nevertheless, this is all for reading information, the input side of our analog 
 
 <ol type ="i">
     <li>Open the example 'blink' from your Arduino IDE (File > Examples > 01.Basics > Blink).</li>
-    <li>Change the value of the <code>delay(1000);</code> after <code>digitalWrite(LED_BUILTIN, LOW);</code> to 0. Upload the program (Ctrl + U) and look at the built-in LED. </li>
-    <li>Switch the <code>delay()</code> functions to <code>delayMicroseconds()</code> and change the value of the one you had at 0 to 10000</li>
-    <li>Upload the program. Look at the built-in LED. Does the LED look the same?</li>
+    <li>Change the value of the <code>delay(1000);</code> after <code>digitalWrite(LED_BUILTIN, LOW);</code> to 0 and upload the program (Ctrl + U). Look at the built-in LED. </li>
+    <li>Switch the <code>delay()</code> functions to <code>delayMicroseconds()</code> and change the value of the one you had at 0 to 10000.</li>
+    <li>Upload the program and look at the built-in LED. Does the LED look the same?</li>
     <li>Try varying the values of either of the delays, what happens to the LED?</li>
     <li>What are you doing by changing the delays?</li>
 </ol>
@@ -176,6 +176,15 @@ Click on the link title.
 **3.part2.v.** As light to the photoresistor decreases, the number on the serial monitor should also decrease. Conversely, the number should increase, as light to the photocell increases. The range of values read should include any whole number between 0-1023 (light permitting). As hinted in the previous answer, the printed values can only be 'whole' numbers. The values can't be any number within 0-1023, e.g. the value can't be 14.784.
 
 **3.part2.vi.** The signal interpreted by the board and printed to the serial monitor is digital even though the photocell is an analog component.
+
+**6.iv.** The LED should look dimmer when the delay after setting the LED to LOW is increased.
+
+**6.v.** As the delays are changed the LED should vary in brightness, depending on the delay modified.
+
+**6.vi.** By changing the delays we are modifying the amount of time our signal to the LED is set to HIGH or LOW. If the signal is set to HIGH for longer, the LED will be brighter and vice versa. We are varying the amount of time we are sending either 5v or 0v to our onboard LED, and in doing so, we are creating a false gradient of brightness. A pseudo-analog effect. This same effect can be achieved by using the function <code>analogWrite()</code>. It'll allow us to choose a value between 0-1023 to output, and do so in PWM fashion.
+
+<br>
+<br>
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
 <br/>
