@@ -15,7 +15,7 @@
 6. [PWM (Part 1: what about 'analog' output? back to our new best friend)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#6-pwm-part-1-what-about-analog-output-back-to-our-new-best-friend)
 7. [PWM (Part 2: Yohan's RGB light guide)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#7-pwm-part-2-yohans-rgb-light-guide)
 8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#8-answers--hints)
-9. [Additional resources]()
+9. [Additional resources](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#9-additional-resources)
 
 
 
@@ -202,11 +202,11 @@ Click on the link title to get started.
 
 ### 9. Additional resources
 
-<ol>
+<ol type="i">
     <li><a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all">Spark Fun guide to electrical signals</a></li>
     <li><a href="https://www.seeedstudio.com/blog/2020/06/16/why-do-you-need-an-analog-to-digital-converter-adc-m/">Seeedstudio guide to analog signals and ADC</a></li>
-    <li><a href="https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/">Arduino info on <code>analogRead</code></a></li>
     <li><a href="https://www.arduino.cc/en/Tutorial/Foundations/AnalogInputPins">Arduino info on ADC</a></li>
+    <li><a href="https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/">Arduino info on <code>analogRead</code></a></li>
     <li><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput">Arduino guide for analog inputs</a> (also a good guide for photocells and potentiometers)</li>
     <li><a href="https://www.rapidtables.com/convert/number/ascii-to-binary.html">Rapid Tables binary to text converter</a></li>
     
