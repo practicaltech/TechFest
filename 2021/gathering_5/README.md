@@ -114,18 +114,23 @@ But why does this happen? In short, our boards are digital systems. They work in
 Here are some graphs from Spark Fun that help illustrate the concept (the y-axis is Time (t) and the x-axis is Voltage (v):
 
    <p align="center"> 
-    <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124751943-10be2400-dedc-11eb-8a3f-a164c6af4054.png">
+    <img width="700" height="300" src="https://user-images.githubusercontent.com/52707386/124751943-10be2400-dedc-11eb-8a3f-a164c6af4054.png">
     <br>
     Graph of an analog voltage signal. The wave is smooth meaning values are continous. <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=Analog%20Signal%20Graphs">Spark Fun</a>
     </br><br>
    </p>
 <p align="center"> 
-    <img width="700" height="500" src="https://user-images.githubusercontent.com/52707386/124752332-93df7a00-dedc-11eb-9652-f83f81e86461.png">
+    <img width="700" height="300" src="https://user-images.githubusercontent.com/52707386/124752332-93df7a00-dedc-11eb-9652-f83f81e86461.png">
     <br>
     Graph of a digital voltage signal. The wave is 'stepped' meaning values are discrete. <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital/all#:~:text=make%20beautiful%20music.-,Digital%20Signals,-Digital%20signals%20must">Spark Fun</a>
     </br><br>
    </p>
 
+Our board uses an ADC to read the top graph signal and convert it into something that looks like the bottom graph signal. Our board does this because it can only communicate in 1s and 0s. It is converting the information into something it can manage. The range for the data coming in is dependent on the resolution of our ADC. Our board's pins are 10bit. If we calculate 2^(our resolution) = 2^10 = 1024. We see 0-1023 because 0 counts as a value. Different boards and ADCs have different resolutions, follow 2^(bits) to figure out the resolution.
+
+Nevertheless, this is all for reading information, the input side of our analog pins.
+
+### 6. PWM (What about 'analog' output ?)
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
