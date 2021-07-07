@@ -13,9 +13,7 @@
 4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
 5. [Pseudo-analog (ADCs and what microcontrollers communicate in)]()
 6. [PWM]()
-7. [I2C]()
-8. [SPI]()
-9. [Answers & hints]()
+7. [Answers & hints]()
 
 
 
@@ -54,9 +52,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 
 ### 3. Analog signals
 
-Analog is continuous and infinite. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v. To help illustrate the concept, sound and color are analog; there are an infinite number of frequencies and hues.
-
-{button (analog read) -> photocell -> why are there only x amount of values -> PWM & Yohan's guide}
+Analog is continuous and infinite. Color and sound are analog, there are an infinite number of values for hues and frequencies. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v.
 
 **Materials:** Photoresistor (included in kit), jumper wires (included in kit), a button (included in kit), breadboard (included in kit), Arduino Mega2560 (included in kit), computer (with Arduino IDE installed), and USB to USB A/B cable (included in kit).
 
