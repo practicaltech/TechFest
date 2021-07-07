@@ -27,7 +27,7 @@ Here is a basic tutorial to introduce the idea of PWM, RGB colorspaces and loops
 
 ### 2. Upload and test the code
 
-**Materials:** use the code found here: 
+**Materials:** use the code found [here](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/Yohan's_Guide/RGBfun.ino): 
 
 **Objective:** Test the circuit with the provided code samples
 
