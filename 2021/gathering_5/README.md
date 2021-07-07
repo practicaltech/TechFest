@@ -160,7 +160,7 @@ Click on the link title ^
 **Analog signals (Part 2: photocell)**
 
 **3.part2.iv.** The serial monitor should show some whole number between 0-1023.
-**3.part2.v.** As light to the photoresistor decreases, the number on the serial monitor should also decrease and vice versa. The range of values should include any whole number between 0-1023 (light permitting). As hinted in the previous answer, the printed values can only be 'whole' numbers. The values can not be any number within 0-1023 such as 14.784.
+**3.part2.v.** As light to the photoresistor decreases, the number on the serial monitor should also decrease. Conversely, the number should increase, as light to the photocell increases. The range of values read should include any whole number between 0-1023 (light permitting). As hinted in the previous answer, the printed values can only be 'whole' numbers. The values can't be any number within 0-1023, e.g. the value can't be 14.784.
 
 **3.part2.vi.** The signal interpreted by the board and printed to the serial monitor is digital even though the photocell is an analog component.
 
