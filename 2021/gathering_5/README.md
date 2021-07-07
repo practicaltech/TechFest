@@ -150,6 +150,16 @@ Click on the link title ^
 
 ### 8. Answers & hints
 
+<ol start="2">
+    <li>ii. The possible values for <code>digitalRead()</code> are 0 or 1 == LOW or HIGH == 0v or 5v (when powering with 5v).</li>
+</ol>
+<br>
+<ol start="3">
+    <li>vii. The possible values for <code>analogRead()</code> with our button press are 0 or 1023 == LOW or HIGH == 0v or 5v (when powering with 5v). The values are different in that the HIGH is 1023. Now, there is a range between our LOW and HIGH greater than 1.</li>
+    <li>viii. For the built-in LED to light up, switch the conditional statement <code>if (buttonState == HIGH)</code> to <code>if (buttonState == 1023)</code></li>
+</ol>
+
+Analog signals (Part 2: photocell)
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
 <br/>
