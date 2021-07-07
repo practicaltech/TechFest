@@ -7,9 +7,9 @@
 
 *When in doubt, check out the 'Answers & hints' section*
 
-1. [Signals (definition)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals)
-2. [Digital (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital)
-3. [Analog (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog)
+1. [Signals (definition)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#1-signals-definition)
+2. [Digital signals (button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#2-digital-signals-button-revisited)
+3. [Analog signals (Part 1: button revisited)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#3-analog-signals)
 4. [Analog (Part 2: photocell)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#:~:text=Instructions%20(Part%202)%3A)
 5. [Pseudo-analog (ADCs and what microcontrollers communicate in)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5#5-pseudo-analog-adcs-and-what-microcontrollers-communicate-in)
 6. [PWM (Part 1: what about 'analog' output? back to our new best friend!)](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5#6-pwm-part-1-what-about-analog-output-back-to-our-new-best-friend)
