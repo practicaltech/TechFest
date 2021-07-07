@@ -51,7 +51,7 @@ Digital is discrete and finite. When combined with our previous definition, a <b
 01001000 01100101 01101100 01101100 01101111 00100000 01110100 01101000 01100101 01110010 01100101
 <br>
 
-### 3. Analog signals
+### 3. Analog signals (Part 1: button revisited)
 
 Analog is continuous and infinite. Color and sound are analog, there are an infinite number of values for hues and frequencies. An <b>analog voltage signal</b> can have any value within it's range. E.g. any number between 0 and 5 volts, such as 2.3456345v.
 
@@ -90,7 +90,9 @@ Analog is continuous and infinite. Color and sound are analog, there are an infi
 </ol>
 <br>
 
-**Instructions (Part 2: photocell):**
+### 4. Analog signals (Part 2: photocell)
+
+**Instructions:**
 
 <ol type="i">
   <li>Disconnect your board from your computer.</li>
