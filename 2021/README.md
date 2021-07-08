@@ -5,7 +5,7 @@
 ### Table of Contents:
 
 - [Item list](https://github.com/practicaltech/TechFest/blob/master/2021/TechFest2021_ItemList.md)
-- [Resources (**In progress**)]()
+- [Resources (**In progress**)](https://github.com/practicaltech/TechFest/blob/master/2021/Resources.md)
 - [Intern projects (**In progress**)](https://github.com/practicaltech/TechFest/blob/master/2021/intern_projects/submitted_ideas.md)
 -----------------------------
 &nbsp;&nbsp; **Gatherings (modules)**
