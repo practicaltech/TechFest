@@ -16,6 +16,7 @@
 7. [PWM (Part 2: Yohan's RGB light guide)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#7-pwm-part-2-yohans-rgb-light-guide)
 8. [Answers & hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#8-answers--hints)
 9. [Additional resources](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#9-additional-resources)
+10. [Connecting the pieces (summary of why we've done what we've done and a sneak peek into next week)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5/README.md#10-connecting-the-pieces-summary-of-why-weve-done-what-weve-done-and-a-sneak-peek-into-next-week)
 
 
 
