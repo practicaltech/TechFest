@@ -137,7 +137,7 @@ Here are some graphs from Spark Fun that help illustrate the concept (the y-axis
 
 Our board uses an ADC to read the top graph signal and convert it into something that looks like the bottom graph signal (there's a step missing that we will talk about next). Our board does this because it can only communicate in 1s and 0s. It is converting the information into something it can manage. The range for the data coming in is dependent on the resolution of our ADC. Our board's pins are 10bit. If we calculate 2^(our resolution) = 2^10 = 1024. We see 0-1023 because 0 counts as a value. Different boards and ADCs have different resolutions, follow 2^(bits) to figure out the resolution.
 
-Nevertheless, this is all for reading information, the input side of our analog pins.
+Nevertheless, this is all for reading information, the <i>input</i> side of our analog pins.
 
 <br>
 
