@@ -168,7 +168,7 @@ What we're looking at, and working with, is pulse width modulation (PWM). It is 
 
 ### 7. PWM (Part 2: [Yohan's RGB light guide](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5/Yohan's_Guide))
 
-Get ready for some potentiometer and RGB action! 
+Get ready for some potentiometer and RGB action! This guide reinforces PWM and teaches us about Red Green Blue (RGB) lights and potentiometers in a fun and challenging project style.
 
 *hint: the pot is wired, and works, similarly to a photoresistor.*
 
@@ -209,6 +209,15 @@ Click on the link title to get started.
     <li><a href="https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/">Arduino info on <code>analogRead</code></a></li>
     <li><a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput">Arduino guide for analog inputs</a> (also a good guide for photocells and potentiometers)</li>
     <li><a href="https://www.rapidtables.com/convert/number/ascii-to-binary.html">Rapid Tables binary to text converter</a></li>
+</ol>
+
+<br>
+
+### 10. Connecting the pieces (summary of why we've done what we've done and a sneak peek into next week)
+
+In modules 1-4 we learned how to follow a guide to get any sensor or module in our kit running using example code. We also touched on how to use troubleshooting tools, such as multimeters, to aid us in that process. This week, we looked at basic communication, how electrical components talk to eachother at the foundational level. Why is this useful? It both helps us interface systems together and it sets us up to learn communication protocol. We learned the 'what,' now we will learn the 'how.' More specifically, how 1s and 0s are used to encode information and how that information is moved between systems. We will be looking at serial, I2C, and SPI to learn different communication schemes, some of their pros and cons, and how that allows us interface sensors, motors, valves, etc. The hope with this information is that it'll allow us to integrate and utilize different systems with our board and teach us what we need to do in order to have them all working together in harmony.
+
+
     
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_6">gathering_6</a></b>
