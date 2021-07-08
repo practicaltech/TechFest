@@ -8,5 +8,6 @@
 6. Camera trap
 7. Camera stream
 8. [Smartphone controlled Arduino car](https://create.arduino.cc/projecthub/andriy-baranov/smartphone-controlled-arduino-4wd-robot-car-14d239?ref=platform&ref_id=424_trending___&offset=92)
+9. Device to measure salinity around a system
 
 
