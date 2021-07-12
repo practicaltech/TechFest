@@ -88,8 +88,8 @@ a standardized communication protocol for electronic systems that can allow for 
 | Pros    | Cons |
 | ----------- | ----------- |
 | Global range if connected to internet  | Expensive      |
-| Large amounts of data transfer   |  more power hungry    |
-| Streaming and virtual connection   |     some connections are not secure   |
+| Large amounts of data transfer   |  More power hungry    |
+| Streaming and virtual connection   |     Some connections are not secure   |
 
 <br>
 <b>Some potential uses (including all of the bluetooth uses mentioned above):</b>
