@@ -3,15 +3,17 @@
 <br/>
 <sup>gathering_6</sup></p>
 
-# Wifi or Bluetooth (output)
+# Wifi *or* Bluetooth (output)
 
-This week we will be switching it up a bit. I will offer two challenges for you to choose from and less information to follow with. Nevertheless, I will still supply information and some hints/answers at the end. The goal is to troubleshoot through our chosen challenge with outside resources. There are more ways than one to get to the same result. This week it's all about collaboration and problem solving.
+This week we will be switching it up a bit. I will offer two challenges for you to choose from, and less information to achieve them. Nevertheless, I will still supply information and some hints/answers at the end, but these will not be made public until Thursday. The goal is to troubleshoot through our chosen challenge with outside resources. There are more ways than one to get to the same result. This week it's all about collaboration and problem solving.
 
-*This guide will draw on techniques learned in previous gatherings*
+*This guide will draw on techniques learned in previous gatherings.*
 
-After setting up your new board, choose whether you want to work on Bluetooth or Wifi. I have added some pros and cons to each at the top of their respective sections.
+*'Hints' in this guide (not the ones at the end) are meant to offer information that may help you along while following resources you've found online, they are not meant to be followed as steps, but they do appear in sequential order.*
 
-1. [Prep Arduino Nano IoT 33]()
+After setting up your new board, choose whether you want to work on Bluetooth or Wifi. I have added some pros and cons to each at the top of their respective sections. Full disclosure (for time management), figuring out how Wifi works on our board is a bit more time consuming than bluetooth.
+
+1. [Prep Arduino Nano 33 IoT]()
 2. [Bluetooth (control a light with your phone)]()
 3. [Wifi (control a light from anywhere in the world with your computer)]()
 4. [Answers & Hints]()
@@ -34,18 +36,18 @@ After setting up your new board, choose whether you want to work on Bluetooth or
 
   <ol type="i">
     <li>Navigate to the Nano 33 IoT page by clicking on the link under the image.</li>
-    <li>Find and follow the 'getting started guide.' <b>Or</b>, look up the board name pn your search enginge and follow an independent hobbyists guide (sometimes they are better).</li>
+    <li>Find and follow the 'getting started guide.' <b>Or</b>, look up the board name on your search enginge and follow an independent hobbyists guide (sometimes they are better).</li>
       <ol type="a">
-        <li>If you chose the Arduino guide, follow the programming on 'Desktop IDE' guide.</li>
+        <li>If you chose the Arduino guide, follow the 'Desktop IDE' guide.</li>
       </ol>
-    <li>Figure out how to make the on board LED blink! Look back to previous guides and/or follow the Arduino, Nano 33 IoT, guide's blink.</li>
+    <li>Figure out how to make the on board LED blink! Look back to previous guides and/or follow the Arduino Nano 33 IoT guide's blink.</li>
   </ol>
   
-  Congratulations!! you just got a whole new microcontroller working. The more experience we get with new boards, the more versatile we will become at working with and troubleshooting microcontrollers.
+**Congratulations!!** you just got a whole new microcontroller working. The more experience we get with new boards, the more versatile we will become at working with and troubleshooting microcontrollers.
 
 <br>
 
-### 2. Bluetooth
+### 2. Bluetooth (control a light with your phone)
 
 a standardized communication protocol for electronic systems ([Spark Fun](https://learn.sparkfun.com/tutorials/bluetooth-basics/all)). In other words, it's a way in which electrical systems can speak to eachother wirelessly. It operates at the same band as Wifi (2.4GHz).
 
@@ -75,15 +77,17 @@ a standardized communication protocol for electronic systems ([Spark Fun](https:
         <li>Use the <a href="https://www.google.com/search?q=arduino+nano+33+iot+guide&rlz=1C1NHXL_esMX723MX731&oq=arduino+nano+33+iot+guide&aqs=chrome..69i57j0l4j69i60l3.6049j0j7&sourceid=chrome&ie=UTF-8">Goog</a>. There are more ways than one to make this work.</li>
       </ol>
   <li>The logic for manipulating the LED will have the same structure as our button to LED exercise. Check out this <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Arduino guide on turning on the onboard LED with a button</a> for a refresher.</li>
-  <li>You will most likely have to download at least one library for the Arduino IDE and an app for your phone.</li>
+  <li>You will most likely have to download at least one library for the Arduino IDE and an app for your phone (unless you already have them downloaded).</li>
 
 </ol>
 
 <br>
 
-### 3. Wifi
+### 3. Wifi (control a light from anywhere in the world with your computer)
 
-a standardized communication protocol for electronic systems that can allow for internet connectivity. In other words, it can allow for communication between your devices and a router which is what actually provides access to the internet. Like bluetooth, it uses radio waves at 2.4GHz (can also do 5Ghz (5G)) to send and receive information.
+a standardized communication protocol for electronic systems that can allow for internet connectivity. In other words, Wifi can allow for communication between your devices and a router which is what actually provides access to the internet. Even though we mainly use it to connect to the internet, Wifi allows us to connect a variety of devices to one another. Like bluetooth, it uses radio waves at 2.4GHz (can also do 5Ghz (5G)) to send and receive information.
+
+*[More info on IEEE 802 and what we refer to as 'wifi'](https://searchnetworking.techtarget.com/reference/IEEE-802-Wireless-Standards-Fast-Reference#:~:text=IEEE%20802%20is%20a%20collection,metropolitan%20area%20networks%20(MAN).&text=IEEE%20stands%20for%20Institute%20of%20Electrical%20and%20Electronics%20Engineers.)*
 
 | Pros    | Cons |
 | ----------- | ----------- |
@@ -101,11 +105,26 @@ a standardized communication protocol for electronic systems that can allow for 
 
 **Materials:** Computer, USB to wall outlet plug, Arduino Nano 33 IoT, and USB to Micro USB cable.
 
-**Challenge:** Turn on or off the onboard LED using your computer.
+**Challenge:** Turn on or off the onboard LED using your computer while the board is connected to the internet and disconnected from your computer (physically). To provide power to your board so that it can communicate, you can connect the board to another computer or a USB->Wall outlet adapter (try and make sure it's 5v).
 
 **Hints:**
 
+<ol type="i">
+  <li>Your board will need to be connected to your computer for ID and to download programs to it. While testing code it can be disconnected</li>
+  <li>Follow <a href="https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started">Arduino's guide on downloading and setting up the Arduino IoT Cloud</a></li>
+        <ol type="a">
+          <li>We will need to create an Arduino IoT Cloud account.</li>
+        </ol>
+  <li>After you're board has been recognized and you can program to it, run 'blink' first to test.</li>
+  <li>We will need to create variables in the 'Things' tab, then we will need to create button elements in the 'Dashboards' tab that we will need to 'link' to our variables. The dashboard items, with links to variables, will be what we'll use to control our board. </li>
+  <li>At this point, it may be helpful to look up a guide specific to the IoT Cloud, whether from Arduino or an independent hobbyist, video-format or written.
+</ol>
+
+<br>
+
 ### 4. Answers & Hints
+  
+  Will be posted on Thursday 7/15/21 by 12pm PDT (CA time)
 
 
 
