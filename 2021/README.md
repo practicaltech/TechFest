@@ -14,4 +14,4 @@
 - (6/22/21) [gathering_3 **(Tools of the trade: using a multimeter, reading schematics, buttons & switches)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_3)
 - (6/29/21) [gathering_4 **(Sensors galore: gather information, add logic, visualize results)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_4)
 - (7/08/21) [gathering_5 **(Communication: understanding our board's robospeek)**](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5)
-- (7/13/21) [gathering_6 **(in progress)**]()
+- (7/13/21) [gathering_6 **(Wifi or Bluetooth: sending out information at 2.4GHz)**](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_5)
