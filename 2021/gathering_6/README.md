@@ -130,5 +130,5 @@ a standardized communication protocol for electronic systems that can allow for 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
 <br/>
-Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">gathering_5</a></p>
+Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_5">gathering_5</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
