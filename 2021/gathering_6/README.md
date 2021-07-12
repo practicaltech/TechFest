@@ -13,10 +13,10 @@ This week we will be switching it up a bit. I will offer two challenges for you 
 
 After setting up your new board, choose whether you want to work on Bluetooth or Wifi. I have added some pros and cons to each at the top of their respective sections. Full disclosure (for time management), figuring out how Wifi works on our board is a bit more time consuming than bluetooth.
 
-1. [Prep Arduino Nano 33 IoT]()
-2. [Bluetooth (control a light with your phone)]()
-3. [Wifi (control a light from anywhere in the world with your computer)]()
-4. [Answers & Hints]()
+1. [Prep Arduino Nano 33 IoT](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_6/README.md#1-prep-arduino-nano-33-iot)
+2. [Bluetooth (control a light with your phone)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_6/README.md#2-bluetooth-control-a-light-with-your-phone)
+3. [Wifi (control a light from anywhere in the world with your computer)](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_6/README.md#3-wifi-control-a-light-from-anywhere-in-the-world-with-your-computer)
+4. [Answers & Hints](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_6/README.md#4-answers--hints)
 
 
 ### 1. Prep Arduino Nano 33 IoT
