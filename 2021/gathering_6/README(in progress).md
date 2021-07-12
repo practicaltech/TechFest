@@ -47,7 +47,7 @@ After setting up your new board, choose whether you want to work on Bluetooth or
 
 ### 2. Bluetooth
 
-Is a standardized communication protocol for electronic systems ([Spark Fun](https://learn.sparkfun.com/tutorials/bluetooth-basics/all)). In other words, it's a way in which electrical systems can speak to eachother wirelessly. It operates at the same band as Wifi (2.4GHz).
+a standardized communication protocol for electronic systems ([Spark Fun](https://learn.sparkfun.com/tutorials/bluetooth-basics/all)). In other words, it's a way in which electrical systems can speak to eachother wirelessly. It operates at the same band as Wifi (2.4GHz).
 
 | Pros    | Cons |
 | ----------- | ----------- |
@@ -75,12 +75,41 @@ Is a standardized communication protocol for electronic systems ([Spark Fun](htt
         <li>Use the <a href="https://www.google.com/search?q=arduino+nano+33+iot+guide&rlz=1C1NHXL_esMX723MX731&oq=arduino+nano+33+iot+guide&aqs=chrome..69i57j0l4j69i60l3.6049j0j7&sourceid=chrome&ie=UTF-8">Goog</a>. There are more ways than one to make this work.</li>
       </ol>
   <li>The logic for manipulating the LED will have the same structure as our button to LED exercise. Check out this <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Arduino guide on turning on the onboard LED with a button</a> for a refresher.</li>
+  <li>You will most likely have to download at least one library for the Arduino IDE and an app for your phone.</li>
 
 </ol>
+
+<br>
+
+### 3. Wifi
+
+a standardized communication protocol for electronic systems that can allow for internet connectivity. In other words, it can allow for communication between your devices and a router which is what actually provides access to the internet. Like bluetooth, it uses radio waves at 2.4GHz (can also do 5Ghz (5G)) to send and receive information.
+
+| Pros    | Cons |
+| ----------- | ----------- |
+| Global range if connected to internet  | Expensive      |
+| Large amounts of data transfer   |  more power hungry    |
+| Streaming and virtual connection   |     some connections are not secure   |
+
+<br>
+<b>Some potential uses (including all of the bluetooth uses mentioned above):</b>
+<ol type="i">
+  <li>Streaming live video</li>
+  <li>Control a system (sensor, vehicle, etc.) from anywhere in the world</li>
+  <li>Virtually connect to your system as if you were there physically to troubleshoot and/or modify code</li>
+</ol>
+
+**Materials:** Computer, USB to wall outlet plug, Arduino Nano 33 IoT, and USB to Micro USB cable.
+
+**Challenge:** Turn on or off the onboard LED using your computer.
+
+**Hints:**
+
+### 4. Answers & Hints
+
+
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">gathering_5</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
-
-### 3. Answers & Hints
