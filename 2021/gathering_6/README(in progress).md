@@ -55,10 +55,11 @@ Is a standardized communication protocol for electronic systems ([Spark Fun](htt
 | Low power   | Small amounts of data      |
 | Secure   |        |
 
+<br>
+<b>Some potential uses:</b>
 <ol type="i">
-  Some potential uses:
   <li>Send and receive data from a sensor station</li>
-  <li>Control a car, robot, or robot arm remotely/<li>
+  <li>Control a car, robot, or robot arm remotely</li>
   <li>Send or receive audio signals</li>
 </ol>
 
@@ -73,8 +74,8 @@ Is a standardized communication protocol for electronic systems ([Spark Fun](htt
       <ol type="a">
         <li>Use the <a href="https://www.google.com/search?q=arduino+nano+33+iot+guide&rlz=1C1NHXL_esMX723MX731&oq=arduino+nano+33+iot+guide&aqs=chrome..69i57j0l4j69i60l3.6049j0j7&sourceid=chrome&ie=UTF-8">Goog</a>. There are more ways than one to make this work.</li>
       </ol>
-  <li>Control a car, robot, or robot arm remotely/<li>
-  <li>Send or receive audio signals</li>
+  <li>The logic for manipulating the LED will have the same structure as our button to LED exercise. Check out this <a href="https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button">Arduino guide on turning on the onboard LED with a button</a> for a refresher.</li>
+
 </ol>
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
