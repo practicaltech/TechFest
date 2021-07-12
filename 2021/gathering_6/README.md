@@ -3,7 +3,7 @@
 <br/>
 <sup>gathering_6</sup></p>
 
-# Wifi *or* Bluetooth (output)
+# Wifi *or* Bluetooth (sending *out* information at 2.4GHz)
 
 This week we will be switching it up a bit. I will offer two challenges for you to choose from, and less information to achieve them. Nevertheless, I will still supply information and some hints/answers at the end, but these will not be made public until Thursday. The goal is to troubleshoot through our chosen challenge with outside resources. There are more ways than one to get to the same result. This week it's all about collaboration and problem solving.
 
