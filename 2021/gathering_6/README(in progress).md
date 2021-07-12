@@ -43,18 +43,39 @@ After setting up your new board, choose whether you want to work on Bluetooth or
   
   Congratulations!! you just got a whole new microcontroller working. The more experience we get with new boards, the more versatile we will become at working with and troubleshooting microcontrollers.
 
+<br>
 
-### Bluetooth
+### 2. Bluetooth
 
-Explan
-Pros
-Cons
+Is a standardized communication protocol for electronic systems ([Spark Fun](https://learn.sparkfun.com/tutorials/bluetooth-basics/all)). In other words, it's a way in which electrical systems can speak to eachother wirelessly. It operates at the same band as Wifi (2.4GHz).
 
-**Materials:** Arduino Nano 33 IoT and USB to Micro USB cable.
+| Pros    | Cons |
+| ----------- | ----------- |
+| Low cost  | Short range (<100m)      |
+| Low power   | Small amounts of data      |
+| Secure   |        |
 
-**Objective:** Succesfully communicate with your board by running 'blink' on it.
+<ol type="i">
+  Some potential uses:
+  <li>Send and receive data from a sensor station</li>
+  <li>Control a car, robot, or robot arm remotely/<li>
+  <li>Send or receive audio signals</li>
+</ol>
 
-**Instructions:**
+**Materials:** Smartphone, Arduino Nano 33 IoT, and USB to Micro USB cable.
+
+**Challenge:** Turn on or off the onboard LED using your phone.
+
+**Intro hints:**
+
+<ol type="i">
+  <li>Find a guide for our specific board or a <i>compatible one</i></li>
+      <ol type="a">
+        <li>Use the <a href="https://www.google.com/search?q=arduino+nano+33+iot+guide&rlz=1C1NHXL_esMX723MX731&oq=arduino+nano+33+iot+guide&aqs=chrome..69i57j0l4j69i60l3.6049j0j7&sourceid=chrome&ie=UTF-8">Goog</a>. There are more ways than one to make this work.</li>
+      </ol>
+  <li>Control a car, robot, or robot arm remotely/<li>
+  <li>Send or receive audio signals</li>
+</ol>
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
 <br/>
