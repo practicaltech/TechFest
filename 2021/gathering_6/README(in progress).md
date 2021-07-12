@@ -67,7 +67,7 @@ Is a standardized communication protocol for electronic systems ([Spark Fun](htt
 
 **Challenge:** Turn on or off the onboard LED using your phone.
 
-**Intro hints:**
+**Hints:**
 
 <ol type="i">
   <li>Find a guide for our specific board or a <i>compatible one</i></li>
@@ -82,3 +82,5 @@ Is a standardized communication protocol for electronic systems ([Spark Fun](htt
 <br/>
 Back | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_2">gathering_5</a></p>
 </b><p align="center"><sup>2019-2021 Tech Fest | </sup><a href="https://github.com/practicaltech/TechFest/tree/master/2021#tech-fest-2021-zoomship-round-2"><sup>Table of Contents</sup></a></p>
+
+### 3. Answers & Hints
