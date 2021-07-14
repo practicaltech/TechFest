@@ -177,14 +177,83 @@ To have our board pop up in the port section as recognized we need to make sure 
   </li>
 </ol>
 
-<b>1.iii.</b> Run blink to test for successfull communication
+<b>1.iii.</b> Run blink to test for successful communication
       <p align="center"> 
-        <img width="900" height="350" src="https://user-images.githubusercontent.com/52707386/125680039-f99c5d26-feec-45f8-a047-0c768139b649.png"> 
+        <img width="650" height="350" src="https://user-images.githubusercontent.com/52707386/125680039-f99c5d26-feec-45f8-a047-0c768139b649.png"> 
         <br>
          Path to 'Blink' on the Arduino IDE
         </br><br>
       </p>
+      
+ 2.. Alternate guide to Bluetooth, fast setup and testing
+ <ol type="i">
+  <li>Navigate to the library manager on the IDE</li>
+        <p align="center"> 
+          <img width="600" height="250" src="https://user-images.githubusercontent.com/52707386/125680651-a50ffeed-1f15-423a-9166-22d4cde8ced3.png"> 
+          <br>
+          Path to 'Library Manager' on the IDE
+          </br><br>
+        </p>
+   <li>Type 'ArduinoBLE' in the search bar</li>
+        <p align="center"> 
+          <img width="900" height="500" src="https://user-images.githubusercontent.com/52707386/125681393-2aab8e2e-d7bb-40dd-982f-8d53bf1180ce.png"> 
+          <br>
+          Library manager menu with the target library
+          </br><br>
+        </p>
+   <li>Install the 'ArduinoBLE' libary and restart your Arduino IDE.</li>
+   <li>Navigate to the 'LED' example from the library we just downloaded</li>
+        <p align="center"> 
+          <img width="900" height="500" src="https://user-images.githubusercontent.com/52707386/125681978-0c6f7e59-e867-4bab-a607-5ebd298c38f1.png"> 
+          <br>
+          Path to 'LED'<br>
+          <b>Make sure the Nano 33 IoT is selected in the 'Tools > Board' tab. Otherwise, the library will appear in the 'INCOMPATIBLE' menu within the examples.</b>
+          </br><br>
+        </p>
+    <li>Download the LightBlue app from the app store.</li>
+        <p align="center"> 
+          <img width="700" height="200" src="https://user-images.githubusercontent.com/52707386/125682662-915b6241-3a36-455c-82a2-2722a68cdd2f.png"> 
+          <br>
+          LightBlue app on the google play store
+          </br><br><br>
+          <img width="700" height="200" src="https://user-images.githubusercontent.com/52707386/125682846-782785e5-b0f9-4c8b-baed-d0385cb4cd96.png"> 
+          <br>
+          LightBlue app on the apple store
+          </br><br>
+        </p>
+    <li>Upload the 'LED' sketch on your IDE and open the serial monitor.</li>
+         <p align="center"> 
+          <img width="900" height="160" src="https://user-images.githubusercontent.com/52707386/125683203-6c2a3b54-e86e-4777-875b-f9bc75ebcb9b.png"> 
+          <br>
+          Printout that means Bluetooth is working successfuly on the Nano 33 IoT
+          </br><br>
+        </p>
+    <li>Open the LightBlue app and scan for devices.</li>
+    <li>Select 'LED' in the available devices. A message will appear in the serial monitor once we've connected succesfully (Connected to central: xxxxxx).</li>
+        <p align="center"> 
+          <img width="300" height="700" src="https://user-images.githubusercontent.com/52707386/125685331-b6e3aca7-4065-4670-9338-59cafeba3bd7.jpg"> 
+          <br>
+          LightBlue bluetooth scan menu
+          </br><br>
+        </p>
+    <li>Scroll down to the bottom of the 'LED' device menu.</li>
+    <li>Select the section that says 'Readable, Writeable.'</li>
+        <p align="center"> 
+          <img width="300" height="700" src="https://user-images.githubusercontent.com/52707386/125685474-b2c3771a-212e-44c4-bed3-5f6a927c5616.jpg"> 
+          <br>
+          Write/Read control section starred
+          </br><br>
+        </p>
+    <li>Scroll down to 'WRITTEN VALUES,' enter any number besides 0 and press 'WRITE.'<br>
+If the LED turned ON on your board, congratulations!! You've succesfully controlled your board using Bluetooth. You write 0 to the board to turn the LED off. You can also disconnect the board from your computer and connect it to another device or outlet that supplies power to a USB and test again. See how far away you can control it from.</li>
+<br>
+You have now succefully output information to your board using Bluetooth. Having done this, you can output power to anything connected to your board, whether it's more LEDs or a motor. Try controlling the RGB light with Bluetooth! 
+    
 
+
+       
+
+ </ol>
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
