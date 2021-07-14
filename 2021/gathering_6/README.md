@@ -231,7 +231,7 @@ To have our board pop up in the port section as recognized we need to make sure 
     <li>Open the LightBlue app and scan for devices.</li>
     <li>Select 'LED' in the available devices. A message will appear in the serial monitor once we've connected succesfully (Connected to central: xxxxxx).</li>
         <p align="center"> 
-          <img width="300" height="700" src="https://user-images.githubusercontent.com/52707386/125685331-b6e3aca7-4065-4670-9338-59cafeba3bd7.jpg"> 
+          <img width="300" height="550" src="https://user-images.githubusercontent.com/52707386/125685331-b6e3aca7-4065-4670-9338-59cafeba3bd7.jpg"> 
           <br>
           LightBlue bluetooth scan menu
           </br><br>
@@ -239,13 +239,13 @@ To have our board pop up in the port section as recognized we need to make sure 
     <li>Scroll down to the bottom of the 'LED' device menu.</li>
     <li>Select the section that says 'Readable, Writeable.'</li>
         <p align="center"> 
-          <img width="300" height="700" src="https://user-images.githubusercontent.com/52707386/125685474-b2c3771a-212e-44c4-bed3-5f6a927c5616.jpg"> 
+          <img width="300" height="550" src="https://user-images.githubusercontent.com/52707386/125685474-b2c3771a-212e-44c4-bed3-5f6a927c5616.jpg"> 
           <br>
           Write/Read control section starred
           </br><br>
         </p>
     <li>Scroll down to 'WRITTEN VALUES,' enter any number besides 0 and press 'WRITE.'<br>
-If the LED turned ON on your board, congratulations!! You've succesfully controlled your board using Bluetooth. You write 0 to the board to turn the LED off. You can also disconnect the board from your computer and connect it to another device or outlet that supplies power to a USB and test again. See how far away you can control it from.</li>
+If the LED turned ON on your board, congratulations!! You've succesfully controlled your board using Bluetooth. Write 0 to the board to turn the LED off. You can also disconnect the board from your computer and connect it to another device or outlet that supplies power to a USB and test again. See how far away you can control it from.</li>
 <br>
 You have now succefully output information to your board using Bluetooth. Having done this, you can output power to anything connected to your board, whether it's more LEDs or a motor. Try controlling the RGB light with Bluetooth! 
     
