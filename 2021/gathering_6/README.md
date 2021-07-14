@@ -242,17 +242,16 @@ To have our board pop up in the port section as recognized we need to make sure 
           <img width="300" height="550" src="https://user-images.githubusercontent.com/52707386/125685474-b2c3771a-212e-44c4-bed3-5f6a927c5616.jpg"> 
           <br>
           Write/Read control section starred
+          </br><br><br>
+          <img width="1000" height="500" src="https://user-images.githubusercontent.com/52707386/125686112-19458b59-fe04-4f60-94ef-fae48de322e0.png"> 
+          <br>
+          Alternate app navigation images, from <a href="https://docs.arduino.cc/tutorials/nano-33-iot/Bluetooth#:~:text=Once%20we%20have%20the%20application%20open%2C%20follow%20the%20image%20below%20for%20instructions%3A">Arduino's Nano 33 IoT RGB guide</a> We connect to the 'LED' device instad of the 'Nano 33 IoT' shown in the images.
           </br><br>
         </p>
     <li>Scroll down to 'WRITTEN VALUES,' enter any number besides 0 and press 'WRITE.'<br>
 If the LED turned ON on your board, congratulations!! You've succesfully controlled your board using Bluetooth. Write 0 to the board to turn the LED off. You can also disconnect the board from your computer and connect it to another device or outlet that supplies power to a USB and test again. See how far away you can control it from.</li>
 <br>
 You have now succefully output information to your board using Bluetooth. Having done this, you can output power to anything connected to your board, whether it's more LEDs or a motor. Try controlling the RGB light with Bluetooth! 
-    
-
-
-       
-
  </ol>
 
 
