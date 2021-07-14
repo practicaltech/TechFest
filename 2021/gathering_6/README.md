@@ -185,7 +185,7 @@ To have our board pop up in the port section as recognized we need to make sure 
         </br><br>
       </p>
       
- 2.. Alternate guide to Bluetooth, fast setup and testing
+ <b>2..</b> Alternate guide to Bluetooth, fast setup and testing
  <ol type="i">
   <li>Navigate to the library manager on the IDE</li>
         <p align="center"> 
