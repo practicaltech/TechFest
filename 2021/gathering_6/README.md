@@ -145,7 +145,7 @@ To have our board pop up in the port section as recognized we need to make sure 
       </p>
       <li>Type <b>Nano 33 IoT</b> in the search bar</li>
       <p align="center"> 
-        <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/125668776-9694c9fc-4eed-4939-8844-a7128639f322.png"> 
+        <img width="900" height="350" src="https://user-images.githubusercontent.com/52707386/125668776-9694c9fc-4eed-4939-8844-a7128639f322.png"> 
         <br>
          Driver for Nano 33 IoT with board name underlined
         </br><br>
@@ -153,17 +153,24 @@ To have our board pop up in the port section as recognized we need to make sure 
       <li>Either install the driver by clicking on the install button on the bottom right (does not appear in the image), or make sure the driver says 'INSTALLED.'</li>
       <li> Check your ports again to see if the board appears. Try closing all Arduino files and restarting the IDE. If your board appears, you are done! skip the next two steps.</li>
     </ul>
+    <br>
   <li>Data transfer capable USB to micro USB cable</li>
     <ul>
       <li>If the board still does not appear in the port section, try using a different USB to micro USB cable. Android phone charging cables usually work, the key thing is that they allow for data transfer. Alternatively you can look for these keywords:</li>
         <p align="center"> 
-          <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/125668776-9694c9fc-4eed-4939-8844-a7128639f322.png"> 
+          <img width="700" height="300" src="https://user-images.githubusercontent.com/52707386/125670402-fb32cf4e-1908-496e-8e50-452bb83eccc4.png"> 
           <br>
-          Driver for Nano 33 IoT with board name underlined
+          Data transfer capable USB to micro USB cable. I use these for techfest, Amazon code (ASIN) = B01N9P7AL5.
+          </br><br><br>
+          <img width="700" height="400" src="https://user-images.githubusercontent.com/52707386/125671091-a00b3813-7f20-4c30-8763-acf174304734.png"> 
+          <br>
+          Data transfer capable USB to micro USB cable. From the Arduino Store.
           </br><br>
         </p>
+        <li> Check your ports again with the new cable to see if the board appears. Try closing all Arduino files and restarting the IDE. If your board appears, you are done! skip the next step.</li>
     </ul>
-  <li>Manually reset the board whiel we try to upload code to it</li>
+    <br>
+  <li>If the last two steps didn's work, try manually resetting the board while you upload code to it.</li>
 </ol>
 
 
