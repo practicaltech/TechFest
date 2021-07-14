@@ -124,6 +124,52 @@ a standardized communication protocol for electronic systems that can allow for 
 
 ### 4. Answers & Hints
   
+<b>1.ii.a.</b> Once our Nano 33 IoT is plugged in to your computer, we need to make sure it is being recognized by our computer. We should see this:
+<p align="center"> 
+  <img width="750" height="400" src="https://user-images.githubusercontent.com/52707386/125666437-9d14ade4-3783-428e-a3b9-ad05621e4ea5.png"> 
+  <br>
+  Succesfull recognition of the Nano 33 IoT by the Arduino IDE
+   </br><br>
+</p>
+To have our board pop up in the port section as recognized we need to make sure we <b>A)</b> downloaded the necessary drivers, <b>B)</b> have a data transfer capable USB to micro USB cable, and potentially <b>C)</b> manually reset the board <b>while</b> we try to upload code to it.
+<br>
+<ol type="A">
+  <li>Downloaded the necessary drivers</li>
+    <ul>
+      <li>Navigate to the boards manager in the IDE</li>
+      <p align="center"> 
+        <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/125667909-69dd16b9-6552-4a1a-b9c8-eb95724de2a3.png"> 
+        <br>
+         Boards manager in Arduino IDE
+        </br><br>
+      </p>
+      <li>Type <b>Nano 33 IoT</b> in the search bar</li>
+      <p align="center"> 
+        <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/125668776-9694c9fc-4eed-4939-8844-a7128639f322.png"> 
+        <br>
+         Driver for Nano 33 IoT with board name underlined
+        </br><br>
+      </p>
+      <li>Either install the driver by clicking on the install button on the bottom right (does not appear in the image), or make sure the driver says 'INSTALLED.'</li>
+      <li> Check your ports again to see if the board appears. Try closing all Arduino files and restarting the IDE. If your board appears, you are done! skip the next two steps.</li>
+    </ul>
+  <li>Data transfer capable USB to micro USB cable</li>
+    <ul>
+      <li>If the board still does not appear in the port section, try using a different USB to micro USB cable. Android phone charging cables usually work, the key thing is that they allow for data transfer. Alternatively you can look for these keywords:</li>
+        <p align="center"> 
+          <img width="900" height="400" src="https://user-images.githubusercontent.com/52707386/125668776-9694c9fc-4eed-4939-8844-a7128639f322.png"> 
+          <br>
+          Driver for Nano 33 IoT with board name underlined
+          </br><br>
+        </p>
+    </ul>
+  <li>Manually reset the board whiel we try to upload code to it</li>
+</ol>
+
+
+
+
+
   Will be posted on Thursday 7/15/21 by 12pm PDT (CA time)
 
 
