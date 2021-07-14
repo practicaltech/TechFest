@@ -124,7 +124,7 @@ a standardized communication protocol for electronic systems that can allow for 
 
 ### 4. Answers & Hints
   
-<b>1.ii.a.</b> Once our Nano 33 IoT is plugged in to your computer, we need to make sure it is being recognized by our computer. We should see this:
+<b>1.ii.a.</b> Once our Nano 33 IoT is plugged in to our computer, we need to make sure it is being recognized by our computer. We should see this:
 <p align="center"> 
   <img width="750" height="400" src="https://user-images.githubusercontent.com/52707386/125666437-9d14ade4-3783-428e-a3b9-ad05621e4ea5.png"> 
   <br>
