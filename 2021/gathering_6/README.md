@@ -245,7 +245,7 @@ To have our board pop up in the port section as recognized we need to make sure 
           </br><br><br>
           <img width="1000" height="500" src="https://user-images.githubusercontent.com/52707386/125686112-19458b59-fe04-4f60-94ef-fae48de322e0.png"> 
           <br>
-          Alternate app navigation images, from <a href="https://docs.arduino.cc/tutorials/nano-33-iot/Bluetooth#:~:text=Once%20we%20have%20the%20application%20open%2C%20follow%20the%20image%20below%20for%20instructions%3A">Arduino's Nano 33 IoT RGB guide</a> We connect to the 'LED' device instad of the 'Nano 33 IoT' shown in the images.
+          Alternate app navigation images, from <a href="https://docs.arduino.cc/tutorials/nano-33-iot/Bluetooth#:~:text=Once%20we%20have%20the%20application%20open%2C%20follow%20the%20image%20below%20for%20instructions%3A">Arduino's Nano 33 IoT RGB guide.</a> We connect to the 'LED' device instad of the 'Nano 33 IoT' shown in the images.
           </br><br>
         </p>
     <li>Scroll down to 'WRITTEN VALUES,' enter any number besides 0 and press 'WRITE.'<br>
