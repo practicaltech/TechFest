@@ -170,14 +170,20 @@ To have our board pop up in the port section as recognized we need to make sure 
         <li> Check your ports again with the new cable to see if the board appears. Try closing all Arduino files and restarting the IDE. If your board appears, you are done! skip the next step.</li>
     </ul>
     <br>
-  <li>If the last two steps didn's work, try manually resetting the board while you upload code to it.</li>
+  <li>If the last two steps didn's work, try manually resetting the board while you upload code to it.<br>
+    Here is a 2min video I put together to try and resolve this issue. Even though what was tried in Part 1 of the videos didn't work for me, it might work for you. Let me know if none of the solutions work.<br>
+    Part 1: https://www.youtube.com/watch?v=nL36fS3mPNo<br>
+    Part 2: https://www.youtube.com/watch?v=udmAf8_fNbw<br>
+  </li>
 </ol>
 
-
-
-
-
-  Will be posted on Thursday 7/15/21 by 12pm PDT (CA time)
+<b>1.iii.</b> Run blink to test for successfull communication
+      <p align="center"> 
+        <img width="900" height="350" src="https://user-images.githubusercontent.com/52707386/125680039-f99c5d26-feec-45f8-a047-0c768139b649.png"> 
+        <br>
+         Path to 'Blink' on the Arduino IDE
+        </br><br>
+      </p>
 
 
 
