@@ -318,7 +318,7 @@ You have now succefully output information to your board using Bluetooth. Having
      <li>Once you click on the push button widget, a menu will appear with the option to link a variable on the right hand side. Select 'Link Variable.'</li>
      <li>Within the link variable menu, select your recently created variable and then select 'LINK VARIABLE.'</li>
               <p align="center"> 
-                <img width="700" height="400" src="https://user-images.githubusercontent.com/52707386/125817259-cda297a5-696d-4d9b-9d3c-246b9357966b.png"> 
+                <img width="900" height="300" src="https://user-images.githubusercontent.com/52707386/125817259-cda297a5-696d-4d9b-9d3c-246b9357966b.png"> 
                 <br>
                 Link variables menu
                 </br><br>
