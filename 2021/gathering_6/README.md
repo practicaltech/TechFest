@@ -303,7 +303,7 @@ You have now succefully output information to your board using Bluetooth. Having
    <li>Navigate to the 'Dashboards' tab and select 'BUILD DASHBOARD'</li>
    <li>Select the edit button to create a widget.</li>
               <p align="center"> 
-                <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/125816554-2bed645b-b05f-47e8-bd4c-736b379ebc78.png"> 
+                <img width="700" height="200" src="https://user-images.githubusercontent.com/52707386/125816554-2bed645b-b05f-47e8-bd4c-736b379ebc78.png"> 
                 <br>
                 Edit button within the 'Dashboards' tab
                 </br><br>
