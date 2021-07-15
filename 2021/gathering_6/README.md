@@ -253,6 +253,80 @@ If the LED turned ON on your board, congratulations!! You've succesfully control
 <br>
 You have now succefully output information to your board using Bluetooth. Having done this, you can output power to anything connected to your board, whether it's more LEDs or a motor. Try controlling the RGB light with Bluetooth! 
  </ol>
+<br>
+
+3.ii. Once we've completed steps 1-6 of the <a href="https://docs.arduino.cc/cloud/iot-cloud/tutorials/iot-cloud-getting-started">Arduino IoT Cloud guide</a> (this is the same link as posted in 3.ii.) try running blink from the IoT editor by:
+<ol type="a">
+  <li>Selecting the 'Things' tab at the top</li>
+        <p align="center"> 
+          <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/125812509-9690dac5-ef3a-45df-80b8-e3ae94a62f3a.png"> 
+          <br>
+          'Things' tab menu
+          </br><br>
+        </p>
+  <li>Select your device and click on 'ADD VARIABLE' in the page that appears.</li>
+  <li>In the 'ADD VARIABLE' section we will create the variable for a button we will use to control our board's built-in LED over wifi. Name the variable 'Button_LED' (you can name it anything you'd like, yet this name will be used in the following steps. If you choose a unique name, make sure to keep using it in the following steps) and select the variable type as 'boolean.'</li>
+        <p align="center"> 
+          <img width="800" height="650" src="https://user-images.githubusercontent.com/52707386/125813073-7423f630-d4d3-476a-8b70-9b37a9bdbcc0.png"> 
+          <br>
+          'ADD VARIABLE' menu
+          </br><br>
+        </p>
+  <li>Scroll down to the bottom and select 'ADD VARIABLE.' It should now appear in your 'Variables' menu.</li>
+        <p align="center"> 
+          <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/125813456-ebe84acb-12c2-40d9-bbcc-7b6e69521bda.png"> 
+          <br>
+          'Variables' menu with button variable created and available
+          </br><br>
+        </p>
+  <li>Navigate to the 'Sketch' tab and copy these lines into your code:</li>
+      <ul>
+          <li>In <code>void setup(){</code> after <code>ArduinoCloud.printDebugInfo();</code></li>
+          <li><code>pinMode(LED_BUILTIN, OUTPUT);</code></li>
+          <li><code>digitalWrite(LED_BUILTIN, LOW);</code></li>
+          <br>
+          <li>In <code>void loop(){</code> after <code>ArduinoCloud.update();</code></li>
+          <li><code>if (button_LED == false){</code></li>
+          <li><code>  digitalWrite(LED_BUILTIN, LOW);</code></li>
+          <li><code>}</code></li>
+          <li><code>if (button_LED == true){</code></li>
+          <li><code>  digitalWrite(LED_BUILTIN, HIGH);</code></li>
+          <li><code>}</code></li>
+              <p align="center"> 
+                <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/125815665-e6e41e92-f130-487a-9140-86e56d22369c.png"> 
+                <br>
+                Snippet of code with inserts for LED state change
+                </br><br>
+              </p>
+      </ul>
+   <li>Upload the program by scrolling back to the top of the sketch and selecting the right arrow.</li>
+   <li>Navigate to the 'Dashboards' tab and select 'BUILD DASHBOARD'</li>
+   <li>Select the edit button to create a widget.</li>
+              <p align="center"> 
+                <img width="700" height="350" src="https://user-images.githubusercontent.com/52707386/125816554-2bed645b-b05f-47e8-bd4c-736b379ebc78.png"> 
+                <br>
+                Edit button within the 'Dashboards' tab
+                </br><br>
+              </p>
+    <li>Select 'ADD' and then 'Push Button'</li>
+              <p align="center"> 
+                <img width="300" height="700" src="https://user-images.githubusercontent.com/52707386/125816820-ab52a1b9-7ae5-4e8a-95be-0dd545f493db.png"> 
+                <br>
+                'Widgets' menu
+                </br><br>
+              </p>
+     <li>Once you click on the push button widget, a menu will appear with the option to link a variable on the right hand side. Select 'Link Variable.'</li>
+     <li>Within the link variable menu, select your recently created variable and then select 'LINK VARIABLE.'</li>
+              <p align="center"> 
+                <img width="700" height="400" src="https://user-images.githubusercontent.com/52707386/125817259-cda297a5-696d-4d9b-9d3c-246b9357966b.png"> 
+                <br>
+                Link variables menu
+                </br><br>
+              </p>
+     <li>Select 'DONE'</li>
+     <li>Click on the button in the dashboard<bt><br>
+        Congratulations!!! You've succesfully communicated with your board over wifi. Now, you can try disconnecting it from your computer, finding an alternate power source and testing from a distance. You can also try sending power to different components!</li>    
+</ol>
 
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7">gathering_7</a></b>
