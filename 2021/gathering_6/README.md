@@ -259,7 +259,7 @@ You have now succefully output information to your board using Bluetooth. Having
 <ol type="a">
   <li>Selecting the 'Things' tab at the top</li>
         <p align="center"> 
-          <img width="700" height="200" src="https://user-images.githubusercontent.com/52707386/125812509-9690dac5-ef3a-45df-80b8-e3ae94a62f3a.png"> 
+          <img width="700" height="300" src="https://user-images.githubusercontent.com/52707386/125812509-9690dac5-ef3a-45df-80b8-e3ae94a62f3a.png"> 
           <br>
           'Things' tab menu
           </br><br>
