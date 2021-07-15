@@ -293,7 +293,7 @@ You have now succefully output information to your board using Bluetooth. Having
           <li><code>  digitalWrite(LED_BUILTIN, HIGH);</code></li>
           <li><code>}</code></li>
               <p align="center"> 
-                <img width="900" height="350" src="https://user-images.githubusercontent.com/52707386/125815665-e6e41e92-f130-487a-9140-86e56d22369c.png"> 
+                <img width="900" height="300" src="https://user-images.githubusercontent.com/52707386/125815665-e6e41e92-f130-487a-9140-86e56d22369c.png"> 
                 <br>
                 Snippet of code with inserts for LED state change
                 </br><br>
