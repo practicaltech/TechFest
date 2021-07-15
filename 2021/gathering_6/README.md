@@ -115,7 +115,6 @@ a standardized communication protocol for electronic systems that can allow for 
         <ol type="a">
           <li>We will need to create an Arduino IoT Cloud account.</li>
         </ol>
-  <li>After you're board has been recognized and you can program to it, run 'blink' first to test.</li>
   <li>We will need to create variables in the 'Things' tab, then we will need to create button elements in the 'Dashboards' tab that we will need to 'link' to our variables. The dashboard items, with links to variables, will be what we'll use to control our board. </li>
   <li>At this point, it may be helpful to look up a guide specific to the IoT Cloud, whether from Arduino or an independent hobbyist, video-format or written.
 </ol>
