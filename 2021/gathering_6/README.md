@@ -310,7 +310,7 @@ You have now succefully output information to your board using Bluetooth. Having
               </p>
     <li>Select 'ADD' and then 'Push Button'</li>
               <p align="center"> 
-                <img width="500" height="700" src="https://user-images.githubusercontent.com/52707386/125816820-ab52a1b9-7ae5-4e8a-95be-0dd545f493db.png"> 
+                <img width="550" height="700" src="https://user-images.githubusercontent.com/52707386/125816820-ab52a1b9-7ae5-4e8a-95be-0dd545f493db.png"> 
                 <br>
                 'Widgets' menu
                 </br><br>
