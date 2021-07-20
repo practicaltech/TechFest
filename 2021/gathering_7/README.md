@@ -5,6 +5,8 @@
 
 # Intro to Soldering + Project Start
 
+No guides this week, time to start projects!
+
 1. [Introduction to soldering]()
 2. [Begin project work]()
 
