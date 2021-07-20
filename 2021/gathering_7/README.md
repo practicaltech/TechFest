@@ -20,7 +20,7 @@ We will explore solder's electrical properties as well as how it's used to join 
 
 ### 2. Begin project work
 
-Notes have been posted on the intern_projects folder, in [submitted_ideas](https://github.com/practicaltech/TechFest/blob/master/2021/intern_projects/submitted_ideas.md). Check out the notes, they will help breakdown the project idea into manageable components.
+Notes have been posted on the intern_projects folder, in [submitted_ideas](https://github.com/practicaltech/TechFest/blob/master/2021/intern_projects/submitted_ideas.md). Check out the notes, they will help breakdown projects into manageable pieces.
 
 <br>
 
