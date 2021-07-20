@@ -3,8 +3,20 @@
 <br/>
 <sup>gathering_7</sup></p>
 
-# Project start
+# Intro to Soldering + Project Start
 
+1. [Introduction to soldering]()
+2. [Begin project work]()
+
+### 1. Introduction to Soldering
+
+**Materials:** Soldering kit & LED
+
+We will explore solder's electrical properties as well as how it's used to join components, specifically wire-to-wire and component-to-PCB.
+
+### 2. Begin project work
+
+Notes have been posted on the intern_projects folder within [submitted_ideas](https://github.com/practicaltech/TechFest/blob/master/2021/intern_projects/submitted_ideas.md). Check out the notes, they will help breakdown the project idea into manageable components.
 
 <p align="right">Next | <b><a href="https://github.com/practicaltech/TechFest/tree/master/2021/gathering_8">gathering_8</a></b>
 <br/>
