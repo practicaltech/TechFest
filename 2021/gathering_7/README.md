@@ -14,7 +14,7 @@ No guides this week, time to start projects!
 
 **Materials:** Soldering kit & LED
 
-We will explore solder's electrical properties as well as how it's used to join components, specifically wire-to-wire and component-to-PCB.
+We will explore solder's electrical properties as well as how it's used to join components, specifically: wire-to-wire and component-to-PCB.
 
 <br>
 
