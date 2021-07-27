@@ -33,7 +33,8 @@
     2. PIR sensor (Elegoo lesson 17)
 13. Camera stream
     1. [Tutorial for Arducam setup](https://www.youtube.com/watch?v=hybQpjwJ4aA&t=363s)
-    2. [Code and tutorial for streaming through bluetooth](https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/mini/ArduCAM_Mini_Video_Streaming_Bluetooth/ArduCAM_Mini_Video_Streaming_Bluetooth.ino)
+       1. Follow [this wiring setup](https://github.com/tensorflow/tflite-micro/tree/main/tensorflow/lite/micro/examples/person_detection#running-on-arduino) to use the cam with the Nano 33 IOT
+    3. [Code and tutorial for streaming through bluetooth](https://github.com/ArduCAM/Arduino/blob/master/ArduCAM/examples/mini/ArduCAM_Mini_Video_Streaming_Bluetooth/ArduCAM_Mini_Video_Streaming_Bluetooth.ino)
 15. [Smartphone controlled Arduino car](https://create.arduino.cc/projecthub/andriy-baranov/smartphone-controlled-arduino-4wd-robot-car-14d239?ref=platform&ref_id=424_trending___&offset=92)
     1. Requires a few extra materials, simplified version can be accomplished with motor (forward, back) and servo (turning) from kit (Elegoo lessons 9 and 29)
 17. Device to measure salinity around a system
