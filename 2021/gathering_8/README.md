@@ -3,7 +3,7 @@
 <br/>
 <sup>gathering_8</sup></p>
 
-# Projects continue
+# Project work continues
 
 No guides this week, continue working on projects!
 
