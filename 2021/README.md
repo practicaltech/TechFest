@@ -17,3 +17,4 @@
 - (7/13/21) [gathering_6 **(Wifi *or* Bluetooth: sending *out* information at 2.4GHz)**](https://github.com/practicaltech/TechFest/blob/master/2021/gathering_6)
 - (7/20/21) [gathering_7 **(Intro to Soldering + Project Start)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_7)
 - (7/27/21) [gathering_8 **(Project work continues)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_8)
+- (8/03/21) [gathering_9 **(Project work continues)**](https://github.com/practicaltech/TechFest/tree/master/2021/gathering_9)
